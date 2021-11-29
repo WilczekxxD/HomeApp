@@ -742,7 +742,6 @@ class ChatWindow(Screen):
             chat = rcv()
             chat = chat.split(";")[:-1]
             view = FloatLayout(size_hint=(1, 1))
-            print(chat)
             offsets = [0]
             padding = 10
             msg_list = []
@@ -777,8 +776,6 @@ class ChatWindow(Screen):
                 view.size = (self.chat_h.width, offsets[-1])
                 view.size_hint = (None, None)
                 view.pos = (0, 0)
-                test = Button(pos=(0, 0), size_hint=(0.1, 0.1))
-                test2 = Button(pos=(155, view.height), size_hint=(0.1, 0.1))
                 for i, msg in enumerate(msg_list):
                     label = msg[0]
                     author = msg[1]
@@ -791,8 +788,6 @@ class ChatWindow(Screen):
                     print(label.pos)
                     label.pos_hint = {}
                     view.add_widget(label)
-                view.add_widget(test2)
-                view.add_widget(test)
                 self.chat_h.add_widget(view)
             else:
                 self.chat_h.add_widget(Label(text="there are no messages"))
