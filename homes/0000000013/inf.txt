@@ -1,2 +1,2 @@
 name:test2.3
-users:test2;
+users:test2;test;

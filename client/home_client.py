@@ -808,7 +808,6 @@ class LogInWindow(Screen):
             print(ans)
 
     def on_pre_enter(self, *args):
-        print("entered")
         local_f = open(local_dir, "r")
         lines = local_f.readlines()
         for line in lines:
@@ -881,8 +880,12 @@ class InviteWindow(Screen):
 
     def on_enter(self):
         self.refresh()
-        rf = threading.Thread(target=self.refresh_continously)
+        rf = threading.Thread(target=self.refresh_continuously)
         rf.start()
+
+    def on_leave(self, *args):
+        self.gcode.text = ""
+        self.ghomeIP.text = ""
 
     def refresh(self):
         #local info
@@ -910,7 +913,7 @@ class InviteWindow(Screen):
             scroll_layout.add_widget(label)
         self.code_viewer.add_widget(scroll_layout)
 
-    def refresh_continously(self):
+    def refresh_continuously(self):
         # local info
         local_f = open(local_dir, "r")
         lines = local_f.readlines()
@@ -943,6 +946,8 @@ class InviteWindow(Screen):
             self.code_viewer.add_widget(scroll_layout)
 
     def redeem_code(self):
+        # TODO adding a popup window announcing that one has been added would hel visualy
+        # TODO the success is just not visible enough
         self.feedback.text = "pending"
         if self.gcode.text != "" and self.ghomeIP.text != "":
             local_f = open(local_dir, "r")
