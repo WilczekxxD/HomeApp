@@ -1,0 +1,78 @@
+#PKupiec - Płatki jaglane
+#Lprice
+2,94 ZŁ
+#LMasa
+Waga brutto - 210 g
+#LMarka
+Kupiec
+#LMarka Standaryzowana
+Kupiec
+#LNazwa Produktu Uregulowana Prawnie
+Płatki jaglane
+#LPozostale Informacje
+Jedna porcja dostarcza (~50 g): energia 783 kJ 185 kcal 9%*, w 100 g: 1566 kJ / 370 kcal, *% RWS, *Referencyjna wartość spożycia dla przeciętnej osoby dorosłej (8400 kJ / 2000 kcal),
+#LO Marce
+#ZdrowaRadoscZycia,
+#LKraj Pochodzenia
+Kraj produkcji - Polska
+#LRodzaj Opakowania
+Zgrzewane
+#LMasa Netto
+200 g
+#LPochodzenie
+Wyprodukowano w Polsce
+#LLogotypy Stron Trzecich Cd
+Jakość sprawdzona, Produkcja kontrolowana TÜV Rheinland - www.tuv.com
+#LJednostka Opisowa
+g
+#LSkladniki
+płatki jaglane 100%
+#LInformacje O Recyklingu
+Opakowanie - Nadające się do recyklingu
+#LZalecenia Dla Alergikow
+ZBOŻA zawierające GLUTEN - Może zawierać
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu, szczelnie zamknięte.
+#LPrzygotowanie
+Instrukcje dotyczące przygotowania. Na ciepło. 1. Pół szklanki płatków (ok. 5 łyżek) zalać szklanką mleka. . 2. Lekko posolić i posłodzić. . 3. Ciągle mieszając gotować ok. 3 minuty. . Na zimno:. 1. Dwie łyżki płatków jaglanych wsypać do jogurtu lub kefiru i dodać ulubione owoce. Od temperatury otoczenia.
+#LAdres Producenta
+Kupiec Sp. z o.o. , Paprotnia, ul. Kupiecka 17, 62-513 Krzymów,
+#LAdres Zwrotny
+Kupiec Sp. z o.o. , Paprotnia, ul. Kupiecka 17, 62-513 Krzymów, kupiec@kupiec.pl, www.kupiec.pl,
+#LO Producencie
+Posiadamy certyfikowane systemy Zarządzania Bezpieczeństwem Żywności. Szczegółowe informacje i certyfikaty dostępne na naszej stronie: www.kupiec.pl.
+#LUwagi Do Wartości Odżywczych
+Jedno opakowanie 200 g zawiera 4 porcje płatków.
+#LOznaczenia Specjalne
+** Dzienna referencyjna wartość spożycia witamin i składników mineralnych (dla osób dorosłych)
+#LUwagi Do Wart Odzywczych 03
+*Referencyjna wartość spożycia dla przeciętnej osoby dorosłej (8400 kJ / 2000 kcal)
+#LEAN
+5906747172626
+#PVitana - Płatki jaglane
+#Lprice
+6,79 ZŁ
+#LMarka
+Vitana
+#LNazwa Produktu Uregulowana Prawnie
+Płatki jaglane
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Opakowanie plastikowe
+#LJednostka Opisowa
+g
+#LSkladniki
+płatki jaglane zwykłe
+#LZalecenia Dla Alergikow
+Może zawierać GLUTEN JĘCZMIENNY
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu
+#LPrzygotowanie
+Zagotować 500 ml wody lub mleka. Powoli wsypać 5 łyżek płatków, gotować na wolnym ogniu 2-3 minuty od czasu do czasu mieszając
+#LAdres Producenta
+Zakład konfekcjonowania Artykułów spożywczych Vitana Jerzy Płachta, ul. Wiosenna 6, 28-400 Pińczów
+#LZawartosc Netto
+600 g
+#LEAN
+5903435000315

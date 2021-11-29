@@ -1,0 +1,114 @@
+#PDANONE Fantasia Jogurt kremowy z p³atkami w czekoladzie
+#Lprice;
+1,89z³/szt.
+#LOpis produktu;
+Danone Fantasia Jogurt kremowy z p³atkami w czekoladzie to Twoja chwila przyjemnoœci. W dwufazowym kubeczku znajdziesz kremowy jogurt i p³atki w czekoladzie. Mo¿esz je wymieszaæ lub zjeœæ osobno - tak, jak lubisz. Siêgnij po ulubiony smak Danone Fantasia - na œniadanie, w pracy lub wieczorem. To przepyszna przek¹ska o ka¿dej porze dnia.
+Pozwól sobie na chwilê przerwy! Ka¿da ³y¿eczka pomo¿e Ci celebrowaæ wyj¹tkowy moment przyjemnoœci. Poznaj te¿ Danone Fantasia z innymi dodatkami! Moja Fantasia. Moja chwila.  
+#LSk³adniki;
+Sk³adniki
+jogurt: [mleko, œmietanka, cukier, odt³uszczone mleko w proszku, ¿ywe kultury bakterii jogurtowych]
+kukurydziane p³atki w czekoladzie: [m¹ka kukurydziana 3,1%, cukier, t³uszcz kakaowy, pe³ne mleko w proszku, miazga kakaowa, sól, emulgatory: lecytyny (soja), mono- i diglicerydy kwasów t³uszczowych; s³ód jêczmienny, naturalny aromat waniliowy]
+
+Tekst dotycz¹cy alergenów
+Mo¿e zawieraæ orzechy, orzeszki ziemne, jaja.
+
+Zalecenia dla alergików
+Jêczmieñ Zawiera
+Jaja Mo¿e zawieraæ
+Mleko Zawiera
+Orzechy Mo¿e zawieraæ
+Orzeszki ziemne Mo¿e zawieraæ
+Soja Zawiera
+#LWartoœci od¿ywcze;
+Obliczona wartoœæ od¿ywcza
+Okreœlenie w 100g w jednostce
+Wartoœæ energetyczna (kJ) 644.0000
+Wartoœæ energetyczna (kcal) 154.0000
+T³uszcz (g) 8.4000
+w tym kwasy t³uszczowe nasycone (g) 5.3000
+Wêglowodany (g) 16.3000
+w tym cukry (g) 13.4000
+Bia³ko (g) 3.2000
+Sól (g) .1800
+#LPrzygotowywanie i przechowywanie;
+Rodzaj przechowywania
+Typ Sch³adzaæ
+#LOpakowanie;
+Wymiar liczbowy
+Wymiar liczbowy 106
+
+Wymiar
+Wymagana wysokoœæ na pó³ce 73
+Wymagana szerokoœæ na pó³ce 126
+Wymagana g³êbokoœæ na pó³ce 45
+
+Jednostka (specyficzna)
+Jednostka (specyficzna) Gramów
+
+Rodzaj opakowania
+Typ Pot
+
+Rozmiar opakowania
+106
+
+Waga
+Waga brutto 114
+
+Jednostka (tekst opisowy)
+g
+
+Jednostka sprzeda¿owa
+Wysokoœæ 73
+Szerokoœæ 126
+G³êbokoœæ 45
+
+Opakowanie handlowe
+GTIN 02502602507027
+
+Opakowanie logistyczne
+GTIN 05900643022740
+
+Liczba u¿yæ
+Liczba czynnoœci u¿ycia(Porcje):
+1
+
+Pozosta³y tekst dotycz¹cy iloœci porcji/u¿yæ
+Kubek zawiera 1 porcjê produktu równ¹ 106 g.
+
+Jêzyki na opakowaniu
+polski
+#LInformacje producenta;
+Marka
+Danone
+
+Marka standaryzowana
+Marka Danone
+
+Podmarka
+Podmarka Fantasia
+
+Opis produktu
+Danone Fantasia Jogurt kremowy z p³atkami w czekoladzie to Twoja chwila przyjemnoœci. W dwufazowym kubeczku znajdziesz kremowy jogurt i p³atki w czekoladzie. Mo¿esz je wymieszaæ lub zjeœæ osobno - tak, jak lubisz. Siêgnij po ulubiony smak Danone Fantasia - na œniadanie, w pracy lub wieczorem. To przepyszna przek¹ska o ka¿dej porze dnia. Pozwól sobie na chwilê przerwy! Ka¿da ³y¿eczka pomo¿e Ci celebrowaæ wyj¹tkowy moment przyjemnoœci. Poznaj te¿ Danone Fantasia z innymi dodatkami! Moja Fantasia. Moja chwila.
+
+Podzielony opis produktu
+Nazwa funkcjonalna Jogurt kremowy
+Wariant z p³atkami w czekoladzie
+#LDane teleadresowe;
+Kontakt
+Danone Sp. z o.o.
+
+Adres kontaktowy
+ul. Redutowa 9/23 01-103 Warszawa
+
+Adres producenta
+Danone Sp. z o.o. ul. Redutowa 9/23 01-103 Warszawa Infolinia 801 33 11 33 Op³ata wed³ug taryfy lokalnej www.danone.pl
+
+Adres zwrotny
+Danone Sp. z o.o. ul. Redutowa 9/23 01-103 Warszawa Infolinia 801 33 11 33 Op³ata wed³ug taryfy lokalnej www.danone.pl
+
+Telefon kontaktowy
+Infolinia 801 33 11 33
+
+Adres internetowy
+www.danone.pl
+
