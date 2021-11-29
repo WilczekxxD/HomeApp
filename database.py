@@ -404,6 +404,7 @@ def check_load(product):
     # checks if product in loading queue
     f = open(os.path.join(os.getcwd(), "load.txt"), "r")
     products = f.readlines()[0].split(";")
+    print(product, products)
     if product not in products:
         return "error"
     return "allGood"

@@ -26,7 +26,7 @@ import socket
 # socket info
 
 HEADER = 64
-PORT = 5050
+PORT = 5051
 FORMAT = 'utf-8'
 DISCONNECT_MESSAGE = "!DISCONNECT"
 SERVER = "192.168.1.72"
@@ -196,10 +196,7 @@ class ShoppingWindow(Screen):
 
         self.list_viewer.add_widget(scroll_layout)
 
-
     # def edit_quantity(self, instance):
-
-
     def increase_quantity(self, instance):
         # local info
         local_f = open(local_dir, "r")
@@ -207,7 +204,7 @@ class ShoppingWindow(Screen):
         current = lines[3][8:-1]
         shopping_list = instance.shopping_list.split(";")
         product = shopping_list[instance.index].split(":")
-        quantity = instance.quantity + 1
+        quantity = int(instance.quantity + 1)
         product[1] = str(quantity)
         product = ":".join(product)
         shopping_list[instance.index] = product
@@ -226,7 +223,7 @@ class ShoppingWindow(Screen):
             current = lines[3][8:-1]
             shopping_list = instance.shopping_list.split(";")
             product = shopping_list[instance.index].split(":")
-            quantity = instance.quantity - 1
+            quantity = int(instance.quantity - 1)
             product[1] = str(quantity)
             product = ":".join(product)
             shopping_list[instance.index] = product
@@ -309,6 +306,7 @@ class ShoppingWindow(Screen):
         self.popup.open()
 
     def add_product_server(self, instance):
+
         # sends new product data to the servers home file
         # local info
         local_f = open(local_dir, "r")
@@ -342,7 +340,6 @@ class ShoppingWindow(Screen):
             else:
                 self.opener.background_color = (0.6, 0, 0, 1)
 
-
     def wrong_product_popup(self, WholeProduct):
         self.popup = Factory.WrongProduct()
         self.popup.title = f"Wrong product in your list"
@@ -353,7 +350,7 @@ class ShoppingWindow(Screen):
         description = Label(text=f"{name} is not in our database, check your spelling and try again or add it to our database, it may take some time so wait before adding it again",
                             halign="center",
                             text_size=(Window.width * 0.4, Window.height * 0.6),
-                            pos_hint={"x": 0.15, "y": 0.5})
+                            pos_hint={"x": 0.005, "y": 0.5})
 
         # dissmiss & confirm
         back = self.DeleteProductButton(size_hint=(0.4625, 0.2),
@@ -365,7 +362,7 @@ class ShoppingWindow(Screen):
         # using already existing Button type instead of making new because it has the Pname attribute
         confirm = self.DeleteProductButton(size_hint=(0.4625, 0.2),
                                            pos_hint={"x": 0.5125, "y": 0.025},
-                                           text="confirm",
+                                           text="add",
                                            Pname=WholeProduct)
         confirm.bind(on_press=self.add_product_database)
 

@@ -6,7 +6,7 @@ from user_handler import *
 from product_converter import *
 
 HEADER = 64
-PORT = 5050
+PORT = 5051
 SERVER = socket.gethostbyname(socket.gethostname())
 ADDR = (SERVER, PORT)
 FORMAT = 'utf-8'
@@ -177,6 +177,7 @@ def handle_client(conn, addr):
                 print("checking for wrong product")
                 homeIP = rcv(conn)
                 product = rcv(conn)
+                print(product)
                 check = check_load(product)
                 if check == "error":
                     snd(check, conn)
