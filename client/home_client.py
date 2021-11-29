@@ -1139,7 +1139,7 @@ kv = Builder.load_file("home.kv")
 
 wm = WindowManager()
 
-screens = [LogInWindow(name="login"), HomeWindow(name="home"), UsersWindow(name="users"), ShoppingWindow(name="shopping"),
+screens = [LogInWindow(name="login"), HomeWindow(name="home"), ShoppingWindow(name="shopping"),
            InviteWindow(name="invite"), ChatWindow(name="chat"), HomesWindow(name="homes"),
            CreateHomeWindow(name="create_home"), RegisterWindow(name="register"), ChooseHomeWindow(name="choose"),
            FinalListWindow(name="final_list"), AboutWindow(name="about")]
