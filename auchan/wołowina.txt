@@ -1,0 +1,91 @@
+#PAuchan - Wołowina suszona
+#Lprice
+8,99 ZŁ
+#LRozszerzona Nazwa Produktu
+Mięso wołowe surowe suszone
+#LMarka
+Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Wołowina suszona
+#LKraj Pochodzenia
+Wyprodukowano we Francji z mięsa pochodzącego z UE
+#LRodzaj Opakowania
+Opakowanie: plastikowe
+#LSkladniki
+Mięso wołowe, sól, przyprawy, glukoza, regulator kwasowości (E330), przeciwutleniacz (E301), substancja konserwująca (E250)
+#LOswiadczenia Zywieniowe
+100 g produktu otrzymano ze 128 g mięsa wołowego
+#LZalecenia Dla Alergikow
+Produkt może zawierać: MLEKO, ORZECHY, JAJA, GORCZYCĘ, GLUTEN
+#LPrzechowywanie
+Przechowywać w temperaturze od 0'C do +4'C
+#LWarunki Przechowywania
+Spożyć bezpośrednio po otwarciu
+#LAdres Importera
+Olivier & CO Sp. z o. o. ul. Traktorowa 180, 91-203 Łódź
+#LAdres Dystrybutora
+Auchan Polska Sp. z o. o. ul. Puławska 46, 05-500 Piaseczno
+#LZawartosc Netto
+50 g
+#LMiara
+50 g
+#LEAN
+5904215143253
+#PBell - Suszona wołowina z miodem
+#Lprice
+9,69 ZŁ
+#LRozszerzona Nazwa Produktu
+Mięso wołowe peklowane, parzone, suszone
+#LMarka
+Bell
+#LNazwa Produktu Uregulowana Prawnie
+Suszona wołowina z miodem
+#LRodzaj Opakowania
+Opakowanie: foliowe
+#LDodatkowe Informacje
+DE-OKO-034
+#LSkladniki
+Mięso wołowe*, przyprawy*, sól morska, sól kuchenna, cukier trzcinowy*, przeciwutleniacz (askorbinian sodu), maltodekstryna*, miód kwiatowy 0,1%, substancja konserwująca (azotyn sodu), dym rewna bukowego
+#LSklad Produktu
+100 g produktu uzyskano z 234 g mięsa
+#LOswiadczenia Zywieniowe
+*Składniki z upraw ekologicznych
+#LPrzechowywanie
+Przechowywać w miejscu suchym i zacienionym
+#LAdres Dystrybutora
+Bell Polska Sp. z o. o. ul. Mokra 11, 32-005 Niepłomice
+#LZawartosc Netto
+25 g
+#LMiara
+25 g
+#LEAN
+4034167100194
+#PStrzała - Wołowina w sosie własnym bez konserwantów
+#Lprice
+10,69 ZŁ
+#LRozszerzona Nazwa Produktu
+Konserwa wołowa średnio rozdrobniona, bez dodatku konserwantów, pasteryzowana
+#LMarka
+Strzała
+#LNazwa Produktu Uregulowana Prawnie
+Wołowina w sosie własnym bez konserwantów
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Opakowanie: szklany słoik
+#LSkladniki
+Mięso wołowe 80%, woda, sól, substancja zagęszczająca (przetworzone wodorosty morskie Rhodophyceae, białko kolagenowe wołowe, przyprawy, dekstroza, hydrolizowane białko roślinne (kukurydza, rzepak), przeciwutleniacz (kwas askorbinowy), aromat, proszek owocowy
+#LZalecenia Dla Alergikow
+Produkt może zawierać: SELER, SOJĘ, GORCZYCĘ, DWUTLENEK SIARKI
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscy w temperaturze pokojowej
+#LWarunki Przechowywania
+Po otwarciu przechowywać w lodówce i spozyć w ciągu 24 goddzin
+#LUzytkowanie I Przechowywanie
+Podawać na zimno z pieczywem lub na ciepło z kaszą, ryżem, ziemniakami
+#LAdres Producenta
+Strzała Sp. z o. o. 98-345 Mokrsko 341 A
+#LZawartosc Netto
+300 g
+#LEAN
+5903111916411
