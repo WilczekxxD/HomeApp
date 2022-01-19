@@ -1,0 +1,470 @@
+<InviteWindow>:
+    code_viewer:code_viewer
+    ghomeIP:ghomeIP
+    gcode:gcode
+    feedback:feedback
+
+    Button:
+        text:"back"
+        size_hint: 0.15, 0.1
+        pos_hint:{"x":0.05, "y":0.05}
+        on_release:
+            app.root.current = "homes"
+
+    Label:
+        text:"redeem your code"
+        pos_hint:{'x':0.2, 'y':0.95}
+        size_hint:(0.6, 0.05)
+
+    Label:
+        text:"homeIP"
+        pos_hint:{'x':0.01, 'y': 0.85}
+        size_hint:(0.2, 0.05)
+
+    TextInput:
+        id: ghomeIP
+        pos_hint:{'x':0.3, 'y':0.85}
+        size_hint:(0.6, 0.05)
+
+    Label:
+        text:"code"
+        pos_hint:{'x':0.01, 'y': 0.75}
+        size_hint:(0.2, 0.05)
+
+    TextInput:
+        id:gcode
+        pos_hint:{'x':0.3, 'y':0.75}
+        size_hint:(0.6, 0.05)
+
+    Button:
+        text:"redeem code"
+        pos_hint:{'x':0.2, 'y':0.69}
+        size_hint:(0.6, 0.05)
+
+    Label:
+        id:feedback
+        text:""
+        pos_hint:{'x':0.2, 'y':0.60}
+        size_hint:(0.6, 0.1)
+
+    Button:
+        text: "generate code"
+        pos_hint:{'x':0.2, 'y':0.54}
+        size_hint:(0.6, 0.05)
+
+    Label:
+        text:"active codes"
+        pos_hint:{'x':0.2, 'y':0.48}
+        size_hint:(0.6, 0.05)
+
+    ScrollView:
+        id:code_viewer
+        pos_hint:{'x':0.225, 'y':0.15}
+        padding: 10,10
+        size_hint:(0.55, 0.30)
+
+
+
+<ConfirmDelete@Popup>:
+    size_hint: 0.5, 0.5
+
+<ChooseHomeWindow>:
+    current:current
+
+    FloatLayout:
+        Button:
+            text:"back"
+            size_hint: 0.15, 0.1
+            pos_hint:{"x":0.05, "y":0.05}
+            on_release:
+                app.root.current = "homes"
+        Label:
+            id:current
+            text:"here will be your current home"
+            pos_hint:{'x':0, 'y':0.45}
+
+<RegisterWindow>:
+    email:email
+    pas1:pas1
+    pas2:pas2
+    success:success
+
+    Label:
+        text:"email"
+        size_hint: 0.4,0.05
+        pos_hint:{"x":0.3, "y":0.95}
+
+    TextInput:
+        id: email
+        size_hint: 0.4,0.05
+        pos_hint: {"x":0.3, "y": 0.90}
+        multiline: False
+
+    Label:
+        text:"password"
+        size_hint: 0.4,0.05
+        pos_hint:{"x":0.3, "y":0.80}
+
+    TextInput:
+        id: pas1
+        size_hint: 0.4,0.05
+        pos_hint: {"x":0.3, "y": 0.75}
+        multiline: False
+
+    Label:
+        text:"confirm password"
+        size_hint: 0.4,0.05
+        pos_hint:{"x":0.3, "y":0.65}
+
+    TextInput:
+        id: pas2
+        size_hint: 0.4,0.05
+        pos_hint: {"x":0.3, "y": 0.60}
+        multiline: False
+
+    Button:
+        text:"Register!"
+        size_hint: 0.4,0.1
+        pos_hint: {"x":0.3, "y": 0.35}
+        on_release:
+            root.register()
+
+    Label:
+        id:success
+        text: ""
+        size_hint: 0.4,0.1
+        pos_hint: {"x": 0.3, "y": 0.25}
+
+    Button:
+        text:"back"
+        size_hint: 0.15, 0.1
+        pos_hint:{"x":0.05, "y":0.05}
+        on_release:
+            app.root.current = "login"
+
+<CreateHomeWindow>:
+    hname:hname
+    pas:pas
+    success:success
+
+    Label:
+        text:"name your home!"
+        size_hint: 0.4,0.05
+        pos_hint:{"x":0.3, "y":0.95}
+
+    TextInput:
+        id: hname
+        size_hint: 0.4,0.05
+        pos_hint: {"x":0.3, "y": 0.90}
+        multiline: False
+
+    Label:
+        text:"your password to confirm"
+        size_hint: 0.4,0.05
+        pos_hint:{"x":0.3, "y":0.75}
+
+    TextInput:
+        id: pas
+        size_hint: 0.4,0.05
+        pos_hint: {"x":0.3, "y": 0.70}
+        multiline: False
+
+    Button:
+        text: "Create!"
+        size_hint: 0.4,0.1
+        pos_hint: {"x":0.3, "y": 0.50}
+        on_release:
+            root.create()
+
+    Label:
+        id: success
+        text:""
+        size_hint: 0.4,0.05
+        pos_hint: {"x":0.3,"y":0.35}
+
+    Button:
+        text: "back"
+        size_hint: 0.15, 0.1
+        pos_hint:{"x":0.05, "y":0.05}
+        on_release:
+            app.root.current = "homes"
+
+<HomesWindow>:
+
+    Label:
+        text: "here will be current home"
+        size_hint: 0.4,0.05
+        pos_hint:{"x":0.3,"y":0.95}
+
+    Button:
+        text: "choose home"
+        size_hint: 0.4,0.05
+        pos_hint: {"x":0.3, "y":0.85}
+        on_release:
+            app.root.current = "choose"
+
+    Button:
+        text: "home invitations"
+        size_hint: 0.4,0.05
+        pos_hint: {"x":0.3, "y":0.75}
+        on_release:
+            app.root.current = "invite"
+
+    Button:
+        text: "create a home"
+        size_hint: 0.4,0.05
+        pos_hint: {"x":0.3, "y":0.05}
+        on_release:
+            app.root.current = "create_home"
+
+    Button:
+        text: "back"
+        size_hint: 0.15, 0.1
+        pos_hint:{"x":0.05, "y":0.05}
+        on_release:
+            app.root.current = "home"
+
+<LogInWindow>:
+    email:email
+    pas:pas
+    remember:remember
+    FloatLayout:
+
+        Label:
+            text: "remember your email?"
+            size_hint: 0.4,0.05
+            pos_hint: {"x": 0.36, "top":0.94}
+
+        CheckBox:
+            id: remember
+            size_hint: 0.4,0.05
+            pos_hint: {"x": 0.5, "top":0.94}
+
+        Label:
+            text: "email"
+            size_hint:0.05,0.05
+            pos_hint: {"x": 0.01, "top": 0.99}
+
+        TextInput:
+            size_hint: 0.4,0.05
+            pos_hint: {"x": 0.01, "top":0.94}
+            multiline: False
+            id: email
+
+        Label:
+            text: "password"
+            size_hint:0.08,0.05
+            pos_hint: {"x": 0.01, "top": 0.85}
+
+        TextInput:
+            size_hint: 0.4,0.05
+            pos_hint: {"x": 0.01, "top":0.8}
+            multiline: False
+            id: pas
+
+        Button:
+            text: "Log in"
+            size_hint: 0.15,0.15
+            pos_hint: {"x":0.01, "top":0.7}
+            on_release:
+                root.user_login()
+
+        Button:
+            text: "register"
+            size_hint: 0.4,0.15
+            pos_hint: {"x":0.3, "top": 0.4}
+            on_release:
+                app.root.current = "register"
+
+
+
+<HomeWindow>:
+
+    FloatLayout:
+
+        Button:
+            text: "shopping"
+            size_hint: 0.425,0.4
+            pos_hint:{"x": 0.025, "top":0.99}
+            on_release:
+                app.root.current = "shopping"
+                root.manager.transition.direction = "left"
+
+        Button:
+            text: "chat"
+            size_hint: 0.45,0.4
+            pos_hint:{"x": 0.525, "top":0.99}
+            on_release:
+                app.root.current = "chat"
+                root.manager.transition.direction = "left"
+
+        Button:
+            text: "passwords"
+            size_hint: 0.425,0.4
+            pos_hint:{"x": 0.025, "top":0.565}
+
+        Button:
+            text: "Home settings"
+            size_hint: 0.45,0.4
+            pos_hint:{"x":0.525, "top":0.565}
+            on_release:
+                app.root.current = "homes"
+
+        Button:
+            text: "Log Out"
+            size_hint: 0.3,0.15
+            pos_hint:{"x": 0.025, "y":0.01}
+            on_release:
+                app.root.current = "login"
+
+        Button:
+            text: "Settings"
+            size_hint: 0.3,0.15
+            pos_hint:{"x": 0.35, "y":0.01}
+
+        Button:
+            text: "about"
+            size_hint: 0.3,0.15
+            pos_hint:{"x": 0.675 , "y":0.01}
+            on_release:
+                app.root.current = "about"
+
+
+<UsersWindow>:
+    userl: userl
+    FloatLayout:
+        Label:
+            id: userl
+
+        Button:
+            text: "Back"
+            size_hint: 0.15,0.15
+            pos_hint:{"x": 0.01, "y":0.01}
+            on_release:
+                root.manager.transition.direction = "right"
+                app.root.current = "home"
+
+<ShoppingWindow>:
+
+    list_viewer: list_viewer
+
+    ScrollView:
+        id:list_viewer
+        size_hint: 0.95, 0.60
+        pos_hint:{'x': 0.025, 'y':0.35}
+
+    Button:
+        text: "add"
+        size_hint: 0.95, 0.1
+        pos_hint:{'x': 0.025, 'y': 0.225}
+        on_release:
+            root.add_product_popup()
+
+    Button:
+        text: "proceed"
+        size_hint: 0.95,0.1
+        pos_hint:{'x': 0.025, 'y':0.1}
+        on_release:
+            root.manager.transition.direction = "left"
+            app.root.current = "final_list"
+
+    Button:
+        text: "Back"
+        size_hint: 0.2,0.075
+        pos_hint:{"x": 0.025, "y":0.01}
+        on_release:
+            root.manager.transition.direction = "right"
+            app.root.current = "home"
+
+<WrongProduct@Popup>:
+    size_hint: 0.5, 0.7
+
+<FinalListWindow>
+
+    list_viewer: list_viewer
+
+    ScrollView:
+        id:list_viewer
+        size_hint: 0.95, 0.75
+        pos_hint:{'x': 0.025, 'y':0.2}
+
+    Button:
+        text: "finalize"
+        size_hint: 0.95,0.1
+        pos_hint:{'x': 0.025, 'y':0.1}
+
+    Button:
+        text: "Back"
+        size_hint: 0.2,0.075
+        pos_hint:{"x": 0.025, "y":0.01}
+        on_release:
+            root.manager.transition.direction = "right"
+            app.root.current = "shopping"
+
+<Properties@Popup>
+    size_hint: 0.9, 0.9
+
+<MeasuresDropDown>:
+    Button:
+        text: 'szt.'
+        size_hint_y: None
+        height: 44
+        on_release: root.select('szt.')
+    Button:
+        text: 'g.'
+        size_hint_y: None
+        height: 44
+        on_release: root.select('g.')
+
+<AddProduct@Popup>:
+    size_hint: 0.5, 0.5
+
+<ChatWindow>:
+    chat_h:chat_h
+    msg:msg
+    FloatLayout:
+        ScrollView:
+            id: chat_h
+            pos_hint: {"x": 0, "top":0.98}
+            size_hint: (0.8,0.85)
+            do_scroll_x: False
+            scroll_y:0
+
+        TextInput:
+            id: msg
+            pos_hint: {"x": 0.2, "y":0.01}
+            size_hint: 0.65,0.1
+            multiline: True
+
+        Button:
+            text: "Send"
+            size_hint: 0.13, 0.1
+            pos_hint:{"x": 0.85, "y": 0.0085}
+            on_release:
+                root.send()
+
+        Button:
+            text: "Back"
+            size_hint: 0.15,0.15
+            pos_hint:{"x": 0.01, "y":0.01}
+            on_release:
+                root.manager.transition.direction = "right"
+                app.root.current = "home"
+
+<AboutWindow>:
+    FloatLayout:
+
+        Label:
+            text: "Hi, I hope this app is to your liking but if you want me to make any changes or to add any features please write to me  here: ****.\n Since this app is free and it contains no ads i am asking you for donations to this account: .You can write in the description what would you like me to add or change and it will be prioritised."
+            text_size: root.width * 0.8 , None
+            halign: "center"
+            size_hint: 0.8 ,0.8
+            pos_hint:{"x": 0.1, "y": 0.1}
+
+        Button:
+            text: "Back"
+            size_hint: 0.15,0.15
+            pos_hint:{"x": 0.01, "y":0.01}
+            on_release:
+                root.manager.transition.direction = "right"
+                app.root.current = "home"

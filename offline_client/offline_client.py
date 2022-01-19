@@ -15,7 +15,6 @@ from kivy.properties import StringProperty, NumericProperty
 from kivy.core.window import Window
 from kivy.uix.textinput import TextInput
 
-
 import kivy
 from user_handler import *
 import socket
@@ -32,44 +31,11 @@ DISCONNECT_MESSAGE = "!DISCONNECT"
 SERVER = "192.168.43.105"
 ADDR = (SERVER, PORT)
 # connecting socket
-client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-client.connect(ADDR)
+# client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+# client.connect(ADDR)
+
 # file info
-
-users = "users.txt"
-shopping = "shopping.txt"
-chat_history = "chat_history.txt"
 local_dir = os.path.join(os.getcwd(), "local.txt")
-
-
-def snd(msg):
-    send_msg = msg.encode(FORMAT)
-    msg_length = len(send_msg)
-    print(msg + " length: " + str(msg_length))
-    send_length = str(msg_length).encode(FORMAT)
-    send_length += b' ' * (HEADER - len(send_length))
-    client.send(send_length)
-    client.send(send_msg)
-
-
-def rcv():
-    end = False
-    while not end:
-        msg_length = client.recv(HEADER).decode(FORMAT)
-        print("waiting")
-        if msg_length:
-            msg_length = int(msg_length)
-            msg = client.recv(msg_length).decode(FORMAT)
-            return msg
-
-
-def sanitize(text):
-    black_list = [";", ":"]
-    pass
-
-
-class UsersWindow(Screen):
-    pass
 
 
 class CreateHomeWindow(Screen):
@@ -82,7 +48,7 @@ class CreateHomeWindow(Screen):
         pas = self.pas.text
         name = self.hname.text
         print(email, pas, name)
-        if len(pas) != 0 and len(name)!= 0 and len(pas)!= 0:
+        if len(pas) != 0 and len(name) != 0 and len(pas) != 0:
             snd("h01")
             snd(email)
             snd(name)
@@ -102,7 +68,6 @@ class CreateHomeWindow(Screen):
 
 
 class ShoppingWindow(Screen):
-
     class DeleteProductButton(Button):
         Pname = StringProperty(defaultvalue="")
 
@@ -160,7 +125,7 @@ class ShoppingWindow(Screen):
                 # col 1
 
                 label = Label(text=f'{name}',
-                              text_size=(self.width/3, None),
+                              text_size=(self.width / 3, None),
                               halign="center")
                 scroll_layout.add_widget(label)
                 # quantity inside a separate float layout becouse thats the way to put more than one widget in one box
@@ -204,7 +169,6 @@ class ShoppingWindow(Screen):
                 scroll_layout.add_widget(button)
 
         self.list_viewer.add_widget(scroll_layout)
-
 
     # def edit_quantity(self, instance):
 
@@ -285,8 +249,8 @@ class ShoppingWindow(Screen):
             measures.add_widget(btn)
 
         self.opener = Button(text='measure',
-                        size_hint=(0.225, 0.15),
-                        pos_hint={"x": 0.7, "y": 0.45})
+                             size_hint=(0.225, 0.15),
+                             pos_hint={"x": 0.7, "y": 0.45})
 
         self.opener.bind(on_release=measures.open)
 
@@ -335,7 +299,7 @@ class ShoppingWindow(Screen):
                                 self.new_name_input.text = "nazwa produktu może składać się z liter i '-'"
                                 error = True
                                 break
-                    elif len(self.new_name_input.text)>200:
+                    elif len(self.new_name_input.text) > 200:
                         self.new_name_input.text = "za długa nazwa"
                     if not error:
                         # adding it on the server
@@ -350,7 +314,6 @@ class ShoppingWindow(Screen):
             else:
                 self.opener.background_color = (0.6, 0, 0, 1)
 
-
     def wrong_product_popup(self, WholeProduct):
         self.popup = Factory.WrongProduct()
         self.popup.title = f"Wrong product in your list"
@@ -358,10 +321,11 @@ class ShoppingWindow(Screen):
         self.popup.auto_dismiss = False
         name = WholeProduct.split(":")[0]
         popup_layout = FloatLayout()
-        description = Label(text=f"{name} is not in our database, check your spelling and try again or add it to our database, it may take some time so wait before adding it again",
-                            halign="center",
-                            text_size=(Window.width * 0.4, Window.height * 0.6),
-                            pos_hint={"x": 0.15, "y": 0.5})
+        description = Label(
+            text=f"{name} is not in our database, check your spelling and try again or add it to our database, it may take some time so wait before adding it again",
+            halign="center",
+            text_size=(Window.width * 0.4, Window.height * 0.6),
+            pos_hint={"x": 0.15, "y": 0.5})
 
         # dissmiss & confirm
         back = self.DeleteProductButton(size_hint=(0.4625, 0.2),
@@ -427,7 +391,6 @@ class ShoppingWindow(Screen):
 
 
 class FinalListWindow(Screen):
-
     class DeleteProductButton(Button):
         Pindex = NumericProperty(defaultvalue=0)
 
@@ -450,7 +413,7 @@ class FinalListWindow(Screen):
         converted = rcv()
 
         # writing it down
-        final_list_path = os.path.join(os.getcwd(),  "final_list.txt")
+        final_list_path = os.path.join(os.getcwd(), "final_list.txt")
         final_list_file = open(final_list_path, "w")
         final_list_file.write(converted)
         final_list_file.close()
@@ -512,7 +475,7 @@ class FinalListWindow(Screen):
 
                 # col 2
                 label = Label(text=f'{best[1]}',
-                              text_size=(self.width/3, None),
+                              text_size=(self.width / 3, None),
                               halign="center")
                 feature_box.add_widget(label)
 
@@ -762,23 +725,23 @@ class ChatWindow(Screen):
                     msg = line[1]
                     if author == email:
 
-                        label = Label(text=(msg+"\n"+author),
-                                      text_size=(self.chat_h.width/2, None),
-                                      halign="right",)
+                        label = Label(text=(msg + "\n" + author),
+                                      text_size=(self.chat_h.width / 2, None),
+                                      halign="right", )
                         label.texture_update()
                         label.size = label.texture_size
-                        noffset = offsets[-1]+label.height + padding
+                        noffset = offsets[-1] + label.height + padding
                         offsets.append(noffset)
                         msg_list.append([label, author])
 
                     else:
 
-                        label = Label(text=(msg+"\n"+author),
-                                      text_size=(self.chat_h.width/2, None),
-                                      halign="left",)
+                        label = Label(text=(msg + "\n" + author),
+                                      text_size=(self.chat_h.width / 2, None),
+                                      halign="left", )
                         label.texture_update()
                         label.size = label.texture_size
-                        noffset = offsets[-1]+label.height + padding
+                        noffset = offsets[-1] + label.height + padding
                         offsets.append(noffset)
                         msg_list.append([label, author])
 
@@ -792,7 +755,7 @@ class ChatWindow(Screen):
                     author = msg[1]
                     if author == email:
                         label.pos = (label.get_center_x(),
-                                     view.height/2 - offsets[i] - label.height/2)
+                                     view.height / 2 - offsets[i] - label.height / 2)
                     else:
                         label.pos = (0,
                                      view.height / 2 - offsets[i] - label.height / 2)
@@ -811,43 +774,29 @@ class ChatWindow(Screen):
 class LogInWindow(Screen):
 
     def user_login(self):
-        snd("u01")
-        snd(self.email.text)
-        snd(self.pas.text)
-        ans = str(rcv())
-        if ans == "0":
-            wm.current = "home"
-        else:
-            print(ans)
+        wm.current = "home"
 
     def on_pre_enter(self, *args):
-        print("entered")
         local_f = open(local_dir, "r")
         lines = local_f.readlines()
+        email, pas = "", ""
         for line in lines:
             if line[:6] == "email:":
                 email = line[6:-1]
             if line[:5] == "pass:":
                 pas = line[5:-1]
-            if line[:9] == "remember:":
-                if line[9:-1] == "0":
-                    self.pas.text = ""
-                    self.email.text = ""
-                else:
-                    if pas != "0" and email != "0":
-                        self.pas.text = pas
-                        self.email.text = email
-                        self.remember.active = True
-                    else:
-                        self.pas.text = ""
-                        self.email.text = ""
+
+            if pas != "0" and email != "0":
+                self.pas.text = pas
+                self.email.text = email
+                self.remember.active = True
 
         local_f.close()
 
     def on_leave(self, *args):
-        print("left")
         local_f = open(local_dir, "r")
         lines = []
+        past_email, past_pas = "", ""
         for line in local_f:
             if line[:6] == "email:":
                 past_email = line[6:-1]
@@ -877,11 +826,7 @@ class RegisterWindow(Screen):
     def register(self):
         self.success.text = "pending"
         if self.email.text != "" and self.pas1.text != "" and self.pas2.text != "":
-            snd("u02")
-            snd(self.email.text)
-            snd(self.pas1.text)
-            snd(self.pas2.text)
-            ans = rcv()
+            ans = "successfully registered"
             if ans == "successfully registered":
                 self.success.text = "successfuly registered"
             else:
@@ -898,7 +843,7 @@ class InviteWindow(Screen):
         rf.start()
 
     def refresh(self):
-        #local info
+        # local info
         local_f = open(local_dir, "r")
         lines = local_f.readlines()
         current = lines[3][8:-1]
@@ -1014,7 +959,7 @@ class ChooseHomeWindow(Screen):
         snd(email)
         homes = rcv()
 
-        #fix for situation when no homes are in the list, .split creates lists from empty strings
+        # fix for situation when no homes are in the list, .split creates lists from empty strings
         print(f"it printed:{homes}")
         if homes != "":
             homes = homes.split(":")
@@ -1035,7 +980,7 @@ class ChooseHomeWindow(Screen):
         for home in homes:
             homeIP = str(home[0])
             self.IPlist.append(homeIP)
-            homeN= str(home[1])
+            homeN = str(home[1])
             if homeIP == current:
                 label = Label(pos_hint={'x': 0.55, 'y': y}, size_hint=(0.15, 0.1), text="this is your current home")
                 home_list_layout.add_widget(label)
@@ -1050,19 +995,20 @@ class ChooseHomeWindow(Screen):
                 button = Button(pos_hint={'x': 0.75, 'y': y}, size_hint=(0.15, 0.1), text="move out")
                 button.bind(on_press=self.confirm)
                 home_list_layout.add_widget(button)
-            label = Label(pos_hint={'x': 0.1, 'y': y}, size_hint=(0.4, 0.1), text=f"home name: {homeN}    homeIP: {homeIP}")
+            label = Label(pos_hint={'x': 0.1, 'y': y}, size_hint=(0.4, 0.1),
+                          text=f"home name: {homeN}    homeIP: {homeIP}")
             home_list_layout.add_widget(label)
             y -= 0.15
-        for _ in range(5-len(homes)):
-            label = Label(pos_hint={'x': 0.45, 'y': y}, text="empty plot", size_hint=(0.15, 0.1) )
+        for _ in range(5 - len(homes)):
+            label = Label(pos_hint={'x': 0.45, 'y': y}, text="empty plot", size_hint=(0.15, 0.1))
             home_list_layout.add_widget(label)
-            y-=0.15
+            y -= 0.15
 
         self.home_list_layout = home_list_layout
         # removing previous list layout
         children_len = len(self.children)
         for x, child in enumerate(self.children):
-            if x != (children_len-1):
+            if x != (children_len - 1):
                 self.remove_widget(child)
         self.add_widget(self.home_list_layout)
 
@@ -1071,8 +1017,8 @@ class ChooseHomeWindow(Screen):
         lines = local_f.readlines()
         local_f.close()
         y = float(str(instance.__getattribute__("pos_hint"))[-4:-1])
-        y = int(y*100)
-        index = int(abs(((y-5)/15)-5))
+        y = int(y * 100)
+        index = int(abs(((y - 5) / 15) - 5))
         line = f"current:{self.IPlist[index]}\n"
         lines = lines[:-1]
         lines += [line]
@@ -1147,7 +1093,8 @@ kv = Builder.load_file("home.kv")
 
 wm = WindowManager()
 
-screens = [LogInWindow(name="login"), HomeWindow(name="home"), UsersWindow(name="users"), ShoppingWindow(name="shopping"),
+screens = [LogInWindow(name="login"), HomeWindow(name="home"), UsersWindow(name="users"),
+           ShoppingWindow(name="shopping"),
            InviteWindow(name="invite"), ChatWindow(name="chat"), HomesWindow(name="homes"),
            CreateHomeWindow(name="create_home"), RegisterWindow(name="register"), ChooseHomeWindow(name="choose"),
            FinalListWindow(name="final_list"), AboutWindow(name="about")]
@@ -1164,4 +1111,3 @@ class HomeApp(App):
 
 if __name__ == "__main__":
     HomeApp().run()
-
