@@ -112,7 +112,7 @@ class ShoppingWindow(Screen):
         local_f.close()
         current = lines[3][8:-1]
 
-        # making layout for the scroller, 4 columns for name, quantity,measure, deleating
+        # making layout for the scroller, 3 columns for name, quantity/measure, deleating
         self.list_viewer.clear_widgets()
         self.width = Window.size[0]
         # print(self.list_viewer.__getattribute__("size_hint_x"), self.width)
