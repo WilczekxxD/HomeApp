@@ -1,3 +1,6 @@
+# This is a version of Home server that works without the driver
+# in another words it does not start then web scraping feature
+
 import os
 import socket
 import threading
@@ -6,7 +9,7 @@ from user_handler import *
 from product_converter import *
 
 HEADER = 64
-PORT = 5051
+PORT = 5050
 SERVER = socket.gethostbyname(socket.gethostname())
 ADDR = (SERVER, PORT)
 FORMAT = 'utf-8'
@@ -177,7 +180,6 @@ def handle_client(conn, addr):
                 print("checking for wrong product")
                 homeIP = rcv(conn)
                 product = rcv(conn)
-
                 check = check_load(product)
                 if check == "error":
                     snd(check, conn)
@@ -203,28 +205,10 @@ def handle_client(conn, addr):
     conn.close()
 
 
-def load_server():
-    # contiously loading products and rearenging the loading list
-    end = False
-    while not end:
-        dtb = Database()
-        f = open(os.path.join(os.getcwd(), "load.txt"), "r")
-        line = f.readlines()[0]
-        f.close()
-        products = line.split(";")
-        print(products[0])
-        dtb.auchan.load_data([products[0]])
-        f = open(os.path.join(os.getcwd(), "load.txt"), "w")
-        products = products[1:] + [products[0]]
-        f.write(";".join(products))
-        f.close()
-
-
 def start():
     server.listen()
     print(f"[LISTENING] Server is listening on {SERVER}")
-    ls = threading.Thread(target=load_server(), args=())
-    ls.start()
+
     while True:
         conn, addr = server.accept()
         connections.append(conn)

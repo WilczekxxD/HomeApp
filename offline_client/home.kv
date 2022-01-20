@@ -40,8 +40,6 @@
         text:"redeem code"
         pos_hint:{'x':0.2, 'y':0.69}
         size_hint:(0.6, 0.05)
-        on_release:
-            root.redeem_code()
 
     Label:
         id:feedback
@@ -53,8 +51,6 @@
         text: "generate code"
         pos_hint:{'x':0.2, 'y':0.54}
         size_hint:(0.6, 0.05)
-        on_release:
-            root.generate_code()
 
     Label:
         text:"active codes"
@@ -195,6 +191,11 @@
 
 <HomesWindow>:
 
+    Label:
+        text: "here will be current home"
+        size_hint: 0.4,0.05
+        pos_hint:{"x":0.3,"y":0.95}
+
     Button:
         text: "choose home"
         size_hint: 0.4,0.05
@@ -230,15 +231,14 @@
     FloatLayout:
 
         Label:
-            text: "remember your email & password?"
+            text: "remember your email?"
             size_hint: 0.4,0.05
-            pos_hint: {"x": 0.4, "top":0.94}
+            pos_hint: {"x": 0.36, "top":0.94}
 
         CheckBox:
             id: remember
             size_hint: 0.4,0.05
-            pos_hint: {"x": 0.6, "top":0.94}
-
+            pos_hint: {"x": 0.5, "top":0.94}
 
         Label:
             text: "email"
@@ -299,6 +299,11 @@
                 root.manager.transition.direction = "left"
 
         Button:
+            text: "passwords"
+            size_hint: 0.425,0.4
+            pos_hint:{"x": 0.025, "top":0.565}
+
+        Button:
             text: "Home settings"
             size_hint: 0.45,0.4
             pos_hint:{"x":0.525, "top":0.565}
@@ -352,8 +357,6 @@
         text: "add"
         size_hint: 0.95, 0.1
         pos_hint:{'x': 0.025, 'y': 0.225}
-        on_release:
-            root.add_product_popup()
 
     Button:
         text: "proceed"
@@ -435,8 +438,6 @@
             text: "Send"
             size_hint: 0.13, 0.1
             pos_hint:{"x": 0.85, "y": 0.0085}
-            on_release:
-                root.send()
 
         Button:
             text: "Back"

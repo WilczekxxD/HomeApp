@@ -1,1 +1,1 @@
-parówki:10:szt.;
+banany:10:szt.;kukurydza:10:szt.;

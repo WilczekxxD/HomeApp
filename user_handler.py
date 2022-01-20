@@ -155,7 +155,9 @@ class Code:
 
     def obliterate(self):
         print("countdown started")
+
         time.sleep(60*3)
+
         cwd = os.getcwd()
         code_dir = os.path.join(cwd, homes_dir, self.homeIP, "invite_codes.txt")
 

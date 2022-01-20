@@ -30,7 +30,7 @@ def classify(homeIP, description):
     classifier = load_classifier(homeIP)
     vectorizer = load_vectorizer(homeIP)
     group = classifier.predict(vectorizer.transform([description]))
-    print(f"group: {group[0]}")
+
     return str(group[0])
 
 
@@ -40,6 +40,7 @@ def add_history(homeIP, description):
     f = open(path, "r")
     history = f.readline()[0].split(";")
     f.close()
+
     if len(history) >= 5:
         history = history[1:].append(description)
     else:
@@ -60,12 +61,11 @@ def get_history(homeIP, group):
 
 def suggest(homeIP, candidates, vectorizer):
     scores = []
-    print(f"candidates: {len(candidates)}")
     for description in candidates:
         # making clusters out of history and suggestion
         score = 0
         history = get_history(homeIP, classify(homeIP, description))
-        print(f"history: {len(history)}")
+
         for i in range(len(history)):
             data = [description, history[i], history[(i + 1) % (len(history))]]
             data = vectorizer.transform(data)
@@ -74,7 +74,6 @@ def suggest(homeIP, candidates, vectorizer):
 
             # scoring the candidate
             predictions = clf.predict(data)
-            print(f"predictions: {len(predictions[1:])}")
             for prediction in predictions[1:]:
                 if prediction == predictions[0]:
                     score += 1
@@ -130,9 +129,9 @@ def convert(homeIP):
         prices = [description[-2] for description in product]
         descriptions = [description[0] for description in product]
         indexes = [description[-1] for description in product]
-        print(datetime.now())
+
         scores = get_scores(homeIP, descriptions)
-        print(datetime.now())
+
         # combining scores and names of products
         combined = []
         for x in range(len(names)):
