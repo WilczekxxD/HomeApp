@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import os
 
-Path = "C:\Program Files (x86)\chromedriver.exe"
+Path = "chromedriver.exe"
 
 frisco_data = {"file": "frisco", "addr": "https://www.frisco.pl/?gclid=CjwKCAjwkdL6BRAREiwA-kiczMFr7_62jsQxMnhzWM94KfpTi8HKUi3wTsjQATuJ-6p0aCsQ09Zd8RoC5ggQAvD_BwE"}
 auchan_data = {"file": "auchan", "addr": "https://www.auchandirect.pl/auchan-warszawa/pl?gclid=EAIaIQobChMIq6GI09v_6wIViNeyCh36PwZ9EAAYASAAEgI-zvD_BwE"}
@@ -31,7 +31,7 @@ class Database:
             for product in list:
                 #opening file
                 file_name = self.file+"/" + product + ".txt"
-                f = open(file_name, "a")
+                f = open(file_name, "a", encoding='utf-8')
                 clean_file(file_name)
 
                 search_box_class = "input-text"

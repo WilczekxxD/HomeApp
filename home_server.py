@@ -208,13 +208,13 @@ def load_server():
     end = False
     while not end:
         dtb = Database()
-        f = open(os.path.join(os.getcwd(), "load.txt"), "r")
+        f = open(os.path.join(os.getcwd(), "load.txt"), "r", encoding='utf-8')
         line = f.readlines()[0]
         f.close()
         products = line.split(";")
         print(products[0])
         dtb.auchan.load_data([products[0]])
-        f = open(os.path.join(os.getcwd(), "load.txt"), "w")
+        f = open(os.path.join(os.getcwd(), "load.txt"), "w", encoding='utf-8')
         products = products[1:] + [products[0]]
         f.write(";".join(products))
         f.close()
