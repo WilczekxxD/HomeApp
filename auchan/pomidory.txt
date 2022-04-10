@@ -1,0 +1,407 @@
+#PPomidory - Drobne
+#Lprice
+3,30 ZŁ
+#LKraj Pochodzenia
+Kraj pochodzenia: HISZPANIA
+#LDystrybutor
+Auchan Polska Sp. z o.o., ul. Puławska 46, 05-500 Piaseczno
+#LMarka
+Pomodor
+#LNazwa Produktu Uregulowana Prawnie
+Pomidor drobny na wagę
+#LOpis Produktu
+Pomidor ma szerokie zastosowanie kulinarne. Moze byc stosowany jako dodatek do kanapek, skladnik salatek, sosow i przecierow. Pomidory mozna piec na grillu, w piekarniku, smazyc i faszerowac. W roznej postaci dodaje sie je do zup, sosow i potrawek.
+#LCechy
+Produkt jest sprzedawany na wagę. Nasze produkty ważymy celując w wagę wybraną przez Klienta. Podczas płatności za zamówienie zapłacisz cenę odpowiadającą wartości zważonego produktu w odniesieniu do ceny za kilogram obowiązującej w dniu zamówienia.
+#LKraj Pochodzenia
+Kraj pochodzenia: HISZPANIA
+#LSkladniki
+Pomidor
+#LPrzechowywanie
+Pomidory warto przechowywać w suchym pomieszczeniu, w temperaturze pokojowej
+#LAdres Dystrybutora
+Auchan Polska Sp. z o.o., ul. Puławska 46, 05-500 Piaseczno
+#LMiara
+Produkt na wagę od 300 g
+#PPomidory - Warzywo
+#Lprice
+5,28 ZŁ
+#LKraj Pochodzenia
+Kraj pochodzenia: HISZPANIA
+#LDystrybutor
+Auchan Polska Sp. z o.o., ul. Puławska 46, 05-500 Piaseczno
+#LNazwa Produktu Uregulowana Prawnie
+Pomidor na wagę
+#LOpis Produktu
+Pomidor ma szerokie zastosowanie kulinarne. Moze byc stosowany jako dodatek do kanapek, skladnik salatek, sosow i przecierow. Pomidory mozna piec na grillu, w piekarniku, smazyc i faszerowac. W roznej postaci dodaje sie je do zup, sosow i potrawek.
+#LCechy
+Produkt jest sprzedawany na wagę. Nasze produkty warzymy celując w wagę wybraną przez Klienta. Podczas płatności za zamówienie zapłacisz cenę odpowiadającą wartości zwarzonego produktu w odniesieniu do ceny za kilogram obowiązującej w dniu zamówienia.
+#LKraj Pochodzenia
+Kraj pochodzenia: HISZPANIA
+#LSkladniki
+Pomidor
+#LPrzechowywanie
+Pomidory warto przechowywać w suchym pomieszczeniu, w temperaturze pokojowej
+#LAdres Dystrybutora
+Auchan Polska Sp. z o.o., ul. Puławska 46, 05-500 Piaseczno
+#LMiara
+Produkt na wagę od 300 g
+#PPomidory - Malinowe
+#Lprice
+16,99 ZŁ
+#LKraj Pochodzenia
+Kraj pochodzenia: HISZPANIA
+#LNazwa Produktu Uregulowana Prawnie
+Pomidor malinowy
+#LOpis Produktu
+Klasa: 1. Kod wielk. (47-57). Odmiana: Enroza
+#LKraj Pochodzenia
+Kraj pochodzenia: HISZPANIA
+#LRodzaj Opakowania
+Opakowanie: foliowe/plastikowe
+#LAdres Producenta
+Dostawca: GPOIW Rozumki Sp. z o. o. ul. Piwonińska 110, 08-443 Sobienie Jeziory
+#LZawartosc Netto
+1 kg
+#LMiara
+1 kg
+#LEAN
+5906365710385
+#PPomidory - Koktajlowe kiściowe
+#Lprice
+10,99 ZŁ
+#LKraj Pochodzenia
+Kraj pochodzenia: POLSKA
+#LNazwa Produktu Uregulowana Prawnie
+Pomidor koktajlowy kiściowy 500g
+#LOpis Produktu
+Klasa: 1.
+#LKraj Pochodzenia
+Kraj pochodzenia: POLSKA
+#LRodzaj Opakowania
+Foremka plastikowa
+#LSkladniki
+Pomidor koktajlowy kiściowy
+#LAdres Producenta
+Grupa Producentów Owoców i Warzyw "Gospodarstwo Ogrodnicze T. Mularski" Sp. Z o.o., 66-415 Kłodawa, ul. Gorzowska 2, Różanki, tel.: +48/32 267 21 71
+#LZawartosc Netto
+500 g
+#LMiara
+500 g
+#LEAN
+5906365710309
+#PPomidor - Podłużny Roma
+#Lprice
+6,59 ZŁ
+#LKraj Pochodzenia
+Kraj pochodzenia: MAROKO
+#LDystrybutor
+AGRI GEM Sp. z o. o. ul. Nowopolna 8, 67-400 Wschowa, Polska
+#LMarka
+Agri GeM
+#LNazwa Produktu Uregulowana Prawnie
+Pomidor podłużny Roma
+#LOpis Produktu
+Typ handlowy: podłużny, kaliber: 47-57 mm, klasa: 1.
+#LKraj Pochodzenia
+Kraj pochodzenia: MAROKO
+#LRodzaj Opakowania
+Opakwoanie: plastikowe
+#LSkladniki
+Pomidor podłużny Roma
+#LAdres Dystrybutora
+AGRI GEM Sp. z o. o. ul. Nowopolna 8, 67-400 Wschowa, Polska
+#LZawartosc Netto
+500 g
+#LMiara
+500 g
+#LEAN
+5906365710408
+#PPomidory - Mix bankietowy
+#Lprice
+14,99 ZŁ
+#LKraj Pochodzenia
+Kraj pochodzenia: MAROKO
+#LMarka
+Vega POL
+#LNazwa Produktu Uregulowana Prawnie
+Pomidor mix bankietowy
+#LOpis Produktu
+Klasa 1. Kaliber: 2 (25-30)
+#LKraj Pochodzenia
+Kraj pochodzenia: MAROKO
+#LRodzaj Opakowania
+Foremka plastikowa
+#LPochodzenie
+Produkt Polski
+#LSkladniki
+Pomidory
+#LAdres Producenta
+Vegapol Sp. z o.o., Janów 50, 05-480 Karczew
+#LZawartosc Netto
+600 g
+#LMiara
+600 g
+#LEAN
+5904814035140
+#PPomidor - Malinowy luz
+#Lprice
+8,99 ZŁ
+#LKraj Pochodzenia
+Kraj pochodzenia: POLSKA
+#LNazwa Produktu Uregulowana Prawnie
+Pomidory malinowe
+#LOpis Produktu
+Klasa I
+#LKraj Pochodzenia
+Kraj pochodzenia: POLSKA
+#LAdres Producenta
+Grupa Produkcji Owoców i Warzyw Sp. z o. o.
+#LMiara
+Produkt na wagę od 500 g
+#PCirio - Pomidory w kawakach z bazylią
+#Lprice
+4,79 ZŁ
+#LMarka
+Cirio
+#LNazwa Produktu Uregulowana Prawnie
+Pomidory w kawakach z bazylią
+#LKraj Pochodzenia
+Wyprodukowano we Włoszech
+#LRodzaj Opakowania
+Konserwa
+#LJednostka Opisowa
+g
+#LSkladniki
+Pomidory w kawałkach 65%, sok pomidorowy, bazylia 0,8%, cukier, sól, naturalny aromat bazylii, regulator kwasowości: kwas cytrynowy
+#LPrzechowywanie
+Po otwarciu produkt należy przechowywać w lodówce, w pojemniku innym niż metalowy. Spożyć w ciągu 3-4 dni.
+#LAdres Dystrybutora
+North Coast S.A., ul. 3-go Maja 8, 05-800 Pruszków
+#LZawartosc Netto
+400 g
+#LEAN
+8001440120756
+#PVeres - Pomidory marynowane
+#Lprice
+8,27 ZŁ
+#LMasa Po Odsaczeniu
+390 g
+#LMarka
+Veres
+#LNazwa Produktu Uregulowana Prawnie
+Pomidory marynowane – Soczyste, o delikatnym i łagodnym smaku, lekko kwaśne, lekko słodkie. Produkt sterylizowany
+#LOpis Produktu
+Tradycyjny smak z Ukrainy
+#LKraj Pochodzenia
+Wyprodukowano na Ukrainie
+#LRodzaj Opakowania
+Opakowanie: szklany słoik
+#LSkladniki
+Pomidory 50%, woda, cukier, sól, koperek, regulator kwasowości (kwas octowy), liście chrzanu, czosnek, liść laurowy, papryka ostra krojona
+#LPrzechowywanie
+Przechowywać w chłodnym i suchym miejscu
+#LWarunki Przechowywania
+Po otwarciu opakowania przechowywać w lodówce
+#LAdres Dystrybutora
+Kravets s.c Al. Bohaterów Września 18/42, 02-839 Warszawa
+#LZawartosc Netto
+780 g
+#LEAN
+4823105400775
+#PMutti - Pomidory koktajlowe 100% Italiani
+#Lprice
+6,48 ZŁ
+#LMasa
+Waga brutto - 464 g
+#LMasa Po Odsaczeniu
+240 g
+#LMarka
+Mutti
+#LMarka Standaryzowana
+Mutti
+#LNazwa Produktu Uregulowana Prawnie
+Pomidory koktajlowe. 100% Italiano
+#LOpis Produktu
+Gwarancja 100% włoskich upraw. Wolne od GMO. Produkt bezglutenowy i odpowiedni dla Wegan.
+#LKraj Pochodzenia
+Kraj pochodzenia - Włochy
+#LRodzaj Opakowania
+Puszka
+#LMasa Netto
+400 g
+#LPochodzenie
+Wyprodukowano we Włoszech
+#LJednostka Opisowa
+g
+#LSkladniki
+pomidory koktajlowe, sok pomidorowy
+#LInformacje Dot Stylu Zycia
+Produkt odpowiedni dla wegan
+#LInformacje O Recyklingu
+Opakowanie - Nadające się do recyklingu
+#LZalecenia Dla Alergikow
+Gluten - Nie zawiera
+#LPrzechowywanie
+Po otwarciu przechowywać w lodówce i spożyć w ciągu 3 dni.
+#LAdres Producenta
+Mutti S.p.A. Via Traversetolo 28, 43022 Montechiarugolo, Parma, Włochy,
+#LAdres Zwrotny
+Mutti S.p.A. Via Traversetolo 28, 43022 Montechiarugolo, Parma, Włochy,
+#LEAN
+8005110550508
+#PMelvit - Trendy lunch orkisz, vermicelli, pomidory
+#Lprice
+5,68 ZŁ
+#PManfuso - Pomidory w kawałkach Bio
+#Lprice
+3,98 ZŁ
+#LMasa
+Waga brutto - 464 g
+#LMasa Po Odsaczeniu
+240 g
+#LMarka
+Manfuso
+#LMarka Standaryzowana
+Manfuso
+#LNazwa Produktu Uregulowana Prawnie
+Pomidory w kawałkach Bio
+#LKraj Pochodzenia
+Kraj pochodzenia - Włochy
+#LRodzaj Opakowania
+Puszka konserwowa
+#LMasa Netto
+400 g
+#LPochodzenie
+Wyprodukowane we Włoszech
+#LDodatkowe Informacje
+Unijne logo rolnictwa ekologicznego, FSC - Mix, Green Dot
+#LLogotypy Stron Trzecich Cd
+Unijne logo rolnictwa ekologicznego - IT-BIO-006, Rolnictwo UE, FSC - Mix Label, FSC C134422
+#LJednostka Opisowa
+g
+#LSkladniki
+pomidory BIO 60%, sok z pomidorów BIO 40%
+#LInformacje Dot Stylu Zycia
+Organiczne
+#LPrzechowywanie
+Po otwarciu przechowywać w innym pojemniku w temperaturze <4°C i spożyć w ciągu 3 dni.
+#LAdres Dystrybutora
+Eko-Wital Sp. z o.o. ul. Staniewicka 5, 03-310 Warszawa,
+#LAdres Zwrotny
+Eko-Wital Sp. z o.o. ul. Staniewicka 5, 03-310 Warszawa,
+#LEAN
+8012462988903
+#PManfuso - Pomidory bez skórki Bio
+#Lprice
+3,98 ZŁ
+#LMasa
+Waga brutto - 466 g
+#LMasa Po Odsaczeniu
+240 g
+#LMarka
+Manfuso
+#LMarka Standaryzowana
+Manfuso
+#LNazwa Produktu Uregulowana Prawnie
+Pomidory bez skórki Bio
+#LKraj Pochodzenia
+Kraj pochodzenia - Włochy
+#LRodzaj Opakowania
+Puszka
+#LMasa Netto
+400 g
+#LPochodzenie
+Wyprodukowane we Włoszech
+#LDodatkowe Informacje
+Unijne logo rolnictwa ekologicznego, FSC - Mix, Green Dot
+#LLogotypy Stron Trzecich Cd
+Unijne logo rolnictwa ekologicznego - IT-BIO-006, Rolnictwo UE, FSC - Mix Label, FSC C134422
+#LJednostka Opisowa
+g
+#LSkladniki
+pomidory BIO 60%, sok z pomidorów BIO 40%
+#LInformacje Dot Stylu Zycia
+Organiczne
+#LPrzechowywanie
+Po otwarciu przechowywać w innym pojemniku w temperaturze <4°C i spożyć w ciągu 3 dni.
+#LAdres Dystrybutora
+Eko-Wital Sp. z o.o. ul. Staniewicka 5, 03-310 Warszawa,
+#LAdres Zwrotny
+Eko-Wital Sp. z o.o. ul. Staniewicka 5, 03-310 Warszawa,
+#LEAN
+8012462003040
+#PAuchan - Bio Pomidory całe
+#Lprice
+3,79 ZŁ
+#LMasa Po Odsaczeniu
+240 g
+#LMarka
+Produkt marki Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Ekologiczne pomidory całe bez skórki w soku pomidorowym. Produkt pasteryzowany
+#LKraj Pochodzenia
+Wyprodukowano we Włoszech
+#LRodzaj Opakowania
+Opakowanie: metalowe
+#LDodatkowe Informacje
+IT-BIO-006 Rolnictwo Włochy
+#LSkladniki
+Pomidory* 60%, sok pomidorowy* 39,9%, sól, regulator kwasowości (kwas cytrynowy)
+#LSklad Produktu
+*Składniki ekologiczne
+#LOstrzeżenia Dotyczące Bezpieczeństwa
+Produkt może zawierać skórki lub ich fragmenty
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu
+#LWarunki Przechowywania
+Po otwarciu przechowywać w niemetalowym opakowaniu w lodówce do 72 godzin
+#LAdres Importera
+Greek Trade Sp. z o. o. ul. Tadeusza Śliwiaka 14, 30-797 Kraków
+#LAdres Dystrybutora
+Auchan Polska Sp. z o. o. ul. Puławska 46, 05-500 Piaseczno. PL-EKO-12
+#LZawartosc Netto
+400 g
+#LEAN
+5904215150084
+#PCirio - Pomidory w kawałkach
+#Lprice
+4,19 ZŁ
+#LKraj Pochodzenia
+Kraj pochodzenia - Włochy
+#LDystrybutor
+North Coast S.A., , ul. 3 Maja 8, 05-800 Pruszków,
+#LMasa
+Waga brutto - 454 g
+#LMasa Po Odsaczeniu
+250 g
+#LMarka
+Cirio
+#LMarka Standaryzowana
+Cirio
+#LNazwa Produktu Uregulowana Prawnie
+Pomidory w kawałkach
+#LKraj Pochodzenia
+Kraj pochodzenia - Włochy
+#LRodzaj Opakowania
+Puszka
+#LMasa Netto
+400 g
+#LPochodzenie
+Tekst dowolny o pochodzeniu - Wyprodukowano we Włoszech
+#LJednostka Opisowa
+g
+#LSkladniki
+pomidory w kawałkach, sok pomidorowy, regulator kwasowości: kwas cytrynowy
+#LPrzechowywanie
+Po otwarciu zawartość przełożyć do niemetalowego naczynia i przechowywać w lodówce. Spożyć w ciągu 3-4 dni.
+#LWarunki Przechowywania
+Po otwarciu spożyć w ciągu 3-4 dni
+#LAdres Dystrybutora
+North Coast S.A., , ul. 3 Maja 8, 05-800 Pruszków,
+#LAdres Zwrotny
+North Coast S.A., , ul. 3 Maja 8, 05-800 Pruszków,
+#LZawartosc Netto
+400 g
+#LEAN
+8000320010118

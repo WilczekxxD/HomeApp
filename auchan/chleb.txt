@@ -1,0 +1,391 @@
+#PChleb - ze słonecznikiem
+#Lprice
+3,89 ZŁ
+#LMarka
+Pieczywo
+#LNazwa Produktu Uregulowana Prawnie
+Chleb ze słonecznikiem
+#LOpis Produktu
+Jeden z najsmaczniejszych chlebów z ziarnami. Z miękkim, regularnym miąższem, długo pozostający świeży. Chlebek z masełkiem i dodatkami to świetny pomysł na poranne śniadanie
+#LKraj Pochodzenia
+Kraj pochodzenia: Polska
+#LZawartosc Opakowania
+-
+#LSkladniki
+Mąka PSZENNA 39%, woda, naturalny zakwas (mąka ŻYTNIA 16%, woda), ziarna słonecznika 10%, drożdże, sól, środek do przetwarzania mąki (kwas askorbinowy)
+#LZalecenia Dla Alergikow
+Produkt może zawierać ORZESZKI ZIEMNE I INNE ORZECHY,MLEKO, SEZAM I SOJĘ
+#LZawartosc Netto
+450g
+#LMiara
+450 g
+#PChleb - ze słonecznikiem
+#Lprice
+3,89 ZŁ
+#LMarka
+Pieczywo
+#LNazwa Produktu Uregulowana Prawnie
+Chleb ze słonecznikiem
+#LOpis Produktu
+Jeden z najsmaczniejszych chlebów z ziarnami. Z miękkim, regularnym miąższem, długo pozostający świeży. Chlebek z masełkiem i dodatkami to świetny pomysł na poranne śniadanie
+#LKraj Pochodzenia
+Kraj pochodzenia: Polska
+#LZawartosc Opakowania
+-
+#LSkladniki
+Mąka PSZENNA (44%), woda, mąka ŻYTNIA (18,2%), ziarna słonecznika (6%), drożdże, sól, pasteryzowany zakwas ŻYTNI w płynie [woda, mąka fermentowana ŻYTNIA, sól], mieszanka piekarska [mąka PSZENNA, środek do przetwarzania mąki: kwas askorbinowy]
+#LZalecenia Dla Alergikow
+Może dodatkowo zawierać: JĘCZMIEŃ, OWIES, SOJĘ, SEZAM, JAJA, MLEKO, ORZESZKI ARACHIDOWE
+#LPrzechowywanie
+Przechowywać w temperaturze pokojowej
+#LAdres Producenta
+ZAKŁAD PRODUKCJI ARTYKUŁÓW SPOŻYWCZYCH ,,MISTER,, KAROL BINKOWSKI, RYSZARD BINKOWSKI SP. J NOWA SŁUPIA JEZIORKO 99C
+#LZawartosc Netto
+450g
+#LMiara
+450 g
+#PChleb - żytni
+#Lprice
+4,19 ZŁ
+#LMarka
+Pieczywo
+#LNazwa Produktu Uregulowana Prawnie
+Chleb żytni
+#LOpis Produktu
+Chleb żytni to rodzaj chleba wytwarzany z różnych proporcji mąki z ziarna żyta. Jest zazwyczaj gęstszy niż chleb wykonany z mąki pszennej. Ma więcej błonnika niż biały chleb i jest ciemniejszy i mocniejszy w smaku
+#LKraj Pochodzenia
+Kraj pochodzenia: Polska
+#LZawartosc Opakowania
+-
+#LSkladniki
+Mąka ŻYTNIA (62%), woda, pasteryzowany zakwas ŻYTNI w płynie [woda, mąka fermentowana ŻYTNIA, sól], sól, drożdże
+#LZalecenia Dla Alergikow
+Może zawierać dodatkowo: PSZENICĘ, SOJĘ, SEZAM, JAJA, MLEKO, ORZESZKI ARACHIDOWE, OWIES, JĘCZMIEŃ
+#LAdres Producenta
+ZAKŁAD PRODUKCJI ARTYKUŁÓW SPOŻYWCZYCH ,,MISTER,, KAROL BINKOWSKI, RYSZARD BINKOWSKI SP. J NOWA SŁUPIA JEZIORKO 99C
+#LZawartosc Netto
+500g
+#LMiara
+500 g
+#PChleb - pszenno żytni
+#Lprice
+2,49 ZŁ
+#LMarka
+Pieczywo
+#LNazwa Produktu Uregulowana Prawnie
+Chleb pszenno - żytni
+#LOpis Produktu
+Pyszny chlebek z chrupiącą skórką idealnie sprawdzi się do masełka na śniadanie. Ma wilgotny, sprężysty miąższ dzięki czemu mamy wrażenie że rozpuszcza się w ustach
+#LKraj Pochodzenia
+Kraj pochodzenia: Polska
+#LZawartosc Opakowania
+-
+#LSkladniki
+Mąka PSZENNA 43%, woda, naturalny zakwas (mąka ŻYTNIA 16%, woda), drożdże, sól, środek do przetwarzania mąki (kwas askorbinowy)
+#LZalecenia Dla Alergikow
+Produkt może zawierać ORZESZKI ZIEMNE I INNE ORZECHY, SEZAM, MLEKO I SOJĘ
+#LZawartosc Netto
+600 g
+#LMiara
+600 g
+#PChleb - żytnio - razowy
+#Lprice
+3,89 ZŁ
+#LMarka
+Pieczywo
+#LNazwa Produktu Uregulowana Prawnie
+Chleb żytnio - razowy
+#LOpis Produktu
+Zachowuje długo świeżość, ma miękki, lekko wilgotno-lepki miąższ i pyszną skórkę. Idealny na kanapki
+#LKraj Pochodzenia
+Kraj pochodzenia: Polska
+#LZawartosc Opakowania
+-
+#LSkladniki
+Mąka ŻYTNIA (62%), mąka ŻYTNIA razowa (24,8%), woda, pasteryzowany zakwas ŻYTNI w płynie [woda, mąka fermentowana ŻYTNIA, sól], sól, drożdże
+#LZalecenia Dla Alergikow
+Może zawierać dodatkowo: PSZENICĘ, SOJĘ, SEZAM, JAJA, MLEKO, ORZESZKI ARACHIDOWE, OWIES, JĘCZMIEŃ
+#LAdres Producenta
+ZAKŁAD PRODUKCJI ARTYKUŁÓW SPOŻYWCZYCH ,,MISTER,, KAROL BINKOWSKI, RYSZARD BINKOWSKI SP. J NOWA SŁUPIA JEZIORKO 99C
+#LZawartosc Netto
+500g
+#LMiara
+500 g
+#PChleb - pszenno - żytni
+#Lprice
+2,49 ZŁ
+#LMarka
+Pieczywo
+#LNazwa Produktu Uregulowana Prawnie
+Chleb pszenno - żytni
+#LOpis Produktu
+Pyszny chlebek z chrupiącą skórką idealnie sprawdzi się do masełka na śniadanie. Ma wilgotny, sprężysty miąższ dzięki czemu mamy wrażenie że rozpuszcza się w ustach
+#LKraj Pochodzenia
+Kraj pochodzenia: Polska
+#LZawartosc Opakowania
+-
+#LSkladniki
+Mąka PSZENNA (47%), woda, mąka ŻYTNIA (19%), drożdże, pasteryzowany zakwas ŻYTNI w płynie [woda, mąka fermentowana ŻYTNIA, sól], sól, mieszanka piekarska [mąka PSZENNA, środek do przetwarzania mąki: kwas askorbinowy]
+#LZalecenia Dla Alergikow
+Może dodatkowo zawierać: SOJĘ, SEZAM, JAJA, OWIES, ORZESZKI ARACHIDOWE, JĘCZMIEŃ
+#LPrzechowywanie
+Przechowywać w temperaturze pokojowej
+#LAdres Producenta
+ZAKŁAD PRODUKCJI ARTYKUŁÓW SPOŻYWCZYCH ,,MISTER,, KAROL BINKOWSKI, RYSZARD BINKOWSKI SP. J NOWA SŁUPIA JEZIORKO 99C
+#LZawartosc Netto
+600g
+#LMiara
+600 g
+#POskroba - Chleb graham
+#Lprice
+3,43 ZŁ
+#LMasa
+Waga brutto - 355 g
+#LMarka
+Oskroba
+#LMarka Standaryzowana
+Oskroba
+#LNazwa Produktu Uregulowana Prawnie
+Chleb pszenno-żytni, krojony
+#LPozostale Informacje
+Jedna porcja (kromka) ok. 70 g zawiera: energia 657 kJ 155 kcal 8%*, tłuszcz 1,5 g 2%*, kw. tł. nasycone 0,2 g 1%*, cukry 0,3 g 0%*, sól 0,85 g 14%*, *% RWS - referencyjna wartość spożycia dla przeciętnej osoby dorosłej (8 400 kJ/2 000 kcal).
+#LCechy
+na naturalnym zakwasie, bez drożdży, bez polepszaczy, bez substancji konserwujących
+#LRodzaj Opakowania
+Zgrzewane
+#LMasa Netto
+330 g
+#LSkladniki
+mąka PSZENNA (w tym graham 45,8%), woda, mąka ŻYTNIA, sól, kminek
+#LDodatki
+Substancje konserwujące - Nie zawiera
+#LZalecenia Dla Alergikow
+Pszenica - Zawiera, Jaja - Może zawierać, Mleko - Może zawierać, Orzeszki ziemne - Może zawierać, Żyto - Zawiera, Soja - Może zawierać, Sezam - Może zawierać
+#LPrzechowywanie
+Przechowywać w temperaturze pokojowej w suchym miejscu. Po otwarciu zaleca się spożyć w ciągu 3 dni.
+#LAdres Producenta
+Piekarnia Oskroba S.A. Człekówka 90, 05-340 Kołbiel,
+#LAdres Zwrotny
+Piekarnia Oskroba S.A. Człekówka 90, 05-340 Kołbiel, www.oskroba.pl,
+#LMiara
+330 g
+#LEAN
+5900340000133
+#PChleb - razowy ze słonecznikiem
+#Lprice
+4,19 ZŁ
+#LMarka
+Pieczywo
+#LNazwa Produktu Uregulowana Prawnie
+Chleb razowy ze słonecznikiem
+#LOpis Produktu
+Chleb z mąki żytniej razowej i jasnej mąki pszennej, z dodatkiem ziaren słonecznika. Z masełkiem i dodatkami to świetny pomysł na poranne śniadanie
+#LKraj Pochodzenia
+Kraj pochodzenia: Polska
+#LZawartosc Opakowania
+-
+#LSkladniki
+Woda, mąka ŻYTNIA, mąka ŻYTNIA razowa (24%), ziarna słonecznika (7%), pasteryzowany zakwas ŻYTNI w płynie [woda, mąka fermentowana ŻYTNIA, sól], sól, drożdże
+#LZalecenia Dla Alergikow
+Może zawierać dodatkowo: PSZENICĘ, SOJĘ, SEZAM, JAJA, MLEKO, ORZESZKI ARACHIDOWE, OWIES, JĘCZMIEŃ
+#LAdres Producenta
+ZAKŁAD PRODUKCJI ARTYKUŁÓW SPOŻYWCZYCH ,,MISTER,, KAROL BINKOWSKI, RYSZARD BINKOWSKI SP. J NOWA SŁUPIA JEZIORKO 99C
+#LZawartosc Netto
+500 g
+#LMiara
+500 g
+#PPutka - Chleb żytni
+#Lprice
+4,89 ZŁ
+#LMarka
+Putka
+#LNazwa Produktu Uregulowana Prawnie
+Chleb formowy w 100% z mąki żytniej 400 g
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LSkladniki
+naturalny zakwas ŻYTNI (50%) (mąka ŻYTNIA 52%, woda), mąka ŻYTNIA (35%), woda, sól, SERWATKA (z MLEKA)
+#LZalecenia Dla Alergikow
+Produkt może zawierać ORZESZKI ZIEMNE i inne ORZECHY, PSZENICĘ, SEZAM, SOJĘ, JAJA, MLEKO i pochodne, GORCZYCĘ i ŁUBIN
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu
+#LAdres Producenta
+Putka sp. z o.o. ul. Sadowa 36, 05-850 Jawczyce
+#LMiara
+400 g
+#PPutka - Chleb pszenno żytni wieloziarnisty
+#Lprice
+4,08 ZŁ
+#LMarka
+Putka
+#LNazwa Produktu Uregulowana Prawnie
+Chleb pszenno-żytni z dodatkiem ziaren żyta, jęczmienia, soi, siemienia lnianego, nasion słonecznika i sezamu.
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Opakowanie plastikowe
+#LSkladniki
+mąka PSZENNA, naturalny zakwas ŻYTNI (mąka ŻYTNIA, woda), mieszanka ziaren (ŻYTO, PSZENICA, JĘCZMIEŃ, SOJA, siemię lniane, SEZAM), woda, nasiona słonecznika, słód JĘCZMIENNY, drożdże, sól, otręby PSZENNE, płatki OWSIANE, serwatka (z MLEKA), słód ŻYTNI
+#LInformacje Dot Stylu Zycia
+Źródło błonnika, źródło białka
+#LAdres Producenta
+PUTKA spółka z ograniczoną odpowiedzialnością sp.k., ul. Brata Alberta 1, 05-075 Warszawa Wesoła, tel. 22 31 06 300, fax 22 773 42 16
+#LZawartosc Netto
+450 g
+#LMiara
+450 g
+#LEAN
+5901948002901
+#PPutka - Chleb żytnio pszenny
+#Lprice
+5,19 ZŁ
+#LMarka
+Putka
+#LNazwa Produktu Uregulowana Prawnie
+Żytnio-pszenny chleb z dużą ilością ziaren żyta, nasion słonecznika i siemienia lnianego, pakowany po 7 kromek.
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Opakowanie plastikowe
+#LSkladniki
+Mąka ŻYTNIA, woda, nasiona słonecznika (15%), mąka PSZENNA, naturalny zakwas ŻYTNI (mąka ŻYTNIA, woda), mąka ŻYTNIA razowa, ziarna ŻYTA (8%), siemię lniane (4%), słód JĘCZMIENNY, cukier, sól, drożdże.
+#LInformacje Dot Stylu Zycia
+Źródło błonnika, Wysoka zawartość tłuszczów nienasyconych. Bez laktozy
+#LAdres Producenta
+PUTKA spółka z ograniczoną odpowiedzialnością sp.k., ul. Brata Alberta 1, 05-075 Warszawa Wesoła, tel. 22 31 06 300, fax 22 773 42 16
+#LZawartosc Netto
+350 g
+#LMiara
+350 g
+#LEAN
+5901948001492
+#PBenus - Chleb wieloziarnisty
+#Lprice
+4,44 ZŁ
+#LMasa
+Waga brutto - 540 g
+#LMarka
+Mestemacher
+#LMarka Standaryzowana
+Mestemacher
+#LNazwa Produktu Uregulowana Prawnie
+Chleb wielozbożowy pełnoziarnisty. Bez substancji konserwujących, pasteryzowany.
+#LCechy
+z naturalnym zakwasem, wysoka zawartość błonnika, również pyszny z tostera!
+#LDodatkowe Informacje
+przepisy na www.benus.pl.
+#LRodzaj Opakowania
+Torebka
+#LMasa Netto
+500 g
+#LSkladniki
+rozdrobnione ziarno ŻYTNIE i mąka ŻYTNIA (45%), woda, zakwas (22%) (rozdrobnione ziarno ŻYTNIE, woda), siemię lniane, płatki OWSIANE (2%), mąka PSZENNA (1%), sól, BŁONNIK OWSIANY, drożdże, środek do przetwarzania mąki: kwas askorbinowy
+#LOswiadczenia Zywieniowe
+Wysoka zawartość błonnika.
+#LDodatki
+konserwanty - Nie zawiera
+#LZalecenia Dla Alergikow
+MLEKO - Może zawierać, ORZECHY - Może zawierać, OWIES - Zawiera, ŻYTO - Zawiera, SEZAM - Może zawierać, SOJA - Może zawierać, PSZENICA - Zawiera
+#LPrzygotowanie I Stosowanie
+Produkt zapakowany nadaje się do robienia zapasów. Po rozpakowaniu jak najszybciej spożyć.
+#LAdres Producenta
+BENUS Sp. z o.o., ul. Wykopy 5, 60-001 Poznań, tel. (+48) 61 651 78 06,
+#LAdres Zwrotny
+BENUS Sp. z o.o., ul. Wykopy 5, 60-001 Poznań, tel. (+48) 61 651 78 06,
+#LUwagi Do Wartości Odżywczych
+Informacja dla diabetyków 1 kromka to ok. 2,0 WW
+#LOznaczenia Specjalne
+Opakowanie zawiera 7 porcji.
+#LUwagi Do Wart Odzywczych 03
+* % RWS - referencyjna wartość spożycia dla przeciętnej osoby dorosłej (8400 kJ/ 2000 kcal)
+#LMiara
+500 g
+#LEAN
+5900585000028
+#POskroba - Chleb wileński
+#Lprice
+3,19 ZŁ
+#LMasa
+Waga brutto - 360 g
+#LMarka
+Oskroba
+#LMarka Standaryzowana
+Oskroba
+#LNazwa Produktu Uregulowana Prawnie
+Chleb żytni, formowany - razowy, krojony.
+#LPozostale Informacje
+Jedna kromka (około 55 g) zawiera: energia 527 kJ 126 kcal 6%*, tłuszcz 0,9 g 1%*, kw. tł. nasycone 0,2 g 1%*, cukry 2,1 g 2%*, sól 0,6 g 11%*, *% RWS - referencyjna wartość spożycia dla przeciętnej osoby dorosłej (8 400 kJ/2 000 kcal).
+#LCechy
+na naturalnym zakwasie, bez dodatku drożdży, bez polepszaczy, bez substancji konserwujących
+#LRodzaj Opakowania
+Zgrzewane
+#LMasa Netto
+330 g
+#LSkladniki
+mąka ŻYTNIA 52,5% (w tym razowa 24,4%), zakwas ŻYTNI 30% (mąka ŻYTNIA razowa 15%, woda), woda, sól, kminek
+#LDodatki
+Substancje konserwujące - Nie zawiera
+#LZalecenia Dla Alergikow
+Jaja - Może zawierać, Mleko - Może zawierać, Orzeszki ziemne - Może zawierać, Żyto - Zawiera, Soja - Może zawierać, Sezam - Może zawierać
+#LPrzechowywanie
+Przechowywać w temperaturze pokojowej w suchym miejscu. Po otwarciu zaleca się spożyć w ciągu 3 dni.
+#LAdres Producenta
+Piekarnia Oskroba S.A. Człekówka 90, 05-340 Kołbiel,
+#LAdres Zwrotny
+Piekarnia Oskroba S.A. Człekówka 90, 05-340 Kołbiel, www.oskroba.pl,
+#LMiara
+330 g
+#LEAN
+5900340000119
+#PPutka - Chleb zwykły
+#Lprice
+2,18 ZŁ
+#LMarka
+Putka
+#LNazwa Produktu Uregulowana Prawnie
+Biały chleb pszenno-żytni, krojony i pakowany
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Opakowanie: foliowe
+#LSkladniki
+mąka PSZENNA (54%), naturalny zakwas ŻYTNI (mąka ŻYTNIA (22%), woda), woda, sól, drożdże
+#LZalecenia Dla Alergikow
+Produkt może zawierać ORZESZKI ZIEMNE i inne ORZECHY, PSZENICĘ, SEZAM, SOJĘ, JAJA, MLEKO i pochodne, GORCZYCĘ i ŁUBIN
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu
+#LAdres Producenta
+Putka sp. z o.o. ul. Sadowa 36, 05-850 Jawczyce
+#LZawartosc Netto
+500 g
+#LMiara
+500 g
+#LEAN
+5901948002024
+#PGrzybki - Chleb orkiszowy
+#Lprice
+8,08 ZŁ
+#LRozszerzona Nazwa Produktu
+Cheb pszenny orkiszowy
+#LMarka
+Grzybki
+#LNazwa Produktu Uregulowana Prawnie
+Chleb orkiszowy
+#LOpis Produktu
+Chleb z maki orkiszowej, wypiekany na naturalnym zakwasie orkiszowym, o niskim indeksie glikemicznym
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LSkladniki
+mąka ORKISZOWA 40%, woda, płatki ORKISZOWE 10%, obłuszczone ziarno ORKISZU , wysuszony zakwas ORKISZU pełnoziarnistego, olej rzepakowy, sól, piekarskie drożdże prasowane.
+#LZalecenia Dla Alergikow
+Produkt może zawierać ORZECHY, SEZAM oraz MLEKO i produkty pochodne
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu
+#LAdres Producenta
+Piekarnia K. i A. Cichowscy, E. Federowicz, Spółka jawna
+#LZawartosc Netto
+370 g
+#LMiara
+370 g
+#LEAN
+5904304000962

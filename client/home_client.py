@@ -26,7 +26,7 @@ import socket
 # socket info
 
 HEADER = 64
-PORT = 5051
+PORT = 5050
 FORMAT = 'utf-8'
 DISCONNECT_MESSAGE = "!DISCONNECT"
 SERVER = "192.168.1.72"
@@ -195,7 +195,6 @@ class ShoppingWindow(Screen):
                 scroll_layout.add_widget(button)
 
         self.list_viewer.add_widget(scroll_layout)
-
 
     # def edit_quantity(self, instance):
     def increase_quantity(self, instance):
@@ -563,7 +562,7 @@ class FinalListWindow(Screen):
         # instead of deleting whole product class deletes only single suggestions
         index = instance.__getattribute__("Pindex")
 
-        converted_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+        converted_list_path = os.path.join(os.getcwd(), "final_list.txt")
         converted_list_file = open(converted_list_path, "r")
         converted_list = converted_list_file.readlines()
 
@@ -573,7 +572,7 @@ class FinalListWindow(Screen):
         converted_list_file.close()
 
         # writing it down
-        final_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+        final_list_path = os.path.join(os.getcwd(), "final_list.txt")
         final_list_file = open(final_list_path, "w")
         for product in converted_list:
             final_list_file.write(product)
@@ -583,7 +582,7 @@ class FinalListWindow(Screen):
 
     def increase_quantity(self, instance):
         # local final list
-        converted_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+        converted_list_path = os.path.join(os.getcwd(), "final_list.txt")
         converted_list_file = open(converted_list_path, "r")
         converted_list = converted_list_file.readlines()
         converted_list_file.close()
@@ -599,7 +598,7 @@ class FinalListWindow(Screen):
         converted_list[instance.index] = suggestions
 
         # updating converted list locally
-        final_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+        final_list_path = os.path.join(os.getcwd(), "final_list.txt")
         print(final_list_path)
         final_list_file = open(final_list_path, "w")
         for product in converted_list:
@@ -612,7 +611,7 @@ class FinalListWindow(Screen):
         # local info
         if instance.quantity > 0:
             # local final list
-            converted_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+            converted_list_path = os.path.join(os.getcwd(), "final_list.txt")
             converted_list_file = open(converted_list_path, "r")
             converted_list = converted_list_file.readlines()
             converted_list_file.close()
@@ -628,7 +627,7 @@ class FinalListWindow(Screen):
             converted_list[instance.index] = suggestions
 
             # updating converted list locally
-            final_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+            final_list_path = os.path.join(os.getcwd(), "final_list.txt")
             final_list_file = open(final_list_path, "w")
             for suggestions in converted_list:
                 final_list_file.write(suggestions)
@@ -638,7 +637,7 @@ class FinalListWindow(Screen):
     def show_info(self, instance):
         index = instance.Pindex
 
-        converted_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+        converted_list_path = os.path.join(os.getcwd(), "final_list.txt")
         converted_list_file = open(converted_list_path, "r")
         converted_list = converted_list_file.readlines()
         converted_list_file.close()

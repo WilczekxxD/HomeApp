@@ -212,7 +212,7 @@ def load_server():
         line = f.readlines()[0]
         f.close()
         products = line.split(";")
-        print(products[0])
+        print(products)
         dtb.auchan.load_data([products[0]])
         f = open(os.path.join(os.getcwd(), "load.txt"), "w", encoding='utf-8')
         products = products[1:] + [products[0]]

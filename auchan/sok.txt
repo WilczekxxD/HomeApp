@@ -1,0 +1,507 @@
+#POryginalny Sok - Sok z pomarańczy 100%
+#Lprice
+5,98 ZŁ
+#LMarka
+Dobra Marka
+#LNazwa Produktu Uregulowana Prawnie
+Sok z pomarańczy 100% NFC. Pasteryzowany
+#LOpis Produktu
+Jakość, zaufanie, renoma
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Opakowanie: szklane
+#LSkladniki
+Sok z pomarańczy 100% NFC
+#LInformacje Dot Stylu Zycia
+Sok z pomarańczy 100% NFC
+#LPrzechowywanie
+Przechowywać w temperaturze od 2'C do 22'C
+#LWarunki Przechowywania
+Po otwarciu przechowywać w lodówce i spożyć w ciągu 24 godzin
+#LUzytkowanie I Przechowywanie
+Ewentualny osad tworzą naturalne składniki soku. Przed użyciem wstrząsnąć
+#LPrzygotowanie
+Najsmaczniejszy po schłodzeniu od 2'C do 8'C
+#LAdres Producenta
+Biurkom Flampol Sp. z o. o. Szeligowo 1, 78-325 Redło
+#LZawartosc Netto
+330 ml
+#LMiara
+330 ml
+#LEAN
+5907632637190
+#PDawtona - Sok wielowarzywny
+#Lprice
+1,50 ZŁ
+#LMarka
+Dawtona
+#LMarka Standaryzowana
+Dawtona
+#LNazwa Produktu Uregulowana Prawnie
+Sok wielowarzywny częściowo z zagęszczonego soku. Produkt pasteryzowany.
+#LPozostale Informacje
+Informacja dla osób chorych na cukrzycę:, WW/100 ml - 0,33, WB/100 ml - 0,03, WT/100 ml - 0,00, WBT/100 ml - 0,03,
+#LDodatkowe Informacje
+wielka orkiestra świątecznej pomocy. Program Policz się z Cukrzycą.
+#LRodzaj Opakowania
+Butelka
+#LMasa Netto
+330 ml
+#LJednostka Opisowa
+ml
+#LSkladniki
+sok pomidorowy odtworzony z zagęszczonego soku pomidorowego (73%), przecier z papryki (20%), przecier z marchwi (6%), sól, przyprawy (zawierają SELER), regulator kwasowości: kwas cytrynowy, aromaty
+#LZalecenia Dla Alergikow
+SELER - Zawiera
+#LPrzechowywanie
+Miąższ z warzyw może powodować naturalne rozwarstwienie soku. Przechowywać w suchym i chłodnym miejscu. Po otwarciu przechowywać w lodówce do 48 godzin.
+#LPrzygotowanie I Stosowanie
+Przed otwarciem wstrząsnąć. ,
+#LAdres Producenta
+Dawtona Sp. z o.o. ul. Bieniewicka 52, 05-870 Błonie, www.dawtona.pl,
+#LAdres Zwrotny
+Dawtona Sp. z o.o. ul. Bieniewicka 52, 05-870 Błonie, www.dawtona.pl,
+#LUwagi Do Wartości Odżywczych
+Opakowanie zawiera 1 porcję produktu.
+#LOznaczenia Specjalne
+*Referencyjna wartość spożycia dla przeciętnej osoby dorosłej (8 400 kJ / 2 000 kcal).
+#LMiara
+330 ml
+#LEAN
+5901713002037
+#PNaturAvena - Sok karczoch, 100% soku
+#Lprice
+18,08 ZŁ
+#LMarka
+NaturAvena
+#LNazwa Produktu Uregulowana Prawnie
+Sok karczoch, 100% soku
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Butelka szklana
+#LJednostka Opisowa
+ml
+#LSkladniki
+Sok z karczocha 100% odtworzony z zagęszczonego soku
+#LPrzechowywanie
+Chronić przed bezpośrednim działaniem promieni słonecznych. Krystalizacja miodu jest naturalnym procesem i nie zmienia jego właściwości.
+#LAdres Dystrybutora
+NaturAvena Sp. Z o. o., ul. Raszyńska 13, 05-500 Piaseczno
+#LZawartosc Netto
+500 ml
+#LMiara
+500 ml
+#LEAN
+5908445475696
+#PLimenita - Sok NFC jabłko
+#Lprice
+15,22 ZŁ
+#LMarka
+Limenita
+#LNazwa Produktu Uregulowana Prawnie
+Sok z jabłek. 100% wyciśnięty sok. Produkt pasteryzowany
+#LRodzaj Opakowania
+Opakowanie: plastikowa butelka
+#LJednostka Opisowa
+L
+#LSkladniki
+sok z jabłek (naturalnie mętny) 100%
+#LPrzechowywanie
+Przechowywać w lodówce, w temperaturze pomiędzy 0°C a 7°C
+#LWarunki Przechowywania
+Po otwarciu przechowywać w lodówce i spożyć w ciągu 4 dni
+#LUzytkowanie I Przechowywanie
+Wstrząsnąć przed otwarciem
+#LAdres Producenta
+AMC Natural Drinks, S. L., Ctra. Madrid – Cartagena, Km 383, 30100 Espinardo (Murcia), Hiszpania
+#LZawartosc Netto
+2L
+#LMiara
+2 l
+#LEAN
+8410171015222
+#PAuchan - Sok z granatu
+#Lprice
+9,99 ZŁ
+#LMarka
+Produkt marki Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Sok z owoców granatu, bezpośrednio wyciśnięty, pasteryzacja flash. Źródło potasu
+#LOpis Produktu
+-
+#LKraj Pochodzenia
+Wyprodukowano we Francji
+#LRodzaj Opakowania
+Opakowanie: plastikowa butelka
+#LZawartosc Opakowania
+-
+#LDodatkowe Informacje
+-
+#LSkladniki
+Sok z owoców granatu
+#LDodatki
+-
+#LDolna Granica Wieku
+-
+#LZalecenia Dla Alergikow
+-
+#LPrzechowywanie
+Przechowywać w temperaturze do 6'C
+#LWarunki Przechowywania
+Po otwarciu przechowywać w lodówce i spożyć w ciągu 3 dni
+#LUzytkowanie I Przechowywanie
+Wstrząsnąć przed otwarciem
+#LPrzygotowanie
+-
+#LAdres Producenta
+-
+#LAdres Dystrybutora
+Auchan Polska Sp. z o. o. ul. Puławska 46, 05-500 Piaseczno
+#LZawartosc Netto
+500 ml
+#LMiara
+500 ml
+#LEAN
+3596710369164
+#PLimmi - Sok z cytryny
+#Lprice
+4,99 ZŁ
+#LMasa
+Waga brutto - 224 g
+#LMarka
+Limmi
+#LMarka Standaryzowana
+Limmi
+#LNazwa Produktu Uregulowana Prawnie
+Sok z cytryny.
+#LPozostale Informacje
+Bezglutenowe,
+#LCechy
+nr 1 we Włoszech, zawiera witaminę C, wyciśnięty ze świeżych owoców
+#LDodatkowe Informacje
+www.limmi.it.
+#LRodzaj Opakowania
+Butelka plastikowa
+#LMasa Netto
+200 ml
+#LJednostka Opisowa
+ml
+#LSkladniki
+sok z cytryny (99,97%), olejek eteryczny ze skórki cytryny, przeciwutleniacz: PIROSIARCZYN potasu
+#LPrzechowywanie
+Po otwarciu przechowywać w lodówce, aby produkt zachował smak i aromat bez zmian do daty ważności.
+#LPrzygotowanie I Stosowanie
+Ewentualne powstanie osadów jest oznaką naturalności produktu.
+#LAdres Producenta
+B&G Srl - Perugia - Włochy, Via del Piombo,5, 06134 (PG),
+#LAdres Dystrybutora
+Index Food spółka z ograniczoną odpowiedzialnością sp. k. ul. Jana III Sobieskiego 98, 62-030 Luboń,
+#LAdres Zwrotny
+Index Food spółka z ograniczoną odpowiedzialnością sp. k. ul. Jana III Sobieskiego 98, 62-030 Luboń, www.indexfood.pl,
+#LUwagi Do Wartości Odżywczych
+*NRV = Dzienna referencyjna wartość spożycia (dla osób dorosłych)
+#LMiara
+200 ml
+#LEAN
+8020542111110
+#PAndros - Sok z cytryn
+#Lprice
+15,89 ZŁ
+#LMasa
+Waga brutto - 1091 g
+#LMarka
+Andros
+#LMarka Standaryzowana
+Andros
+#LNazwa Produktu Uregulowana Prawnie
+Pasteryzowany produkt cytrynowy do picia
+#LOpis Produktu
+Orzeźwiający napój cytrynowy.
+#LCechy
+bez barwników, bez konserwantów, zgodnie z obowiązującymi przepisami
+#LRodzaj Opakowania
+Butelka plastikowa
+#LMasa Netto
+1 L
+#LJednostka Opisowa
+L
+#LSkladniki
+woda, cukier, pulpa cytrynowa 34%
+#LDodatki
+Barwniki - Nie zawiera, konserwanty - Nie zawiera
+#LInformacje O Recyklingu
+Opakowanie - Nadające się do recyklingu
+#LPrzechowywanie
+Przechowywać w lodówce, temperatura zalecana: +6° C.
+#LAdres Producenta
+Andros Z.I. 46130 Biars-Sur-C?re, Francja,
+#LAdres Zwrotny
+Andros Z.I. 46130 Biars-Sur-C?re, Francja,
+#LMiara
+1 l
+#LEAN
+3045320104530
+#PNaturAvena - Sok z buraka
+#Lprice
+5,69 ZŁ
+#LMasa
+Waga brutto - 814 g
+#LMarka
+NaturAvena
+#LMarka Standaryzowana
+NaturAvena
+#LNazwa Produktu Uregulowana Prawnie
+Sok z buraka. Produkt pasteryzowany.
+#LCechy
+100% naturalny, 99,6% soku
+#LKraj Pochodzenia
+Kraj produkcji - Polska
+#LRodzaj Opakowania
+Butelka
+#LMasa Netto
+500 ml
+#LPochodzenie
+Kraj pochodzenia: Polska
+#LJednostka Opisowa
+ml
+#LSkladniki
+sok z buraków 99,6% odtworzony z zagęszczanego soku, przeciwutleniacz: kwas askorbinowy, regulator kwasowości: kwas cytrynowy
+#LInformacje O Recyklingu
+Opakowanie - Szkło - powszechnie recyklingowane
+#LPrzechowywanie
+Po otwarciu przechowywać w lodówce w temp. 4°C do 14 dni. Chronić przed bezpośrednim działaniem światła. Przechowywać w miejscu niedostępnym dla małych dzieci.
+#LPrzygotowanie I Stosowanie
+Znajdujący się osad jest zjawiskiem naturalnym. Należy każdorazowo wstrząsnąć przed spożyciem.
+#LAdres Producenta
+Wyprodukowano dla:, NaturAvena Sp. z o.o. ul. Raszyńska 13, 05-500 Piaseczno,
+#LAdres Zwrotny
+NaturAvena Sp. z o.o. ul. Raszyńska 13, 05-500 Piaseczno, tel.: 22 711 25 17, biuro@naturavena.pl, www.naturavena.pl,
+#LUwagi Do Wartości Odżywczych
+Produkt zawiera naturalnie występujące cukry.
+#LOznaczenia Specjalne
+Zawartość soli wynika wyłącznie z obecności naturalnie występującego sodu.
+#LMiara
+500 ml
+#LEAN
+5908445475450
+#PAuchan - Sok truskawka liczi
+#Lprice
+9,50 ZŁ
+#LMarka
+Produkt marki Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Sok wieloowocowy z jabłek, truskawek, liczi i czarnej porzeczki, bezpośrednio wyciśnięty z owoców, pasteryzacja flash
+#LKraj Pochodzenia
+Wyprodukowano w Hiszpanii
+#LRodzaj Opakowania
+Opakowanie: plastikowe
+#LSkladniki
+Sok i przecier z jabłek 67%, przecier z truskawek 15%, przecier z liczi 15%, sok z czarnej porzeczki 3%
+#LPrzechowywanie
+Przechowywać w temperaturze od 1'C do 6'C
+#LWarunki Przechowywania
+Po otwarciu przechowywać w lodówce i spożyć w ciągu 4 dni
+#LUzytkowanie I Przechowywanie
+Wstrząsnąć przed otwarciem
+#LAdres Dystrybutora
+Auchan Polska Sp. z o. o. ul. Puławska 46, 05-500 Piaseczno
+#LZawartosc Netto
+750 ml
+#LMiara
+750 ml
+#LEAN
+8410171013839
+#PLimenita - BIO sok z pomarańczy
+#Lprice
+17,12 ZŁ
+#LMarka
+Limenita
+#LNazwa Produktu Uregulowana Prawnie
+BIO Sok z pomarańczy. Z pomarańczy uprawianych w gospodarstwie ekologicznym. 100% wyciśnięty sok. Produkt pasteryzowany. Naturalnie wysoka zawartość witaminy C
+#LRodzaj Opakowania
+Opakowanie: butelka plastikowa
+#LDodatkowe Informacje
+ES-ECO-024-MU
+#LLogotypy Stron Trzecich Cd
+Rolnictwo UE/spoza UE
+#LJednostka Opisowa
+g
+#LSkladniki
+bio sok z pomarańczy (100%)
+#LPrzechowywanie
+Przechowywać w lodówce, w temperaturze pomiędzy 0°C a 7°C
+#LWarunki Przechowywania
+Po otwarciu przechowywać w lodówce i spożyć w ciągu 4 dni
+#LUzytkowanie I Przechowywanie
+Wstrząsnąć przed otwarciem
+#LAdres Producenta
+AMC Natural Drinks, S.L., Ctra. Madrid – Cartagena, Km 383, 30100 Espinardo (Murcia), Hiszpania
+#LZawartosc Netto
+1L
+#LUwagi Do Wartości Odżywczych
+*Dzienne referencyjne wartości spożycia witamin (dla osób dorosłych)
+#LMiara
+1 L
+#LEAN
+8410171009085
+#PLimenita - BIO sok z grapefruitów
+#Lprice
+16,99 ZŁ
+#LMarka
+Limenita
+#LNazwa Produktu Uregulowana Prawnie
+BIO SOK Z RÓŻOWYCH GRAPEFRUITÓW. Z owoców uprawianych w gospodarstwie ekologicznym. 100% wyciśnięty sok. Produkt pasteryzowany. Naturalnie wysoka zawartość witaminy C
+#LOpis Produktu
+
+#LRodzaj Opakowania
+Opakowanie: butelka plastikowa
+#LDodatkowe Informacje
+ES-ECO-024-MU
+#LLogotypy Stron Trzecich Cd
+Rolnictwo UE/spoza UE
+#LJednostka Opisowa
+L
+#LSkladniki
+sok z różowych grapefruitów (100%)
+#LPrzechowywanie
+Przechowywać w lodówce, w temperaturze pomiędzy 0°C a 7°C
+#LWarunki Przechowywania
+Po otwarciu przechowywać w lodówce i spożyć w ciągu 4 dni
+#LUzytkowanie I Przechowywanie
+Wstrząsnąć przed otwarciem
+#LAdres Producenta
+AMC Natural Drinks, S.L., Ctra. Madrid – Cartagena, Km 383, 30100 Espinardo (Murcia), Hiszpania
+#LZawartosc Netto
+1L
+#LUwagi Do Wartości Odżywczych
+*Dzienne referencyjne wartości spożycia witamin (dla osób dorosłych)
+#LMiara
+1 L
+#LEAN
+8410171037750
+#PAuchan - Sok z klementynek 100%
+#Lprice
+6,59 ZŁ
+#LMarka
+Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Sok z klementynek, bezpośrednio wyciśnięty z owoców, pasteryzacja flash, źródło witaminy C
+#LKraj Pochodzenia
+Wyprodukowano we Francji
+#LRodzaj Opakowania
+Opakowanie: karton
+#LSkladniki
+Sok z klementynek 100%
+#LPrzechowywanie
+Przechowywać w temperaturze do +6'C
+#LWarunki Przechowywania
+Po otwarciu przechowywać w lodówce i spożyć w ciągu 5 dni
+#LUzytkowanie I Przechowywanie
+Wstrząsnąć przed otwarciem.
+#LAdres Dystrybutora
+Auchan Polska Sp. Z o.o., ul. Puławska 46, 05-500 Piaseczno
+#LZawartosc Netto
+1 l
+#LMiara
+1 l
+#LEAN
+3596710293711
+#PDawtona - Sok z buraków z jabłkiem
+#Lprice
+1,50 ZŁ
+#LMarka
+Dawtona
+#LMarka Standaryzowana
+Dawtona
+#LNazwa Produktu Uregulowana Prawnie
+Sok z buraków z jabłkiem częściowo z zagęszczonych soków. Produkt pasteryzowany.
+#LPozostale Informacje
+Informacja dla osób chorych na cukrzycę:, WW/100 ml - 0,70, WB/100 ml - 0,03, WT/100 ml - 0,00, WBT/100 ml - 0,03,
+#LDodatkowe Informacje
+wielka orkiestra świątecznej pomocy. Program Policz się z Cukrzycą.
+#LRodzaj Opakowania
+Butelka
+#LMasa Netto
+330 ml
+#LJednostka Opisowa
+ml
+#LSkladniki
+soki odtworzone z zagęszczonych soków i przeciery z: BURAKÓW ćwikłowych (87%), jabłek (10%), SELERA naciowego, cytryn, imbiru, czosnku, sól, przyprawy
+#LZalecenia Dla Alergikow
+SELER - Zawiera
+#LPrzechowywanie
+Miąższ z warzyw i owoców może powodować naturalne rozwarstwienie soku. Przechowywać w suchym i chłodnym miejscu. Po otwarciu przechowywać w lodówce do 48 godzin.
+#LPrzygotowanie I Stosowanie
+Przed otwarciem wstrząsnąć.
+#LAdres Producenta
+Dawtona Sp. z o.o. ul. Bieniewicka 52, 05-870 Błonie, www.dawtona.pl,
+#LAdres Zwrotny
+Dawtona Sp. z o.o. ul. Bieniewicka 52, 05-870 Błonie, www.dawtona.pl,
+#LUwagi Do Wartości Odżywczych
+Opakowanie zawiera 1 porcję produktu.
+#LOznaczenia Specjalne
+*Referencyjna wartość spożycia dla przeciętnej osoby dorosłej (8 400 kJ / 2 000 kcal).
+#LMiara
+330 ml
+#LEAN
+5901713011046
+#PEkoWital - Sok z granatów NFC 100% Bio
+#Lprice
+16,13 ZŁ
+#LMarka
+Eko Wital
+#LNazwa Produktu Uregulowana Prawnie
+Sok z granatów NFC 100% Bio
+#LRodzaj Opakowania
+Opakowanie: szklane
+#LPochodzenie
+Turcja
+#LDodatkowe Informacje
+TR-BIO-140
+#LSkladniki
+Sok wyciśnięty z granatów BIO
+#LPrzechowywanie
+Przechowywać w chłodnym, suchym miejscu. Po otwarciu przechowywać w lodówce nie dłużej niż 3 dni
+#LAdres Dystrybutora
+Eko-Wital Sp. z o. o., ul. Staniewicka 5, 03-310 Warszawa
+#LZawartosc Netto
+1000 ml
+#LMiara
+1 l
+#LEAN
+5908249976122
+#PAuchan - Sok z owoców granatu
+#Lprice
+9,99 ZŁ
+#LRozszerzona Nazwa Produktu
+Naturalnie mętny, pasteryzowany
+#LMarka
+Produkt marki Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Sok z owoców granatu
+#LOpis Produktu
+Z soku zagęszczonego z najlepszych odmian owoców granatu , pochodzących z Azerbejdżanu
+#LKraj Pochodzenia
+Wyprodukowano w Azerbejdżanie
+#LRodzaj Opakowania
+Opakowanie: szklane
+#LSkladniki
+100% sok z owoców granatu z zagęszczonego soku z owoców granatu
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu w temperaturze od 0°C do +25°C. Chronić przed bezpośrednim działaniem promieni słonecznych
+#LWarunki Przechowywania
+Po otwarciu przechowywać w temperaturze od 0°C do +5°C nie dłużej niż 3 dni
+#LUzytkowanie I Przechowywanie
+Przed otwarciem wstrzasnąć. Przed spożyciem zalecane jest schłodzenie soku.
+#LPrzygotowanie
+Osad na dnie pochodzi z naturalnego miąższu owoców
+#LAdres Producenta
+KGH Polska Sp. z o.o., ul. Chałubińskiego 8 , 00-613 Warszawa
+#LZawartosc Netto
+1 l
+#LMiara
+1 l
+#LEAN
+5904215140573

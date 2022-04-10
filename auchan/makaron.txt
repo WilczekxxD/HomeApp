@@ -1,0 +1,475 @@
+#PMakarony Polskie - Makaron spaghetti
+#Lprice
+2,89 ZŁ
+#LMasa
+Waga brutto - 408 g
+#LMarka
+Makarony Polskie
+#LMarka Standaryzowana
+Makarony Polskie
+#LNazwa Produktu Uregulowana Prawnie
+Makaron Spaghetti
+#LCechy
+nowa ulepszona receptura
+#LO Marce
+Dobry wybór!, Wybrałaś Makarony Polskie, a my każdego dnia dokładamy starań, aby to zawsze był dobry wybór. Nowa, ulepszona receptura sprawia, że nasz makaron po ugotowaniu wybornie smakuje, zachowuje apetyczny kolor, jest elastyczny i nie skleja się. Makarony Polskie sprawdzą się w każdej Twojej potrawie. A co najważniejsze - to Ty decydujesz, jak je ugotujesz - klasycznie czy al dente. Makarony Polskie powstają dla Ciebie na pięknym Podkarpaciu. Wspieraj polskie produkty!,
+#LKraj Pochodzenia
+Kraj produkcji - Polska
+#LRodzaj Opakowania
+Zgrzewane
+#LMasa Netto
+400 g
+#LPochodzenie
+Tekst dowolny o pochodzeniu - Wyprodukowano w Polsce.
+#LJednostka Opisowa
+g
+#LSkladniki
+mąka z PSZENICY durum, mąka z PSZENICY zwyczajnej
+#LInformacje O Recyklingu
+Opakowanie - Nadające się do recyklingu
+#LZalecenia Dla Alergikow
+Jaja - Może zawierać, Pszenica - Zawiera
+#LPrzechowywanie
+Przechowywać w miejscu suchym, przewiewnym i zacienionym.
+#LPrzygotowanie
+Gotować we wrzątku. Zagotować wodę z dodatkiem soli w proporcji 1 litr wody na 100 g makaronu. Do gotującej wody wrzucać stopniowo makaron, nie przerywając wrzenia. Gotować 6-8 minut na słabym ogniu, od czasu do czasu mieszając. Po ugotowaniu makaron odcedzić, spłukać wodą i podawać. Al dente 6 min. Klasycznie 8 min. Od temperatury otoczenia.
+#LAdres Producenta
+Makarony Polskie SA, ul. Podkarpacka 15a, 35-082 Rzeszów,
+#LAdres Zwrotny
+Makarony Polskie SA, ul. Podkarpacka 15a, 35-082 Rzeszów, Odwiedź nas na: makaronypolskie.pl, Polub nas na: facebook.com/twojemakaronypolskie,
+#LUwagi Do Wartości Odżywczych
+Opakowanie zawiera 4 sugerowane porcje produktu.
+#LOznaczenia Specjalne
+*Referencyjna Wartość Spożycia dla przeciętnej osoby dorosłej (8 400 kJ/ 2 000 kcal).
+#LEAN
+5906940003000
+#PMakaron Śląskiej babci - Makaron dwujajeczny z kurkumą
+#Lprice
+2,29 ZŁ
+#LMarka
+Makaron Śląskiej babci
+#LNazwa Produktu Uregulowana Prawnie
+Makaron dwujajeczny z kurkumą.
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Torebka Plastikowa
+#LJednostka Opisowa
+g
+#LSkladniki
+Mąka PSZENNA makaronowa, woda, JAJA w proszku 2,4% (odpowiada proporcji 2 JAJA na 1kg MĄKI), przyprawa - kurkuma 0,04%
+#LZalecenia Dla Alergikow
+Produkt zawiera zboża zawierające GLUTEN oraz JAJA ,
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu
+#LPrzygotowanie
+zawartość torebki wsypać do wrzącej wody (1 litr na 100g makaronu). Zagotować i odstawić. Trzymać pod przykryciem od 3 do 9 minut w zależności od grubości formy. Odcedzić i przelać zimną wodą. Spożywać bezpośrednio po ugotowaniu.
+#LAdres Producenta
+"Magyar" Sp.J.,Ryszard Dera, Adam Gałązka, PL 58-114 Lubachów Burkatów 56
+#LZawartosc Netto
+250 g
+#LEAN
+5903966002253
+#PMakarony Polskie - Makaron świderki
+#Lprice
+2,81 ZŁ
+#LMasa
+Waga brutto - 404 g
+#LMarka
+Makarony Polskie
+#LMarka Standaryzowana
+Makarony Polskie
+#LNazwa Produktu Uregulowana Prawnie
+Makaron świderki
+#LCechy
+nowa ulepszona receptura
+#LO Marce
+Dobry wybór!, Wybrałaś Makarony Polskie, a my każdego dnia dokładamy starań, aby to zawsze był dobry wybór. Nowa, ulepszona receptura sprawia, że nasz makaron po ugotowaniu wybornie smakuje, zachowuje apetyczny kolor, jest elastyczny i nie skleja się. Makarony Polskie sprawdzą się w każdej Twojej potrawie. A co najważniejsze - to Ty decydujesz, jak je ugotujesz - klasycznie czy al dente. Makarony Polskie powstają dla Ciebie na pięknym Podkarpaciu. Wspieraj polskie produkty!,
+#LKraj Pochodzenia
+Kraj produkcji - Polska
+#LRodzaj Opakowania
+Zgrzewane
+#LMasa Netto
+400 g
+#LPochodzenie
+Wyprodukowano w Polsce.
+#LJednostka Opisowa
+g
+#LSkladniki
+mąka z PSZENICY durum, mąka z PSZENICY zwyczajnej
+#LInformacje O Recyklingu
+Opakowanie - Nadające się do recyklingu
+#LZalecenia Dla Alergikow
+JAJA - Może zawierać, PSZENICA - Zawiera
+#LPrzechowywanie
+Przechowywać w miejscu suchym, przewiewnym i zacienionym.
+#LPrzygotowanie
+Gotować we wrzątku. Zagotować wodę z dodatkiem soli w proporcji 1 litr wody na 100 g makaronu. Do gotującej wody wrzucać stopniowo makaron, nie przerywając wrzenia. Gotować 5-7 minut na słabym ogniu, od czasu do czasu mieszając. Po ugotowaniu makaron odcedzić, spłukać wodą i podawać. Al dente 5 min. Klasycznie 7 min. Od temperatury otoczenia.
+#LAdres Producenta
+Makarony Polskie SA, ul. Podkarpacka 15a, 35-082 Rzeszów,
+#LAdres Zwrotny
+Makarony Polskie SA, ul. Podkarpacka 15a, 35-082 Rzeszów, Odwiedź nas na: makaronypolskie.pl, Polub nas na: facebook.com/twojemakaronypolskie,
+#LUwagi Do Wartości Odżywczych
+Opakowanie zawiera 4 sugerowane porcje produktu.
+#LOznaczenia Specjalne
+*Referencyjna Wartość Spożycia dla przeciętnej osoby dorosłej (8 400 kJ/ 2 000 kcal).
+#LEAN
+5906940003062
+#PMakarony Polskie - Makaron pióra
+#Lprice
+2,89 ZŁ
+#LMarka
+Makarony Polskie
+#LNazwa Produktu Uregulowana Prawnie
+Makaron pióra
+#LOpis Produktu
+Dobry wybór! Wybrałaś Makarony Polskie, a my każdego dnia dokładamy starń, aby to zawsze był dobry wybór. Ulepszona receptura sprawia, że makaron po ugotowaniu wybornie smakuje, zachowuje apetyczny kolor, jest elastyczny i nie skleja się. Makarony Polskie sprawdzają się w każdej Twojej potrawie. A co najważniejsze- to Ty decydujesz, jak je ugotujesz- klasycznie czy al dente. Makarony Polskie powstają dla Ciebie na pięknym Podkarpaciu
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Opakowanie: plastikowe
+#LSkladniki
+Mąka z PSZENICY twardej (Triticum durum), mąka PSZENNA.
+#LZalecenia Dla Alergikow
+Produkt może zawierać JAJA
+#LPrzechowywanie
+Przechowywać w miejscu suchym, przewiewnym i zacienionym
+#LPrzygotowanie
+Zagotować wodę z dodatkiem soli w proporcji 1 litr wody na 100 g makaronu. Do gotującej się wody wrzucać stopniowo makaron, nie przerywając wrzenia. Gotować 8-10 minut na słabym ogniu, od czasu do czasu mieszając. Po ugotowaniu makaron odcedzić, spłukać wodą i podawać
+#LAdres Producenta
+Makarony Polskie S.A., ul. Podkarpacka 15a, 35-082 Rzeszów
+#LZawartosc Netto
+400 g
+#LEAN
+5906940003086
+#PAuchan - Makaron Spaghetti
+#Lprice
+1,99 ZŁ
+#LMarka
+Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Makaron Spaghetti
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Plastikowa torebka
+#LJednostka Opisowa
+g
+#LSkladniki
+mąka z PSZENICY zwyczajnej
+#LZalecenia Dla Alergikow
+Produkt może zawierać śladowe ilości JAJ.
+#LPrzechowywanie
+Przechowywać w miejscu suchym, przewiewnym i zacienionym.
+#LPrzygotowanie
+Zagotować wodę z dodatkiem soli i kilku kropli oleju roślinnego, w proporcji 1 litr wody na 100g makaronu. Do gotującej wody wrzucać stopniowo makaron, nie przerywając wrzenia. Gotować na słabym ogniu, od czasu do czasu mieszając. Po ugotowaniu makaron odcedzić, spłukać wodą i podawać.
+#LAdres Producenta
+Makarony Polskie S.A. ul. Podkarpacka 15A, 35-082 Rzeszów
+#LAdres Dystrybutora
+Auchan Polska Sp. z o. o. ul. Puławska 46, 05-500 Piaseczno
+#LZawartosc Netto
+400 g
+#LEAN
+5904215118589
+#PBarilla - Makaron spaghetti
+#Lprice
+8,68 ZŁ
+#LMasa
+-
+#LMarka
+Barilla
+#LMarka Standaryzowana
+-
+#LNazwa Produktu Uregulowana Prawnie
+Makaron spaghetti. Produkt bezglutenowy
+#LRodzaj Opakowania
+Opakowanie:karton
+#LDodatkowe Informacje
+-
+#LJednostka Opisowa
+g
+#LSkladniki
+mąka kukurydziana biała (60%), mąka kukurydziana żółta (29,5%), mąka ryżowa (10%), woda, emulgator: mono- i diglicerydy kwasów tłuszczowych pochodzenia roślinnego
+#LInformacje Dot Stylu Zycia Cd
+Odpowiednie dla osób nietolerujących glutenu.
+#LZalecenia Dla Alergikow
+GLUTEN - Nie zawiera
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu.
+#LPrzygotowanie
+Gotować we wrzątku. Do 1 litra wody dodać 7 g soli i 100 g makaronu, gotować przez 10 minut mieszając od czasu do czasu. Po ugotowaniu makaron odcedzić i podawać. Od temperatury otoczenia.
+#LAdres Producenta
+Barilla G. e R. Fratelli - Societ? per Azioni, Via Mantova 166, Parma, Włochy,
+#LAdres Importera
+-
+#LAdres Dystrybutora
+Barilla Poland Sp. z o.o., ul. Poleczki 23, 02-822 Warszawa
+#LAdres Zwrotny
+-
+#LZawartosc Netto
+500 g
+#LEAN
+8076809545440
+#PAuchan - Makaron spaghetti
+#Lprice
+3,51 ZŁ
+#LMarka
+Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Makaron spaghetti
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Opakowanie plastikowe
+#LJednostka Opisowa
+g
+#LSkladniki
+Mąka z PSZENICY durum.
+#LZalecenia Dla Alergikow
+Produkt może zawierać: JAJA
+#LPrzechowywanie
+Przechowywać w suchym, przewiewnym i zacienionym miejscu
+#LPrzygotowanie I Stosowanie
+Zagotować wodę z dodatkiem soli w proporcji 1 litr wody na 100 g makaronu. Do gotującej się wody wrzucać stopniowo makaron, nie przerywając wrzenia. Gotować przez około 7-9 minut na małym ogniu, od czasu do czasu mieszając. Po ugotowaniu makaron odcedzić i podawać.
+#LAdres Producenta
+Makarony Polskie S.A., ul. Podkarpacka 15a, 35-082 Rzeszów
+#LZawartosc Netto
+500 g
+#LEAN
+5904215123729
+#PAuchan - Makaron Linguine
+#Lprice
+5,69 ZŁ
+#LRozszerzona Nazwa Produktu
+makaron z pszenicy durum linguin
+#LMarka
+Produkt marki Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Makaron Linguine
+#LKraj Pochodzenia
+Wyprodukowano we Włoszech
+#LRodzaj Opakowania
+Opakowanie: foliowe
+#LSkladniki
+mąka z PSZENICY twardej durum
+#LZalecenia Dla Alergikow
+Produkt może zawierać: SOJĘ, JAJA
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu. Po otwarciu przechowywać szczelnie zamknięte
+#LPrzygotowanie
+zagotować wodę, posolić według uznania, do gotującej wody wrzuć makaron. Gotować 11-13 minut od czasu do czasu mieszając. Ugotowany makaron odcedzić.
+#LAdres Dystrybutora
+Auchan Polska Sp. z o. o. ul. Puławska 46, 05-500 Piaseczno
+#LZawartosc Netto
+500 g
+#LEAN
+3596710479719
+#PBarilla - Makaron spaghetti
+#Lprice
+5,99 ZŁ
+#LMasa
+Waga brutto - 515 g
+#LMarka
+Barilla
+#LMarka Standaryzowana
+Barilla
+#LNazwa Produktu Uregulowana Prawnie
+Makaron Ekstra - Spaghetti.
+#LCechy
+Marca N°1 in Italia*, *nr 1 we Włoszech pod względem wielkości sprzedaży
+#LO Marce
+Co sprawia, że Barilla jest marką makaronów nr 1 we Włoszech*?, Wkładamy pasję w produkcję makaronu od 1877 roku dla zapewnienia Wam makaronu al dente: idealnej inspiracji do tworzenia pysznych dań. Dowiedz się więcej na www.barilla.com, *Nr 1 we Włoszech pod względem wielkości sprzedaży,
+#LRodzaj Opakowania
+Karton
+#LMasa Netto
+500 g
+#LPochodzenie
+Kraj produkcji został oznaczony literą w nawiasie, zamieszczoną obok daty: (A) Włochy - (F) Włochy - (E) Włochy - (AB) Włochy - (GG) Grecja.
+#LJednostka Opisowa
+g
+#LSkladniki
+SEMOLINA z PSZENICY durum, woda
+#LInformacje O Recyklingu
+Opakowanie - Nadające się do recyklingu
+#LZalecenia Dla Alergikow
+PSZENICA - Zawiera
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu.
+#LPrzygotowanie
+Gotować we wrzątku. Czas gotowania: 8 min. . Do 1 litra wrzącej wody dodać 7 g soli i 100 g makaronu, czas gotowania podany na opakowaniu, po ugotowaniu makaron odcedzić i podawać. Od temperatury otoczenia.
+#LAdres Producenta
+Barilla G. e R. Fratelli - Societ? per Azioni, Via Mantova 166, Parma, Włochy,
+#LAdres Importera
+Barilla Poland Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LAdres Dystrybutora
+Barilla Poland Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LAdres Zwrotny
+Barilla Poland Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LUwagi Do Wartości Odżywczych
+**RI = Referencyjna wartość spożycia dla przeciętnej osoby dorosłej (8400 kJ/2000 kcal).
+#LOznaczenia Specjalne
+*85 g = Opakowanie zawiera około 6 porcji.
+#LEAN
+8076800195057
+#PBarilla - Penne Rigate makaron
+#Lprice
+8,68 ZŁ
+#LMasa
+Waga brutto - 427 g
+#LMarka
+Barilla
+#LMarka Standaryzowana
+Barilla
+#LNazwa Produktu Uregulowana Prawnie
+Makaron penne rigate
+#LRodzaj Opakowania
+Karton
+#LMasa Netto
+400 g
+#LDodatkowe Informacje
+Znak przekreślonego kłosa
+#LLogotypy Stron Trzecich Cd
+Znak przekreślonego kłosa - IT-110-003
+#LJednostka Opisowa
+g
+#LSkladniki
+mąka kukurydziana biała (65%), mąka kukurydziana żółta (29,5%), mąka ryżowa (5%), woda, emulgator: mono- i diglicerydy kwasów tłuszczowych pochodzenia roślinnego
+#LInformacje Dot Stylu Zycia Cd
+Odpowiednie dla osób nietolerujących glutenu.
+#LZalecenia Dla Alergikow
+GLUTEN - Nie zawiera
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu.
+#LPrzygotowanie
+Gotować we wrzątku. Do 1 wody dodać 7 g soli i 100 g makaronu, gotować przez 9 minut, mieszając od czasu do czasu. Po ugotowaniu makaron odcedzić i podawać. Od temperatury otoczenia.
+#LAdres Producenta
+Barilla G. e R. Fratelli - Societ? per Azioni, Via Mantova 166, Parma, Włochy,
+#LAdres Importera
+Barilla Poland Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LAdres Dystrybutora
+Barilla Poland Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LAdres Zwrotny
+Barilla Poland Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LEAN
+8076809545457
+#PMelissa - Makaron eko spaghetti
+#Lprice
+4,83 ZŁ
+#LMarka
+Melissa
+#LNazwa Produktu Uregulowana Prawnie
+Bio Spaghetti makaron ekologiczny
+#LOpis Produktu
+Makaron w 100% z semoliny z pszenicy durum. Produkt Grecki
+#LKraj Pochodzenia
+Wyprodukowano w UE
+#LRodzaj Opakowania
+Opakowanie: foliowe
+#LDodatkowe Informacje
+GR-BIO-03
+#LJednostka Opisowa
+g
+#LSkladniki
+SEMOLINA z PSZENICY* durum, woda
+#LSklad Produktu
+*Produkt rolnictwa ekologicznego
+#LZalecenia Dla Alergikow
+Produkt może zawierać śladowe ilości JAJ
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu.
+#LAdres Importera
+Atlanta AM Sp.z o.o., ul. Annopol 4a, 03-236, Warszawa
+#LZawartosc Netto
+500 g
+#LEAN
+5201193203116
+#PShirataki - Makaron Shirataki spaghetti
+#Lprice
+11,31 ZŁ
+#LPodmarka
+Diet Food
+#LMarka
+Shirataki
+#LNazwa Produktu Uregulowana Prawnie
+Makaron Shirataki spaghetti
+#LOpis Produktu
+Makaron Shirataki spaghetti Diet Food to makaron produkowany z rozpuszczalnego błonnika glukomann konjac Produkt jest całkowicie bezglutenowy i w zasadzie pozbawiony kalorii. Nie zawiera również tłuszczu, skrobi czy węglowodanów. Makaron Shirataki Diet Food polecany jest przede wszystkim osobom przebywającym na diecie redukcyjnej. Doskonale smakuje w towarzystwie różnego rodzaju sosów, zarówno na ciepło, jak i na zimno.Makaron Shirataki spaghetti – obiad niemal bez kalorii: Bez smaku i zapachu, Niemal zerowa wartość kaloryczna, Produkt odpowiedni dla osób z nietolerancją glutenu, Szybkość przygotowania: wystarczy podgrzać
+#LKraj Pochodzenia
+Wyprodukowano w Chinach
+#LRodzaj Opakowania
+Opakowanie: foliowe
+#LSkladniki
+Woda, mąka z rośliny Konjac, wodorotlenek wapnia
+#LInformacje Dot Stylu Zycia
+Produkt bezglutenowy. Bez soi, tłuszczu i cukru
+#LPrzechowywanie
+Przechowywać w temperaturze 5-28'C
+#LPrzygotowanie
+Wypłucz pod ciepła wodą. Gotuj lub smaż 2-3 minuty. Dodaj bezpośrednio do potrawy
+#LAdres Importera
+Mipama sp.j. ul. Rogatka 7a, 62-860 Opatówek
+#LZawartosc Netto
+200 g
+#LMiara
+200 g
+#LEAN
+5901549275056
+#PAuchan - BIO Makaron tagiatelle
+#Lprice
+5,69 ZŁ
+#LMarka
+Produkt marki Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Ekologiczny makaron ze świeżymi jajami
+#LKraj Pochodzenia
+Wyprodukowano we Francji
+#LRodzaj Opakowania
+Opakowanie: foliowe
+#LDodatkowe Informacje
+FR-BIO-01 Rolnictwo UE
+#LSkladniki
+Ekologiczna SEMOLINA z PSZENICY durum (pochodzenie UE), ekologiczne świeże JAJA 25,8% (pochodzenie UE)
+#LZalecenia Dla Alergikow
+Produkt może zawierać SOJĘ
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym miejscu
+#LPrzygotowanie
+Makaron wrzucić do wrzącej wody, zamieszać i gotować około 8 minut. Odcedzić i podawać
+#LAdres Dystrybutora
+Auchan Polska Sp. z o. o. ul. Puławska 46, 05-500 Piaseczno. PL-EKO-12
+#LZawartosc Netto
+250 g
+#LEAN
+3596710308903
+#PAgnesi - Makaron I tortiglioni n.46
+#Lprice
+6,19 ZŁ
+#LMarka
+Agnesi
+#LNazwa Produktu Uregulowana Prawnie
+Makaron z mąki pszennej durum.
+#LOpis Produktu
+Makaron I tortiglioni n.46
+#LKraj Pochodzenia
+Włochy
+#LRodzaj Opakowania
+Plastikowa torebka
+#LJednostka Opisowa
+g
+#LSkladniki
+mąka z PSZENICY twardej durum
+#LZalecenia Dla Alergikow
+Produkt może zawierać śladowe ilości JAJ.
+#LPrzechowywanie
+Przechowywać w suchym i chłodnym pomieszczeniu.
+#LPrzygotowanie
+Gotować 11 minut
+#LAdres Producenta
+North Coast S.A, ul. 3-go Maja 8, 05-800 Pruszków
+#LZawartosc Netto
+500 g
+#LEAN
+8001200045312
+#PIndomie - Makaron instant Mi Goreng
+#Lprice
+2,31 ZŁ

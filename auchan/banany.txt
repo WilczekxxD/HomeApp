@@ -1,0 +1,711 @@
+#PBanany - Owoce
+#Lprice
+1,85 ZŁ
+#LKraj Pochodzenia
+Kraj pochodzenia: WKS
+#LMarka
+Banany
+#LNazwa Produktu Uregulowana Prawnie
+Banany - na wagę
+#LOpis Produktu
+Owoce spożywa się na surowo, gotowane lub pieczone. Atutem bananów oprócz smaku jest zawartość poszczególnych witamin, minerałów i innych mikroelementów, który zagwarantują nam zdrowie
+#LKraj Pochodzenia
+Kraj pochodzenia: WKS
+#LSkladniki
+Banan
+#LPrzechowywanie
+Polecamy przechowywanie w temperaturze pokojowej
+#LUzytkowanie I Przechowywanie
+Produkt jest sprzedawany na wagę. Nasze produkty warzymy celując w wagę wybraną przez Klienta. Podczas płatności za zamówienie zapłacisz cenę odpowiadającą wartości zwarzonego produktu w odniesieniu do ceny za kilogram obowiązującej w dniu zamówienia
+#LAdres Zwrotny
+Informacja o dystrybutorze: Najwyższej jakości świeże owoce i warzywa dla sklepów Auchan dostarczają platformy logistyczne Auchan Polska. Jeżeli masz pytania dotyczące tego produktu - skontaktuj się z nami !
+#LMiara
+Produkt na wagę od 500 g
+#PBanany - Czerwone
+#Lprice
+13,59 ZŁ
+#LKraj Pochodzenia
+Kraj pochodzenia: EKWADOR
+#LMarka
+Fresh World
+#LNazwa Produktu Uregulowana Prawnie
+Banan czerwony
+#LOpis Produktu
+Banan deserowy. Średniej wielkości owoc, o różowo-czerwonej skórce i białym miąższu, bardzo aromatyczny. Spożywa się go głównie na surowo, jako deser albo w sałatkach owocowych. Wspaniale smakuje w ciastach lub innych deserach przygotowanych w piekarniku. Można go spożywać również po usmażeniu lub grillowaniu.
+#LKraj Pochodzenia
+Kraj pochodzenia: EKWADOR
+#LRodzaj Opakowania
+Foremka plastikowa
+#LSkladniki
+Banan Czerwony
+#LAdres Importera
+Fresh World Sp. z o.o., ul. Świerkowa 3a Bronisze, 05-850 Ożarów Mazowiecki
+#LZawartosc Netto
+600 g
+#LMiara
+600 g
+#LEAN
+5900625043862
+#PBoboVita - Jabłka i banany
+#Lprice
+3,12 ZŁ
+#LMarka
+BoboVita
+#LMarka Standaryzowana
+BoboVita
+#LMarka Producenta
+Nutricia
+#LNazwa Produktu Uregulowana Prawnie
+Mus jabłka i banany. Produkt utrwalony termicznie: pasteryzowany.
+#LOpis Produktu
+nasza obietnica... Z owocami w tubkach BoboVita każda chwila ma pyszny smak, którym Twój maluch może się cieszyć w każdej sytuacji - w domu, w podróży, na spacerze. Twoje dziecko codziennie uczy się kochać pyszne jedzenie, a Ty możesz się cieszyć każdym radosnym "Mniam!”. gwarantujemy!!!. Nasze owoce w tubkach BoboVita to gwarancja jakości i bezpieczeństwa. Jesteśmy tego pewni, bo znamy je od sadzonki po gotowy, pyszny produkt! Ty też możesz być pewna, że składniki w tubkach BoboVita pochodzą w 100% z natury - wyłącznie ze starannie wybranych, skontrolowanych pól i sadów, a wszystkie produkty spełniają rygorystyczne normy jakościowe żywności dla najmłodszych. Zadbaliśmy też o to, by w tubkach BoboVita nie znalazły się zbędne substancje:. Bez konserwantów, barwników i wzmacniaczy smaku*. Bez dodatku cukru. Produkt dla niemowląt i małych dzieci. Zawiera naturalnie występujące cukry z owoców. * zgodnie z przepisami prawa.
+#LPozostale Informacje
+Produkt pakowany w atmosferze ochronnej.
+#LCechy
+owocowe, bez dodatku cukru
+#LRodzaj Opakowania
+Saszetka
+#LMasa Netto
+80 g
+#LDodatkowe Informacje
+Green Dot
+#LJednostka Opisowa
+g
+#LSkladniki
+jabłko 75,96%, banan 24%, witamina C, zagęszczony sok cytrynowy
+#LOswiadczenia Zywieniowe
+Bez dodatku cukru. Zawiera naturalnie występujące cukry z owoców.
+#LInformacje Dot Stylu Zycia
+Bez dodatku cukru
+#LDodatki
+Barwniki - Nie zawiera, Wzmacniacze smaku - Nie zawiera, konserwanty - Nie zawiera
+#LDolna Granica Wieku
+Zalecana - 4 miesiąc/miesiące/miesięcy
+#LOstrzeżenia Dotyczące Bezpieczeństwa
+Zakrętkę z opakowania należy trzymać poza zasięgiem dziecka.
+#LZalecenia Dla Alergikow
+Zboża zawierające gluten - Nie zawiera, Mleko - Nie zawiera
+#LUzytkowanie I Przechowywanie
+Nie podgrzewać w kuchence mikrofalowej
+#LPrzygotowanie I Stosowanie
+Przechowywanie i przygotowanie: Przed otwarciem przechowuj produkt w suchym miejscu, w temperaturze pokojowej. Po otwarciu tubka może być zamknięta i przechowywana w lodówce przez 24 godziny pod warunkiem, że dziecko nie jadło bezpośrednio z tubki. Nie używaj produktu, jeśli zauważysz, że opakowanie jest uszkodzone. Nigdy nie podgrzewaj tubki z produktem w kuchence mikrofalowej. Należy przestrzegać instrukcji właściwego przygotowania. Wymieszaj produkt w tubce przed podaniem. Wyciśnij zawartość tubki do miseczki lub bezpośrednio na łyżeczkę. Dziecko powyżej 12. miesiąca życia może jeść produkt bezpośrednio z tubki wyłącznie pod opieką dorosłego.
+#LAdres Producenta
+Nutricia Polska Sp. z o.o. ul. Bobrowiecka 8, 00-728 Warszawa,
+#LAdres Zwrotny
+Nutricia Polska Sp. z o.o. ul. Bobrowiecka 8, 00-728 Warszawa,
+#LUwagi Do Wartości Odżywczych
+**% zalecanego dziennego spożycia
+#LMiara
+80 g
+#LEAN
+5900852920080
+#PHIPP - BIO mus jabłka banany buraki
+#Lprice
+3,78 ZŁ
+#LPodmarka
+BIO
+#LMarka
+HiPP
+#LMarka Standaryzowana
+HiPP
+#LOpis Produktu
+Bez dodatku cukru - zawiera naturalnie występujące cukry. Idealny na deser lub jako dodatek do kaszki.
+#LPozostale Informacje
+Unijne logo rolnictwa ekologicznego - AT-BIO-301 rolnictwo UE/spoza UE,
+#LCechy
+BIO - jakość, za którą ręczę - Stefan Hipp, bez dodatku cukru*, *zawiera naturalnie występujące cukry
+#LDodatkowe Informacje
+Dołącz do. Klubu mojego Maluszka. na www.hipp.pl.
+#LO Marce
+HiPP, BIO od pokoleń,
+#LKraj Pochodzenia
+Kraj pochodzenia - Produkt UE
+#LRodzaj Opakowania
+Tuba
+#LMasa Netto
+100 g
+#LPochodzenie
+Wyprodukowano w Unii Europejskiej
+#LDodatkowe Informacje
+Unijne logo rolnictwa ekologicznego
+#LJednostka Opisowa
+g
+#LSkladniki
+jabłka* 70%, banany* 20%, BURAKI* 10%, *z rolnictwa ekologicznego
+#LOswiadczenia Zywieniowe
+bez dodatku cukru - zawiera naturalnie występujące cukry.
+#LInformacje Dot Stylu Zycia
+Bezglutenowy, Bez dodatku cukru, Organiczne
+#LDolna Granica Wieku
+Zalecana - 5 miesiąc/miesiące/miesięcy
+#LZalecenia Dla Alergikow
+ZBOŻA zawierające GLUTEN - Nie zawiera
+#LPrzechowywanie
+Po otwarciu przechowuj tubkę w lodówce i zużyj w ciągu jednego dnia.
+#LPrzygotowanie I Stosowanie
+Zalecamy podawanie musu łyżeczką. Ważne: częsty lub długotrwały kontakt ząbków z musem owocowym podczas ssania tubki może powodować próchnicę. Dlatego:, - mus najlepiej podawaj łyżeczką i nie dopuszczaj do częstego i długotrwałego ssania tubki, - zalecamy podawanie musu łyżeczką w celu ochrony ząbków oraz kształtowania odpowiednich nawyków żywieniowych, - zadbaj o regularną higienę jamy ustnej swojego dziecka już od pierwszego ząbka, Przed użyciem upewnij się, że opakowanie nie zostało naruszone. Nie pozwól dziecku bawić się tubką ani zakrętką.
+#LAdres Producenta
+Wyprodukowano dla, HiPP Polska Sp. z o.o. ul. Puławska 303, 02-785 Warszawa,
+#LAdres Zwrotny
+HiPP Polska Sp. z o.o. ul. Puławska 303, 02-785 Warszawa,
+#LMiara
+100 g
+#LEAN
+4062300385047
+#PHiPP - Nektar Banany dla niemowląt i małych dzieci
+#Lprice
+3,08 ZŁ
+#LPodmarka
+BIO
+#LMarka
+HiPP
+#LMarka Standaryzowana
+HiPP
+#LNazwa Produktu Uregulowana Prawnie
+Nektar Banany dla niemowląt i małych dzieci. Wyprodukowano częściowo z soku zagęszczonego.
+#LOpis Produktu
+Produkt z certyfikatem ekologicznym - zgodnie z prawem UE. Znak HiPP BIO to gwarancja ponad 260 kontroli każdego produktu oraz 60 lat doświadczenia w rolnictwie ekologicznym. - bez dodatku cukru - zawiera naturalnie występujące cukry. - wysoka zawartość witaminy C - zgodnie z przepisami prawa. - zgodnie z przepisami prawa nie zawiera substancji konserwujących ani barwników. - bez aromatów. Zadbaj o zrównoważoną dietę oraz zdrowy tryb życia swojego dziecka.
+#LPozostale Informacje
+Unijne logo rolnictwa ekologicznego - HU-ÖKO-01 rolnictwo UE/spoza UE,
+#LCechy
+BIO - jakość, za którą ręczę - Stefan Hipp, bez dodatku cukru - zawiera naturalnie występujące cukry
+#LKraj Pochodzenia
+Kraj pochodzenia - Produkt UE
+#LRodzaj Opakowania
+Butelka
+#LMasa Netto
+0,2 l
+#LPochodzenie
+Wyprodukowano w Unii Europejskiej
+#LDodatkowe Informacje
+Unijne logo rolnictwa ekologicznego
+#LJednostka Opisowa
+l
+#LSkladniki
+woda, owoce* 42% (banany* 40%, sok cytrynowy* z soku zagęszczonego), witamina C, *z rolnictwa ekologicznego, Zawartość owoców - min. 42%
+#LOswiadczenia Zywieniowe
+bez dodatku cukru - zawiera naturalnie występujące cukry. wysoka zawartość witaminy C.
+#LInformacje Dot Stylu Zycia
+Bezglutenowy, Bez dodatku cukru, Organiczne
+#LDodatki
+Barwniki - Nie zawiera, Aromaty - Nie zawiera, konserwanty - Nie zawiera
+#LDolna Granica Wieku
+Zalecana - 4 miesiąc/miesiące/miesięcy
+#LOstrzeżenia Dotyczące Bezpieczeństwa
+Ważne: ten napój zawiera węglowodany, które przy częstym i długotrwałym kontakcie z zębami podczas ssania z butelki mogą być przyczyną próchnicy. Dlatego:. - Butelki z piciem nie należy podawać w celu usypiania czy uspokajania dziecka. - Butelka powinna być trzymana przez opiekuna i podawana wyłącznie w celu i do momentu zaspokojenia pragnienia.
+#LZalecenia Dla Alergikow
+ZBOŻA zawierające GLUTEN - Nie zawiera
+#LPrzygotowanie I Stosowanie
+Sposób użycia: wstrząśnij, potrzebną ilość nektaru przelej do osobnego naczynia. Pozostałą zawartość butelki zamknij, wstaw do lodówki i zużyj w ciągu 3 dni. Nektar uzupełnia dietę w witaminy, a zmieszany z wodą 1:2 jest idealny do podawania między posiłkami. Jakość tego produktu w momencie opuszczania zakładu produkcyjnego była bez zarzutu - przed użyciem upewnij się, że butelka nie została naruszona. Nie używaj, jeśli środek nakrętki się ugina. Bezpieczne zamknięcie próżniowe - klika przy pierwszym otwarciu.
+#LAdres Producenta
+Wyprodukowano dla, HiPP Polska Sp. z o.o., ul. Puławska 303, 02-785 Warszawa, www.hipp.pl,
+#LAdres Zwrotny
+HiPP Polska Sp. z o.o., ul. Puławska 303, 02-785 Warszawa, www.hipp.pl,
+#LUwagi Do Wartości Odżywczych
+**% zalecanego dziennego spożycia
+#LOznaczenia Specjalne
+*zawartość soli wynika wyłącznie z obecności naturalnie występującego sodu
+#LMiara
+200 ml
+#LEAN
+9062300108559
+#PBoboVita - Przecier dla niemowląt: Brzoskwinie, jabłka, banany i kiwi
+#Lprice
+5,18 ZŁ
+#LProducent
+Nutricia
+#LMasa
+Waga brutto - 324 g
+#LMarka
+BoboVita
+#LMarka Standaryzowana
+BoboVita
+#LMarka Producenta
+Nutricia
+#LNazwa Produktu Uregulowana Prawnie
+Przecier dla niemowląt: Brzoskwinie, jabłka, banany i kiwi. Produkt utrwalony termicznie - pasteryzowany.
+#LOpis Produktu
+100 % owoców z kontrolowanych upraw. - bez konserwantów, barwników, wzmacniaczy smaku* oraz bez dodatku cukru. - zawiera naturalnie występujące cukry. - nie zawiera: soi, mleka, jaj. - skład odpowiedni do wieku dziecka. - składniki z upraw przeznaczonych dla najmłodszych. - każda partia owoców przechodzi nawet ponad 600 testów jakości i bezpieczeństwa. *zgodnie z przepisami prawa. Produkt dla niemowląt i małych dzieci.
+#LDodatkowe Informacje
+Zapytaj o rozszerzanie diety. 801 16 55 55. www.bobovita.pl.
+#LO Marce
+BoboVita. Jakość, której możesz zaufać na 100 %!,
+#LKraj Pochodzenia
+Kraj produkcji - UE
+#LRodzaj Opakowania
+Słoik
+#LMasa Netto
+190 g
+#LPochodzenie
+Wyprodukowano w UE
+#LDodatkowe Informacje
+Green Dot, Wstęga Möbiusa
+#LJednostka Opisowa
+g
+#LSkladniki
+owoce 77 % (brzoskwinie 35 %, jabłka 27 %, banany 10 %, kiwi 5 %), woda UŻYTA do przygotowania, mąka ryżowa, witamina C
+#LOswiadczenia Zywieniowe
+Bez dodatku cukru. Zawiera naturalnie występujące cukry z owoców.
+#LInformacje Dot Stylu Zycia
+Bezglutenowy, Bez dodatku cukru
+#LDodatki
+Barwniki - Nie zawiera, Wzmacniacze smaku - Nie zawiera, konserwanty - Nie zawiera
+#LInformacje O Recyklingu
+Opakowanie - Szkło - powszechnie recyklingowane
+#LDolna Granica Wieku
+Zalecana - 6 miesiąc/miesiące/miesięcy
+#LOstrzeżenia Dotyczące Bezpieczeństwa
+Nie używaj, jeśli można wcisnąć środek wieczka.
+#LZalecenia Dla Alergikow
+ZBOŻA zawierające GLUTEN - Nie zawiera, JAJA - Nie zawiera, MLEKO - Nie zawiera, SOJA - Nie zawiera
+#LPrzechowywanie
+Przechowywanie i przygotowanie:. Przed otwarciem przechowuj w temperaturze pokojowej. Nie używaj, jeśli można wcisnąć środek wieczka. Odpowiednią ilość produktu przełóż do miseczki, używając plastikowej łyżeczki. Pozostałą część przechowuj w zamkniętym słoiczku w lodówce, nie dłużej niż 48 godzin. Nie przechowuj i nie podawaj resztek produktu, który jadło dziecko. Przestrzegaj instrukcji właściwego przygotowania.
+#LPrzygotowanie I Stosowanie
+Przygotowanie i przechowywanie:, Odpowiednią ilość produktu przełóż do miseczki, używając plastikowej łyżeczki. Pozostałą część przechowuj w zamkniętym słoiczku w lodówce, nie dłużej niż 48 godzin. Nie przechowuj resztek produktu, kt óry jadło dziecko. Przestrzegaj instrukcji właściwego przygotowania. Pamiętaj o higienie ząbków swojego dziecka. Podaj dziecku lub pozwól spróbować samodzielnego jedzenia łyżeczką.
+#LAdres Producenta
+Nutricia Polska Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LAdres Zwrotny
+Nutricia Polska Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LO Producencie
+Certyfikowany producent ISO 22000.
+#LUwagi Do Wartości Odżywczych
+Zawartość soli wynika wyłącznie z naturalnej zawartości sodu.
+#LOznaczenia Specjalne
+**% zalecanego dziennego spożycia.
+#LMiara
+190 g
+#LEAN
+8591119001573
+#PBoboVita - Przecier dla niemowląt: Morele. banany i jabłka
+#Lprice
+5,18 ZŁ
+#LMasa
+Waga brutto - 320 g
+#LMarka
+BoboVita
+#LMarka Standaryzowana
+BoboVita
+#LMarka Producenta
+Nutricia
+#LNazwa Produktu Uregulowana Prawnie
+Przecier dla niemowląt: Morele, banany i jabłka. Produkt utrwalony termicznie - pasteryzowany.
+#LOpis Produktu
+100% owoców z kontrolowanych upraw. - bez konserwantów, barwników, wzmacniaczy smaku* oraz bez dodatku cukru. - zawiera naturalnie występujące cukry. - nie zawiera: soi, mleka, jaj. - skład odpowiedni do wieku dziecka. - składniki z upraw przeznaczonych dla najmłodszych. - każda partia owoców przechodzi nawet ponad 600 testów jakości i bezpieczeństwa. *zgodnie z przepisami prawa. Produkt dla niemowląt i małych dzieci.
+#LDodatkowe Informacje
+Zapytaj o rozszerzanie diety. 801 16 55 55. www.bobovita.pl. Mariola Ekspert BoboVita.
+#LO Marce
+BoboVita. Jakość, której możesz zaufać na 100%!,
+#LRodzaj Opakowania
+Słoik
+#LMasa Netto
+190 g
+#LDodatkowe Informacje
+Green Dot, Wstęga Möbiusa
+#LJednostka Opisowa
+g
+#LSkladniki
+owoce 97,6 % (morele 37%, jabłka 36,6%, banany 24%), mąka ryżowa, witamina C
+#LOswiadczenia Zywieniowe
+bez dodatku cukru - zawiera naturalnie występujące cukry.
+#LInformacje Dot Stylu Zycia
+Bezglutenowy, Bez dodatku cukru
+#LDodatki
+Barwniki - Nie zawiera, Wzmacniacze smaku - Nie zawiera, konserwanty - Nie zawiera
+#LDolna Granica Wieku
+Zalecana - 6 miesiąc/miesiące/miesięcy
+#LZalecenia Dla Alergikow
+ZBOŻA zawierające GLUTEN - Nie zawiera
+#LPrzechowywanie
+Przechowywanie i przygotowanie:. Przed otwarciem przechowuj w temperaturze pokojowej. Nie używaj, jeśli można wcisnąć środek wieczka. Odpowiednią ilość produktu przełóż do miseczki, używając plastikowej łyżeczki. Pozostałą część przechowuj w zamkniętym słoiczku w lodówce, nie dłużej niż 48 godzin. Nie przechowuj i nie podawaj resztek produktu, który jadło dziecko. Przestrzegaj instrukcji właściwego przygotowania.
+#LPrzygotowanie I Stosowanie
+Odpowiednią ilość produktu przełóż do miseczki, używając plastikowej łyżeczki. Pozostałą część przechowuj w zamkniętym słoiczku w lodówce, nie dłużej niż 48 godzin. Nie przechowuj i nie podawaj resztek produktu, który jadło dziecko. Przestrzegaj instrukcji właściwego przygotowania. Produkt dla niemowląt i małych dzieci.
+#LAdres Producenta
+Nutricia Polska Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LAdres Zwrotny
+Nutricia Polska Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LO Producencie
+Certyfikowany producent ISO 22000.
+#LUwagi Do Wartości Odżywczych
+Zawartość soli wynika wyłącznie z naturalnej zawartości sodu.
+#LOznaczenia Specjalne
+**% zalecanego dziennego spożycia.
+#LMiara
+190 g
+#LEAN
+59003069
+#PBoboVita - Przecier brzoskwinie jabłka i banany po 5 miesiącu
+#Lprice
+2,58 ZŁ
+#LMasa
+Waga brutto - 220 g
+#LMarka
+BoboVita
+#LMarka Standaryzowana
+BoboVita
+#LMarka Producenta
+Nutricia
+#LNazwa Produktu Uregulowana Prawnie
+Przecier dla niemowląt: Brzoskwinie, jabłka i banany Produkt utrwalony termicznie - pasteryzowany.
+#LOpis Produktu
+100% owoców z kontrolowanych upraw. - bez konserwantów, barwników, wzmacniaczy smaku* oraz bez dodatku cukru. - zawiera naturalnie występujące cukry. - nie zawiera: soi, mleka, jaj. - skład odpowiedni do wieku dziecka. - składniki z upraw przeznaczonych dla najmłodszych. - każda partia, owoców przechodzi nawet ponad 600 testów jakości i bezpieczeństwa. * zgodnie z przepisami prawa. Ten produkt jest przeznaczony do uzupełnienia diety, której podstawą jest mleko kobiece lub modyfikowane. Karmienie piersią jest najlepsze dla dziecka. Produkt dla niemowląt i małych dzieci.
+#LDodatkowe Informacje
+Zapytaj o rozszerzanie diety. 801 16 55 55. www.bobovita.pl.
+#LO Marce
+BoboVita. Jakość, której możesz zaufać na 100%!,
+#LRodzaj Opakowania
+Słoik
+#LMasa Netto
+125 g
+#LDodatkowe Informacje
+Green Dot, Wstęga Möbiusa
+#LJednostka Opisowa
+g
+#LSkladniki
+owoce 72 % (brzoskwinie 35%, jabłka 25%, banany 12%), woda UŻYTA do przygotowania, mąka ryżowa, zagęszczony sok cytrynowy, witamina C
+#LOswiadczenia Zywieniowe
+bez dodatku cukru - zawiera naturalnie występujące cukry.
+#LInformacje Dot Stylu Zycia
+Bezglutenowy, Bez dodatku cukru
+#LDodatki
+Barwniki - Nie zawiera, Wzmacniacze smaku - Nie zawiera, konserwanty - Nie zawiera
+#LDolna Granica Wieku
+Zalecana - 5 miesiąc/miesiące/miesięcy
+#LZalecenia Dla Alergikow
+ZBOŻA zawierające GLUTEN - Nie zawiera, JAJA - Nie zawiera, MLEKO - Nie zawiera, SOJA - Nie zawiera
+#LPrzechowywanie
+Przechowywanie i przygotowanie:. Przed otwarciem przechowuj w temperaturze pokojowej. Nie używaj, jeśli można wcisnąć środek wieczka. Odpowiednią ilość produktu przełóż do miseczki, używając plastikowej łyżeczki. Pozostałą część przechowuj w zamkniętym słoiczku w lodówce, nie dłużej niż 48 godzin. Nie przechowuj i nie podawaj resztek produktu, który jadło dziecko. Przestrzegaj instrukcji właściwego przygotowania.
+#LAdres Producenta
+Nutricia Polska Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LAdres Zwrotny
+Nutricia Polska Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LO Producencie
+Certyfikowany producent ISO 22000.
+#LUwagi Do Wartości Odżywczych
+Zawartość soli wynika wyłącznie z naturalnej zawartości sodu.
+#LOznaczenia Specjalne
+**% zalecanego dziennego spożycia
+#LMiara
+125 g
+#LEAN
+8591119253880
+#PBoboVita - Banany jabłka i owoce jagodowe po 5 miesiącu
+#Lprice
+2,78 ZŁ
+#LMasa
+Waga brutto - 218 g
+#LMarka
+BoboVita
+#LMarka Standaryzowana
+BoboVita
+#LMarka Producenta
+Nutricia
+#LNazwa Produktu Uregulowana Prawnie
+Przecier dla niemowląt: Banany, jabłka i owoce jagodowe. Produkt utrwalony termicznie - pasteryzowany.
+#LOpis Produktu
+100% owoców z kontrolowanych upraw. - bez konserwantów, barwników, wzmacniaczy smaku*. - nie zawiera: soi mleka, jaj. - skład odpowiedni do wieku dziecka. - składniki z upraw przeznaczonych dla najmłodszych. - każda partia, owoców przechodzi nawet ponad 600 testów jakości i bezpieczeństwa. * zgodnie z przepisami prawa. Ten produkt jest przeznaczony do uzupełnienia diety, której podstawą jest mleko kobiece lub modyfikowane. Karmienie piersią jest najlepsze dla dziecka. Produkt dla niemowląt i małych dzieci.
+#LDodatkowe Informacje
+Zapytaj o rozszerzanie diety. 801 16 55 55. www.bobovita.pl.
+#LO Marce
+BoboVita. Jakość, której możesz zaufać na 100%!,
+#LRodzaj Opakowania
+Słoik
+#LMasa Netto
+125 g
+#LDodatkowe Informacje
+Green Dot, Wstęga Möbiusa
+#LJednostka Opisowa
+g
+#LSkladniki
+owoce 97% (jabłka 70%, banany 15%, jagody 7%, maliny 5%), mąka ryżowa, zagęszczony sok z aronii, zagęszczony sok cytrynowy, witamina C
+#LInformacje Dot Stylu Zycia
+Bezglutenowy
+#LDodatki
+Barwniki - Nie zawiera, Wzmacniacze smaku - Nie zawiera, konserwanty - Nie zawiera
+#LDolna Granica Wieku
+Zalecana - 5 miesiąc/miesiące/miesięcy
+#LZalecenia Dla Alergikow
+ZBOŻA zawierające GLUTEN - Nie zawiera, JAJA - Nie zawiera, MLEKO - Nie zawiera, SOJA - Nie zawiera
+#LPrzechowywanie
+Przechowywanie i przygotowanie:. Przed otwarciem przechowuj w temperaturze pokojowej. Nie używaj, jeśli można wcisnąć środek wieczka. Odpowiednią ilość produktu przełóż do miseczki, używając plastikowej łyżeczki. Pozostałą część przechowuj w zamkniętym słoiczku w lodówce, nie dłużej niż 48 godzin. Nie przechowuj i nie podawaj resztek produktu, który jadło dziecko. Przestrzegaj instrukcji właściwego przygotowania.
+#LAdres Producenta
+Nutricia Polska Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LAdres Zwrotny
+Nutricia Polska Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LO Producencie
+Certyfikowany producent ISO 22000.
+#LUwagi Do Wartości Odżywczych
+Zawartość soli wynika wyłącznie z naturalnej zawartości sodu.
+#LOznaczenia Specjalne
+**% zalecanego dziennego spożycia.
+#LMiara
+125 g
+#LEAN
+8591119000378
+#PBobovita - Jabłka banany maliny z kaszą kukurydzianą
+#Lprice
+5,18 ZŁ
+#LProducent
+Nutricia
+#LMasa
+Waga brutto - 320 g
+#LMarka
+BoboVita
+#LMarka Standaryzowana
+BoboVita
+#LMarka Producenta
+Nutricia
+#LNazwa Produktu Uregulowana Prawnie
+Przecier dla niemowląt: Jabłka, banany i maliny z kleikiem kukurydzianym. Produkt utrwalony termicznie - pasteryzowany.
+#LOpis Produktu
+100% owoców z kontrolowanych upraw. - bez konserwantów, barwników, wzmacniaczy smaku*. - nie zawiera: soi, mleka, jaj. - skład odpowiedni do wieku dziecka. - składniki z upraw przeznaczonych dla najmłodszych. - każda partia owoców przechodzi nawet ponad 600 testów jakości i bezpieczeństwa. *zgodnie z przepisami prawa. Produkt dla niemowląt i małych dzieci.
+#LDodatkowe Informacje
+Zapytaj o rozszerzanie diety. 801 16 55 55. www.bobovita.pl. Mariola Ekspert BoboVita.
+#LO Marce
+BoboVita. Jakość, której możesz zaufać na 100 %!,
+#LRodzaj Opakowania
+Słoik
+#LMasa Netto
+190 g
+#LDodatkowe Informacje
+Green Dot, Wstęga Möbiusa
+#LJednostka Opisowa
+g
+#LSkladniki
+jabłka 54,5 %, banany 20 %, sok jabłkowy z zagęszczonego soku, maliny 10 %, mąka kukurydziana 2,4 %, zagęszczony sok z czarnej marchwi, zagęszczony sok cytrynowy, witamina C
+#LInformacje Dot Stylu Zycia
+Bezglutenowy
+#LDodatki
+Barwniki - Nie zawiera, Wzmacniacze smaku - Nie zawiera, konserwanty - Nie zawiera
+#LDolna Granica Wieku
+Zalecana - 6 miesiąc/miesiące/miesięcy
+#LZalecenia Dla Alergikow
+ZBOŻA zawierające GLUTEN - Nie zawiera
+#LPrzechowywanie
+Przechowywanie i przygotowanie:. Przed otwarciem przechowuj w temperaturze pokojowej. Nie używaj, jeśli można wcisnąć środek wieczka. Odpowiednią ilość produktu przełóż do miseczki, używając plastikowej łyżeczki. Pozostałą część przechowuj w zamkniętym słoiczku w lodówce, nie dłużej niż 48 godzin. Nie przechowuj i nie podawaj resztek produktu, który jadło dziecko. Przestrzegaj instrukcji właściwego przygotowania.
+#LPrzygotowanie I Stosowanie
+Przechowywanie i przygotowanie:, Przed otwarciem przechowuj w temperaturze pokojowej. Nie używaj, jeśli można wcisnąć środek wieczka. Odpowiednią ilość produktu przełóż do miseczki, używając plastikowej łyżeczki. Pozostałą część przechowuj w zamkniętym słoiczku w lodówce, nie dłużej niż 48 godzin. Nie przechowuj i nie podawaj resztek produktu, który jadło dziecko. Przestrzegaj instrukcji właściwego przygotowania.
+#LAdres Producenta
+Nutricia Polska Sp. z o.o. ul. Bobrowiecka 8, 00-728 Warszawa,
+#LAdres Zwrotny
+Nutricia Polska Sp. z o.o. ul. Bobrowiecka 8, 00-728 Warszawa,
+#LO Producencie
+Certyfikowany producent ISO 22000.
+#LUwagi Do Wartości Odżywczych
+Zawartość soli wynika wyłącznie z naturalnej zawartości sodu.
+#LOznaczenia Specjalne
+** % zalecanego dziennego spożycia.
+#LMiara
+190 g
+#LEAN
+8591119001511
+#PGerber - BIO deser banany z jabłkiem gruszką i brzoskwiniami
+#Lprice
+6,99 ZŁ
+#LMarka
+Gerber Organic
+#LMarka Standaryzowana
+Gerber Organic
+#LMarka Producenta
+Nestlé
+#LNazwa Produktu Uregulowana Prawnie
+Banany z jabłkiem, gruszką i brzoskwiniami. Produkt utrwalony termicznie, sterylizowany.
+#LOpis Produktu
+Żywność przeznaczona dla niemowląt i małych dzieci. Zgodnie z przepisami prawa nie zawiera substancji konserwujących i barwników.
+#LPozostale Informacje
+Unijne logo rolnictwa ekologicznego - PL-EKO-07, Rolnictwo UE/spoza UE, Właścicielem znaku towarowego jest Société des Produits Nestlé S.A.
+#LCechy
+bez dodatku cukru - zawiera naturalnie występujące cukry
+#LDodatkowe Informacje
+Czy wiesz, że... Surowce Gerber Organic pochodzą z rolnictwa ekologicznego, gdzie uprawiane są z poszanowaniem naturalnych procesów oraz dbałością o środowisko. Co rok ich ekologiczne pochodzenie poświadczane jest certyfikatem. Zapytaj Eksperta. Centrum Informacji dla Rodziców. tel. 801 333 000. www.gerber.pl.
+#LRodzaj Opakowania
+Słoik
+#LMasa Netto
+190 g
+#LDodatkowe Informacje
+Unijne logo rolnictwa ekologicznego
+#LJednostka Opisowa
+g
+#LSkladniki
+banany* (39,7%), jabłka* (30%), gruszki* (20%), brzoskwinie* (10%), zagęszczony sok cytrynowy*, przeciwutleniacz: kwas L-askorbinowy**, *z rolnictwa ekologicznego, **kwas L-askorbinowy to forma witaminy C występująca również naturalnie w owocach
+#LOswiadczenia Zywieniowe
+bez dodatku cukru - zawiera naturalnie występujące cukry.
+#LInformacje Dot Stylu Zycia
+Bez dodatku cukru, Organiczne
+#LDodatki
+Barwniki - Nie zawiera, konserwanty - Nie zawiera
+#LInformacje O Recyklingu
+Opakowanie - Nadające się do recyklingu
+#LDolna Granica Wieku
+Zalecana - 6 miesiąc/miesiące/miesięcy
+#LOstrzeżenia Dotyczące Bezpieczeństwa
+!Nie używać, jeśli wieczko się ugina. Przy pierwszym otwarciu wieczko musi "kliknąć".
+#LZalecenia Dla Alergikow
+ZBOŻA zawierające GLUTEN - Nie zawiera
+#LPrzechowywanie
+Zamknięte słoiki przechowuj w temperaturze pokojowej. Po otwarciu produkt przechowuj w zamkniętym słoiku w lodówce nie dłużej niż 24 godziny.
+#LPrzygotowanie I Stosowanie
+Sposób przygotowania:, - Potrzebną porcję przełóż do miseczki. - Podawaj w temperaturze pokojowej. - Przed podaniem wymieszaj i sprawdź temperaturę produktu. Podawaj dziecku w pozycji siedzącej, pod kontrolą osoby dorosłej.
+#LAdres Producenta
+Nestlé Polska S.A. ul. Domaniewska 32, 02-672 Warszawa,
+#LAdres Zwrotny
+Nestlé Polska S.A. ul. Domaniewska 32, 02-672 Warszawa,
+#LO Producencie
+Nestlé Jedz smacznie, żyj zdrowo.
+#LUwagi Do Wartości Odżywczych
+Zawartość soli wynika wyłącznie z obecności naturalnie występującego sodu.
+#LMiara
+190 g
+#LEAN
+7613039018378
+#PGerber - Jabłka i banany z kremowym twarożkiem
+#Lprice
+4,65 ZŁ
+#LMasa
+Waga brutto - 312 g
+#LMarka
+Gerber
+#LMarka Standaryzowana
+Gerber
+#LMarka Producenta
+Nestlé
+#LNazwa Produktu Uregulowana Prawnie
+Jabłka i banany z kremowym twarożkiem. Produkt utrwalony termicznie, pasteryzowany.
+#LOpis Produktu
+Kompozycja owoców (jabłka, banany, mango, winogrona) z dodatkiem soku cytrynowego i kremowego twarożku. Skład dostosowany do potrzeb dziecka. Idealny do kontynuacji nauki smaków. . Żywność przeznaczona dla niemowląt i małych dzieci. Zgodnie z przepisami prawa nie zawiera substancji konserwujących i barwników.
+#LPozostale Informacje
+Właścicielem znaku towarowego jest Société des Produits Nestlé S.A.
+#LDodatkowe Informacje
+Czy wiesz, że... Deserki Gerber zostały przygotowane ze starannie wyselekcjonowanych owoców, pochodzących od sprawdzonych dostawców, a ich smak może się zmieniać w zależności od panującej w okresie dojrzewania pogody. Im bardziej słoneczny rok, tym owoce i deserki są słodsze!. Zapytaj Eksperta. Centrum Informacji dla Rodziców. tel. 801 333 000. www.gerber.pl.
+#LO Marce
+Gerber, Smaki od A do Z,
+#LRodzaj Opakowania
+Słoik
+#LMasa Netto
+190 g
+#LJednostka Opisowa
+g
+#LSkladniki
+jabłka i sok jabłkowy (44%), banany (26%), TWAROŻEK z MLEKA (15%), zagęszczone mango i sok winogronowy, skrobia kukurydziana, zagęszczony sok cytrynowy, witamina C
+#LDodatki
+Barwniki - Nie zawiera, konserwanty - Nie zawiera
+#LInformacje O Recyklingu
+Opakowanie - Nadające się do recyklingu
+#LDolna Granica Wieku
+Zalecana - 6 miesiąc/miesiące/miesięcy
+#LOstrzeżenia Dotyczące Bezpieczeństwa
+!Nie używać, jeśli wieczko się ugina. Przy pierwszym otwarciu wieczko musi „kliknąć".
+#LZalecenia Dla Alergikow
+MLEKO - Zawiera
+#LPrzechowywanie
+Zamknięte słoiki przechowuj w temperaturze pokojowej. Po otwarciu produkt przechowuj w zamkniętym słoiku w lodówce nie dłużej niż 24 godziny.
+#LPrzygotowanie I Stosowanie
+Sposób przygotowania:, - Potrzebną porcję przełóż do miseczki. - Podawaj w temperaturze pokojowej. - Przed podaniem wymieszaj i sprawdź temperaturę produktu.
+#LAdres Producenta
+Nestlé Polska S.A. ul. Domaniewska 32, 02-672 Warszawa,
+#LAdres Zwrotny
+Nestlé Polska S.A. ul. Domaniewska 32, 02-672 Warszawa,
+#LO Producencie
+Nestlé Jedz smacznie, żyj zdrowo.
+#LUwagi Do Wartości Odżywczych
+*ZDS - zalecane dzienne spożycie
+#LOznaczenia Specjalne
+Zawartość soli wynika wyłącznie z obecności naturalnie występującego sodu.
+#LMiara
+190 g
+#LEAN
+7613033364655
+#PAuchan - Smoothie banan-jabłko
+#Lprice
+7,99 ZŁ
+#LRozszerzona Nazwa Produktu
+Sok przecierowy, bezpośrednio wyciśnięty z bananów i jabłek z dodatkiem witaminy C, paskalizowany (HPP)
+#LMarka
+Produkt marki Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Smoothie Banan Jabłko
+#LOpis Produktu
+Paskalizacja (HPP) to metoda utrwalania soku poprzez zastosowanie wysokiego ciśnienia, przez co produkt dłużej zachowuje świeżość
+#LCechy
+Smak może się różnić w zależności od pory roku
+#LRodzaj Opakowania
+Opakowanie: plastikowa butelka
+#LPochodzenie
+Wyprodukowano w Polsce
+#LJednostka Opisowa
+ml
+#LSkladniki
+Przecier z bananów (53%), sok z jabłek (47%), witamina C
+#LPrzechowywanie
+Przechowywać w temp. od 1°C do 7°C
+#LWarunki Przechowywania
+Chronić przed bezpośrednim działaniem promieni słonecznych. Po otwarciu przechowywać w lodówce i spożyć w ciągu 24 godzin
+#LUzytkowanie I Przechowywanie
+Wstrząsnąć przed użyciem
+#LAdres Producenta
+HPP Trade Sp. z o.o., Sp. K., ul. Partynicka 8, 53-031 Wrocław, Polska
+#LAdres Dystrybutora
+Serwis klienta Skrytka 1 Ul. Puławska 46, 05-500 Piaseczno, Polska serwisklienta_polska@auchan.pl
+#LZawartosc Netto
+500ml
+#LUwagi Do Wartości Odżywczych
+* Dzienna referencyjna wartość spożycia dla osoby dorosłej
+#LMiara
+500 ml
+#LEAN
+5904215158400
+#PLimenita - SMOOTHIE truskawka banan
+#Lprice
+5,31 ZŁ
+#LMarka
+Limenita
+#LNazwa Produktu Uregulowana Prawnie
+Sok wieloowocowy. Produkt pasteryzowany
+#LOpis Produktu
+Naturalnie wysoka zawartość witaminy C
+#LKraj Pochodzenia
+Wyprodukowano w Hiszpanii
+#LRodzaj Opakowania
+Opakowanie: plastikowe
+#LSkladniki
+Sok z winogron 28%, przecier z truskawek 27%, przecier z banana 18%, sok z jabłek i przecier z jabłek 12%, sok z pomarańczy i miąższ z pomarańczy 10%, przecier z aceroli 2%, sok z czarnej porzeczki 2%, sok z limonki 1%
+#LPrzechowywanie
+Przechowywać w temperaturze od 0°C do 7°C
+#LWarunki Przechowywania
+Po otwarciu przechowywać w lodówce i spożyć w ciągu 4 dni
+#LUzytkowanie I Przechowywanie
+Wstrząsnąć przed otwarciem
+#LAdres Producenta
+AMC Natural Drinks, S.L., Ctra. Madrid - Cartagena, Km 383, 30100 Espinardo (Murcia), Hiszpania
+#LZawartosc Netto
+250 ml
+#LMiara
+250 ml
+#LEAN
+8410171011231
+#PAuchan - Smoothie truskawka banan
+#Lprice
+8,99 ZŁ
+#LMarka
+Produkt marki Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Smoothie Fraise Banane - Mieszanka soków i przecierów wieloowocowych, bezpośrednio wyciśnięta z owoców, pasteryzacja flash
+#LKraj Pochodzenia
+Wyprodukowano we Francji
+#LRodzaj Opakowania
+Opakowanie: plastikowa butelka
+#LSkladniki
+Przecier z truskawek 32%, sok i przecier z jabłek 22%, sok z białych winogron 20%, przecier z bananów 20%, sok i miąższ z pomarańczy 4%, sok z czarnej porzeczki 2%
+#LPrzechowywanie
+Przechowywać w temperaturze do 6'C
+#LWarunki Przechowywania
+Po otwarciu przechowywać w lodówce i spożyć w ciągu 4 dni
+#LUzytkowanie I Przechowywanie
+Wstrząsnąć przed otwarciem
+#LAdres Dystrybutora
+Auchan Polska Sp. z o. o. ul. Puławska 46, 05-500 Piaseczno
+#LZawartosc Netto
+750 ml
+#LMiara
+750 ml
+#LEAN
+3596710462032
