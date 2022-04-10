@@ -1,1 +1,1 @@
-ser:10:szt.;szynka:48:g.;
+ser:10:szt.;sok:1000:g.;

@@ -487,7 +487,6 @@ class FinalListWindow(Screen):
             for index, suggestions in enumerate(converted_list):
                 suggestions = suggestions.split(";")
                 best = suggestions[0].split(":")
-                print(best)
 
                 # product name label
                 # col 0

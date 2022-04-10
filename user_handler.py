@@ -397,6 +397,7 @@ def get_product_info(homeIP, name, index):
     info = "^".join(info)
     return info
 
+
 if __name__ == "__main__":
     # debugging space
     """"
