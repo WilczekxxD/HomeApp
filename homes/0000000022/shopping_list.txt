@@ -1,1 +1,1 @@
-ser:5:szt.;sok:5:szt.;
+ser:5:szt.;
