@@ -354,7 +354,6 @@ class ShoppingWindow(Screen):
                             text_size=(Window.width * 0.4, Window.height * 0.6),
                             pos_hint={"x": 0.005, "y": 0.5})
 
-
         # dissmiss & confirm
         back = self.DeleteProductButton(size_hint=(0.4625, 0.2),
                                         pos_hint={"x": 0.025, "y": 0.025},
