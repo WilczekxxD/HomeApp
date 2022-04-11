@@ -27,7 +27,7 @@ def register(email, password1, password2):
     else:
         f = open(os.path.join(cwd, users, str(email) + ".txt"), "w")
         f.write("password:" + password1 + "\n")
-        f.write("homes:'\n'")
+        f.write("homes:")
         if os.path.exists(os.path.join(cwd, users, str(email) + ".txt")):
             return "successfully registered"
         else:
@@ -269,6 +269,9 @@ def delete_home(email, homeIP, gpas):
         IP_index = homes_l.index(homeIP)
         homes_l.pop(IP_index)
         homes_j = ";".join(homes_l)
+        # if homes_j is not last eding ";" at the end
+        if homes_j:
+            homes_j = homes_j + ";"
         user_f = open(os.path.join(cwd, users, email + ".txt"), "w")
         user_f.write(pas + "homes:" + homes_j)
         user_f.close()
@@ -396,6 +399,7 @@ def get_product_info(homeIP, name, index):
     info = dtb.auchan.get_product_info(kind, name)
     info = "^".join(info)
     return info
+
 
 if __name__ == "__main__":
     # debugging space

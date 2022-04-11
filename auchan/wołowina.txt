@@ -1,91 +1,487 @@
-#PAuchan - Wołowina suszona
+#PWołowina - Stek z polędwicy wołowej
 #Lprice
-8,99 ZŁ
+41,70 ZŁ
 #LRozszerzona Nazwa Produktu
-Mięso wołowe surowe suszone
+Wołowina dojrzewająca. Pakowana próżniowo
+#LPodmarka
+Wołowina rasy Limousine
 #LMarka
-Auchan
+Sokołów
 #LNazwa Produktu Uregulowana Prawnie
-Wołowina suszona
-#LKraj Pochodzenia
-Wyprodukowano we Francji z mięsa pochodzącego z UE
-#LRodzaj Opakowania
-Opakowanie: plastikowe
-#LSkladniki
-Mięso wołowe, sól, przyprawy, glukoza, regulator kwasowości (E330), przeciwutleniacz (E301), substancja konserwująca (E250)
-#LOswiadczenia Zywieniowe
-100 g produktu otrzymano ze 128 g mięsa wołowego
-#LZalecenia Dla Alergikow
-Produkt może zawierać: MLEKO, ORZECHY, JAJA, GORCZYCĘ, GLUTEN
-#LPrzechowywanie
-Przechowywać w temperaturze od 0'C do +4'C
-#LWarunki Przechowywania
-Spożyć bezpośrednio po otwarciu
-#LAdres Importera
-Olivier & CO Sp. z o. o. ul. Traktorowa 180, 91-203 Łódź
-#LAdres Dystrybutora
-Auchan Polska Sp. z o. o. ul. Puławska 46, 05-500 Piaseczno
-#LZawartosc Netto
-50 g
-#LMiara
-50 g
-#LEAN
-5904215143253
-#PBell - Suszona wołowina z miodem
-#Lprice
-9,69 ZŁ
-#LRozszerzona Nazwa Produktu
-Mięso wołowe peklowane, parzone, suszone
-#LMarka
-Bell
-#LNazwa Produktu Uregulowana Prawnie
-Suszona wołowina z miodem
-#LRodzaj Opakowania
-Opakowanie: foliowe
-#LDodatkowe Informacje
-DE-OKO-034
-#LSkladniki
-Mięso wołowe*, przyprawy*, sól morska, sól kuchenna, cukier trzcinowy*, przeciwutleniacz (askorbinian sodu), maltodekstryna*, miód kwiatowy 0,1%, substancja konserwująca (azotyn sodu), dym rewna bukowego
-#LSklad Produktu
-100 g produktu uzyskano z 234 g mięsa
-#LOswiadczenia Zywieniowe
-*Składniki z upraw ekologicznych
-#LPrzechowywanie
-Przechowywać w miejscu suchym i zacienionym
-#LAdres Dystrybutora
-Bell Polska Sp. z o. o. ul. Mokra 11, 32-005 Niepłomice
-#LZawartosc Netto
-25 g
-#LMiara
-25 g
-#LEAN
-4034167100194
-#PStrzała - Wołowina w sosie własnym bez konserwantów
-#Lprice
-10,69 ZŁ
-#LRozszerzona Nazwa Produktu
-Konserwa wołowa średnio rozdrobniona, bez dodatku konserwantów, pasteryzowana
-#LMarka
-Strzała
-#LNazwa Produktu Uregulowana Prawnie
-Wołowina w sosie własnym bez konserwantów
+Stek z polędwicy wołowej, jakość premium
+#LOpis Produktu
+Krucha wołowina. 8 dni wołowina dojrzała. Gwarantowany niepowtarzalnego smaku. Wiek zwierzęcia: bydło do 30 miesiąca życia
 #LKraj Pochodzenia
 Wyprodukowano w Polsce
 #LRodzaj Opakowania
-Opakowanie: szklany słoik
-#LSkladniki
-Mięso wołowe 80%, woda, sól, substancja zagęszczająca (przetworzone wodorosty morskie Rhodophyceae, białko kolagenowe wołowe, przyprawy, dekstroza, hydrolizowane białko roślinne (kukurydza, rzepak), przeciwutleniacz (kwas askorbinowy), aromat, proszek owocowy
-#LZalecenia Dla Alergikow
-Produkt może zawierać: SELER, SOJĘ, GORCZYCĘ, DWUTLENEK SIARKI
+Opakowanie: plastikowe z tekturową etykietą
+#LMiejsce Urodzenia
+Polska
+#LMiejsce Hodowli
+Polska
+#LMiejsce Uboju
+Polska
+#LPochodzenie
+Produkt Polski
 #LPrzechowywanie
-Przechowywać w suchym i chłodnym miejscy w temperaturze pokojowej
+Przechowywać w temperaturze od 0'C do 4'C
 #LWarunki Przechowywania
-Po otwarciu przechowywać w lodówce i spozyć w ciągu 24 goddzin
+Po otwarciu przechowywać nie dłużej niż 24 godziny
 #LUzytkowanie I Przechowywanie
-Podawać na zimno z pieczywem lub na ciepło z kaszą, ryżem, ziemniakami
+Należy spożyć po obróbce cieplnej
 #LAdres Producenta
-Strzała Sp. z o. o. 98-345 Mokrsko 341 A
+Sokołów S.A. al. 550-lecia 1, 08-300 Sokołów Podlaski
+#LMiara
+Produkt na wagę od 300 g
+#PWołowina - Stek z antrykotu wołowego bez kości
+#Lprice
+28,00 ZŁ
+#LRozszerzona Nazwa Produktu
+Wołowina dojrzewająca. Pakowana próżniowo
+#LPodmarka
+Wołowina rasy Limousine
+#LMarka
+Sokołów
+#LNazwa Produktu Uregulowana Prawnie
+Stek z antrykotu wołowego bez kości, jakość premium
+#LOpis Produktu
+Krucha wołowina. 8 dni wołowina dojrzała. Gwarantowany niepowtarzalnego smaku. Wiek zwierzęcia: bydło do 30 miesiąca życia
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Opakowanie: plastikowe z tekturową etykietą
+#LMiejsce Urodzenia
+Polska
+#LMiejsce Hodowli
+Polska
+#LMiejsce Uboju
+Polska
+#LPochodzenie
+Produkt Polski
+#LPrzechowywanie
+Przechowywać w temperaturze od 0'C do 4'C
+#LWarunki Przechowywania
+Po otwarciu przechowywać nie dłużej niż 24 godziny
+#LUzytkowanie I Przechowywanie
+Należy spożyć po obróbce cieplnej
+#LAdres Producenta
+Sokołów S.A. al. 550-lecia 1, 08-300 Sokołów Podlaski
+#LMiara
+Produkt na wagę od 400 g
+#PWołowina - Stek z rostbefu wołowego bez kości rasy Limousine
+#Lprice
+21,00 ZŁ
+#LRozszerzona Nazwa Produktu
+Wołowina dojrzewająca. Pakowana próżniowo
+#LPodmarka
+Wołowina rasy Limousine
+#LMarka
+Sokołów
+#LNazwa Produktu Uregulowana Prawnie
+Stek z rostbefu wołowego bez kości Limousine, jakość premium
+#LOpis Produktu
+Krucha wołowina. 8 dni wołowina dojrzała. Gwarantowany niepowtarzalnego smaku. Wiek zwierzęcia: bydło do 30 miesiąca życia
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LRodzaj Opakowania
+Opakowanie: plastikowe z tekturową etykietą
+#LMiejsce Urodzenia
+Polska
+#LMiejsce Hodowli
+Polska
+#LMiejsce Uboju
+Polska
+#LPochodzenie
+Produkt Polski
+#LPrzechowywanie
+Przechowywać w temperaturze od 0'C do 4'C
+#LWarunki Przechowywania
+Po otwarciu przechowywać nie dłużej niż 24 godziny
+#LUzytkowanie I Przechowywanie
+Należy spożyć po obróbce cieplnej
+#LAdres Producenta
+Sokołów S.A. al. 550-lecia 1, 08-300 Sokołów Podlaski
+#LMiara
+Produkt na wagę od 350 g
+#PWołowina Rasy Limousine - Stek z ligawy wołowej
+#Lprice
+16,80 ZŁ
+#LRozszerzona Nazwa Produktu
+Ligawa wołowa plaster limousine - Wołowina dojrzewająca. Pakowana próżniowo
+#LMarka
+Wołowina Rasy Limousine
+#LNazwa Produktu Uregulowana Prawnie
+Stek z ligawy wołowej, jakość premium
+#LOpis Produktu
+Krucha wołowina. Gwarancja niepowtarzalnego smaku. Wiek zwierzęcia: bydło do 30 miesiąca życia
+#LKraj Pochodzenia
+Kraj pochodzenia: Polska
+#LRodzaj Opakowania
+Opakowanie: plastikowe plus tekturowa etykieta
+#LMiejsce Urodzenia
+Miejsce chowu: Polska
+#LMiejsce Hodowli
+Miejsce uboju: Polska
+#LPochodzenie
+Produkt Polski
+#LPrzechowywanie
+Przechowywać w temperaturze od -1'C do 4'C
+#LWarunki Przechowywania
+Po otwarciu przechowywać w warunkach chłodniczych nie dłużej niż 24 godziny
+#LUzytkowanie I Przechowywanie
+Należy spożyć po obróbce cieplnej
+#LAdres Producenta
+SOKOŁÓW S.A. Al. 550-lecia 1, 08-300 Sokołów Podlaski
+#LMiara
+Produkt na wagę od 300 g
+#PWołowina Rasy Limousine - Stek z rozbratla wołowego bez kości
+#Lprice
+15,05 ZŁ
+#LRozszerzona Nazwa Produktu
+Wołowina dojrzewająca. Pakowana próżniowo
+#LMarka
+Wołowina Rasy Limousine
+#LNazwa Produktu Uregulowana Prawnie
+Stek z rozbratla wołowego bez kości limousine, jakość premium
+#LOpis Produktu
+Krucha wołowina. Gwarancja niepowtarzalnego smaku. Wiek zwierzęcia: bydło do 30 miesiąca życia
+#LKraj Pochodzenia
+Kraj pochodzenia: Polska
+#LRodzaj Opakowania
+Opakowanie: plastikowe plus tekturowa etykieta
+#LMiejsce Hodowli
+Miejsce chowu: Polska
+#LMiejsce Uboju
+Miejsce uboju: Polska
+#LPochodzenie
+Produkt Polski
+#LPrzechowywanie
+Przechowywać w temperaturze od -1'C do 4'C
+#LWarunki Przechowywania
+Po otwarciu przechowywać w warunkach chłodniczych nie dłużej niż 24 godziny
+#LUzytkowanie I Przechowywanie
+Należy spożyć po obróbce cieplnej
+#LAdres Producenta
+SOKOŁÓW S.A. Al. 550-lecia 1, 08-300 Sokołów Podlaski
+#LMiara
+Produkt na wagę od 350 g
+#PAuchan - Ravioli z wołowiną
+#Lprice
+6,64 ZŁ
+#LRozszerzona Nazwa Produktu
+Pierożki z ciasta makaronowego, nadziewane wołowiną
+#LMarka
+Produkt marki Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Ravioli z wołowiną
+#LKraj Pochodzenia
+Wyprodukowano we Włoszech
+#LRodzaj Opakowania
+Opakowanie: plastikowe
+#LSkladniki
+Farsz 50%: mięso wołowe 17,5% (kraj pochodzenia Francja), bułka tarta (mąka PSZENNA, woda, sól, drożdże, mąka PSZENNA słodowa), woda, olej słonecznikowy, SERWATKA z MLEKA w proszku, cebula 2,5%, marchew 1,7%, koncentrat pomidorowy, sól, cebula grillowana, sproszkowany czosnek, gałka muszkatołowa, pieprz czarny 0,05%. Ciasto 50%: mąka PSZENNA 25%, SEMOLINA z PSZENICY durum 10,7%, JAJA 10%, woda
+#LZalecenia Dla Alergikow
+Produkt może zawierać: SKORUPIAKI, RYBY, ORZECHY, SELER, MIĘCZAKI
+#LPrzechowywanie
+Przechowywać w temperaturze od 0°C do +4°C. Po otwarciu spożyć niezwłocznie.
+#LPrzygotowanie
+Zanurz pierożki objętości wrzącej wody. Zmniejsz wrzenie i gotuj przez 3-4 minuty. Delikatnie wyjmij pierożki z wody. Podawaj z ulubionymi dodatkami.
+#LAdres Dystrybutora
+Auchan Polska Sp. z o.o., ul. Puławska 46, 05-500 Piaseczno
 #LZawartosc Netto
 300 g
+#LMiara
+300 g
 #LEAN
-5903111916411
+3596710476077
+#PAuchan - Wołowina kowal na gulasz
+#Lprice
+16,00 ZŁ
+#LMarka
+Produkt marki Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Wołowina kawałki na gulasz
+#LKraj Pochodzenia
+Wyprodukowano w Polsce
+#LMiejsce Urodzenia
+Kraj pochodzenia zwierząt: Polska
+#LSkladniki
+Mięso wołowe
+#LPrzechowywanie
+Przechowywać w temperaturze do 4'C
+#LWarunki Przechowywania
+Po otwarciu opakowania spożyć w ciągu 4 dni
+#LAdres Dystrybutora
+Auchan Polska Sp. z o. o. ul. Puławska 46, 05-500 Piaseczno
+#LMiara
+Produkt na wagę od 500 g
+#PAnimonda - Karma dla kotów wołowina senior
+#Lprice
+3,79 ZŁ
+#LPodmarka
+Vom Feinsten Senior
+#LMarka
+Animonda
+#LNazwa Produktu Uregulowana Prawnie
+Pełnoporcjowa karma dla starszych kotów - z jagnięciną
+#LOpis Produktu
+Pełnoporcjowa karma stworzona aby sprostać wymaganiom żywieniowym starszych kotów. Wyprodukowana wyłącznie ze świeżego, starannie wyselekcjonowanego, nie mrożonego mięsa. Najwyższej jakości soczyste mięsne kawałki są najlepszym dowodem na najwyższą jakość składu. Idealnie dobrana kompozycja mięs gwarantuje wyważoną ilość białka i tłuszczów. Zestaw antyoksydantów zapewnia ochronę systemu immunologicznego. Ostatecznym wyznacznikiem jakości jest dodatek witamin i minerałów.
+#LRodzaj Opakowania
+Opakowanie: metalowe
+#LZawartosc Opakowania
+Produkt ten nie zawiera soi, sztucznych barwników, konserwantów ani aromatów smakowych.
+#LSkladniki
+Mięso i pochodne mięsa (kurczak 20%, jagnięcina 8%), substancje mineralne
+#LSklad Produktu
+Analiza składu: białko 10%, zawartość tłuszczu 4%, błonnik 0,4%, popiół 1,4%, zawartość wody 82%
+#LPrzechowywanie
+Przed otwarciem przechowywać w suchym i chłodnym miejscu. Po otwarciu - w lodówce
+#LPrzygotowanie
+Zmieniając sposób żywienia pupila należy robić to stopniowo przez okres kilku dni. Zwierzakowi należy podawać pokarm o temperaturze pokojowej oraz zapewnić stały dostęp do świeżej wody do picia
+#LAdres Producenta
+Animonda PetCare GmbH, Frankfurter Str. 31, 49214 Bad Rothenfalde
+#LZawartosc Netto
+100 g
+#LEAN
+4017721832373
+#PBoboVita - BIO Wołowina z makaronem i dynią po 8 miesiącu
+#Lprice
+5,38 ZŁ
+#LPodmarka
+Bio
+#LMarka
+BoboVita
+#LMarka Standaryzowana
+BoboVita
+#LNazwa Produktu Uregulowana Prawnie
+Obiadek Bio dla niemowląt: Wołowina w pomidorach z dynią i makaronem gwiazdki. Produkt utrwalony termicznie - sterylizowany.
+#LOpis Produktu
+Produkt dla niemowląt i małych dzieci.
+#LPozostale Informacje
+Unijne logo rolnictwa ekologicznego - PL-EKO-01 Rolnictwo UE/spoza UE,
+#LCechy
+bez konserwantów, barwników, wzmacniaczy smaku**, bez dodatku soli, **zgodnie z przepisami prawa
+#LDodatkowe Informacje
+Czy wiesz, że... uprawy i hodowle, z których pochodzą nasze składniki Bio, prowadzone są z troską o środowisko naturalne. Zapytaj o rozszerzanie diety. 801 16 55 55. www.bobovita.pl.
+#LRodzaj Opakowania
+Słoik
+#LMasa Netto
+190 g
+#LDodatkowe Informacje
+Unijne logo rolnictwa ekologicznego, Green Dot, Wstęga Möbiusa
+#LJednostka Opisowa
+g
+#LSkladniki
+warzywa 60% (skoncentrowany przecier pomidorowy* 32%, dynia piżmowa* 17%, marchew* 9%, cebula* 2%), woda UŻYTA do przygotowania, makaron* 20% (mąka z PSZENICY durum*, BIAŁKO JAJA* kurzego), wołowina* 8%, skrobia kukurydziana*, wysokooleinowy olej słonecznikowy*, mąka ryżowa*, bazylia*, czosnek w proszku*, *z rolnictwa ekologicznego
+#LInformacje Dot Stylu Zycia
+Bez dodatku soli, Organiczne
+#LDodatki
+Barwniki - Nie zawiera, Wzmacniacze smaku - Nie zawiera, konserwanty - Nie zawiera
+#LDolna Granica Wieku
+Zalecana - 8 miesiąc/miesiące/miesięcy
+#LZalecenia Dla Alergikow
+JAJA - Zawiera, PSZENICA - Zawiera
+#LPrzygotowanie I Stosowanie
+Przechowywanie i przygotowanie:, Przed otwarciem przechowuj w temperaturze pokojowej. Nie używaj, jeśli można wcisnąć środek wieczka. Odpowiednią ilość produktu przełóż do miseczki, używając plastikowej łyżeczki. Podgrzej w „kąpieli wodnej", delikatnie wymieszaj. Sprawdź temperaturę produktu. Pozostałą część przechowuj w zamkniętym słoiczku w lodówce, nie dłużej niż 48 godzin. Nie przechowuj i nie podawaj resztek produktu, który jadło dziecko. Przestrzegaj instrukcji właściwego przygotowania.
+#LAdres Producenta
+Nutricia Polska Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LAdres Zwrotny
+Nutricia Polska Sp. z o.o., ul. Bobrowiecka 8, 00-728 Warszawa,
+#LMiara
+190 g
+#LEAN
+5900852050978
+#PSokołów - Wołowina po tatarsku
+#Lprice
+10,44 ZŁ
+#LMasa
+Waga brutto - 235 g
+#LMarka
+Sokołów
+#LMarka Standaryzowana
+Sokołów
+#LNazwa Produktu Uregulowana Prawnie
+Wołowy surowy wyrób mięsny gotowy do spożycia
+#LPozostale Informacje
+Pakowano próżniowo,
+#LCechy
+doskonały smak sokołowskiej wołowiny
+#LRodzaj Opakowania
+Zgrzewane
+#LMasa Netto
+230 g
+#LSkladniki
+mięso wołowe (80%), woda, regulator kwasowości: mleczan sodu, sól, olej rzepakowy, błonnik grochowy, naturalne substancje aromatyczne, przeciwutleniacz: askorbinian sodu, glukoza, ekstrakt drożdżowy, aromat, substancja konserwująca: azotyn sodu
+#LZalecenia Dla Alergikow
+Zboża zawierające gluten - Może zawierać
+#LPrzechowywanie
+Przechowywać w temperaturze: od 0°C do +2°C.
+#LWarunki Przechowywania
+Min. temp. °C - 0, Maks. temp. °C - 2
+#LPrzepisy
+Przepisy kulinarne na www.sokolow.pl.
+#LAdres Producenta
+"SOKOŁÓW" S.A. Al. 550-lecia 1, 08-300 Sokołów Podlaski,
+#LAdres Zwrotny
+"SOKOŁÓW" S.A. Al. 550-lecia 1, 08-300 Sokołów Podlaski,
+#LMiara
+230 g
+#LEAN
+5900562478109
+#PAuchan - Karma dla psów z wołowiną
+#Lprice
+21,99 ZŁ
+#LMarka
+Produkt marki Auchan
+#LNazwa Produktu Uregulowana Prawnie
+Pełnoporcjowa karma dla dorosłych psów, sucha, z wołowiną
+#LOpis Produktu
+Receptura karmy zapewnia zaspokojenie potrzeb żywieniowych dorosłych psów średnich i dużych ras. Zawiera ona: - błonnik pokarmowy, który przyczynia się do prawidłowego funkcjonowania układu pokarmowego; - witamina E, która wspomaga układ odpornościowy; - substancje mineralne i witamina D dla mocnych kości i zdrowych zębów. Granulki karmy swoją strukturą przypominają mięso, co czyni je szczególnie apetyczne dla Waszego pupila. Postarać się wychodzić z psem na długie spacery lub pobawić się z nim przez parę chwil, aby połączyć ćwiczenia fizyczne ze wzmacnianiem łączącej Was więzi
+#LRodzaj Opakowania
+Opakowanie: worek
+#LPochodzenie
+Wyprodukowano we Francji
+#LJednostka Opisowa
+kg
+#LSkladniki
+ZBOŻA, mięso i produkty pochodzenia zwierzęcego (w tym wołowina, min. 4%), produkty pochodzenia roślinnego, cukry, oleje i tłuszcze, gliceryna, substancje mineralne, warzywa
+#LPrzechowywanie
+Podawać bez przetwarzania o temperaturze pokojowej
+#LWarunki Przechowywania
+Przed otwarciem: chronić przed wilgocią i wysoką temperaturą Po otwarciu: przechowywać w suchym i chłodnym miejscu, w szczelnie zamkniętym opakowaniu
+#LAdres Producenta
+EMB 49 180 B/FR 49 180 032
+#LAdres Dystrybutora
+200 rue de la Recherche 59650 – Villeneuve d’Ascq - France
+#LAdres Zwrotny
+Auchan Polska Sp. z o.o., ul. Puławska 46, 05-500 Piaseczno, Polska serwisklienta_polska@auchan.pl
+#LZawartosc Netto
+4kg
+#LUwagi Do Wartości Odżywczych
+Dodatki sensoryczne: Barwniki
+#LOznaczenia Specjalne
+Dodatki technologiczne: konserwanty, przeciwutleniacze
+#LEAN
+3254560015654
+#PPedigree - Karma dla psa z wołowiną
+#Lprice
+4,58 ZŁ
+#LMasa
+Waga brutto - 460 g
+#LMarka
+Pedigree
+#LMarka Standaryzowana
+Pedigree
+#LNazwa Produktu Uregulowana Prawnie
+Karma dla psa z wołowiną
+#LOpis Produktu
+Karma pełnoporcjowa dla dorosłych psów. Starasz się dawać swojemu psu wszystko, co najlepsze. Dbasz o jego specjalne żywienie, aby Twój przyjaciel był zdrowy i silny. Aby zapewnić swojemu czworonogowi ochronę przed chorobami i wysoką odpornoś ć, podaj mu Pedigree z wołowiną. Białko, kwasy tłuszczowe, witaminy i substancje mineralne zapewnią Twojemu psu zdrową, lśniącą sierść, mocne kości i zęby i dobre samopoczucie każdego dnia. Smak pysznego mięsnego dania przypadnie do gustu nawet najbardziej wybrednemu psu.
+#LPozostale Informacje
+Opracowane przez specjalistów ds. żywienia i lekarzy weterynarii w Waltham.
+#LCechy
+pełnia życia, łatwe do strawienia - naturalny błonnik ułatwiający trawienie, zdrowa skóra i sierść - wyselekcjonowane oleje zapewniające zdrową skórę i sierść, duża odporność organizmu - witamina E i minerały wspierające naturalny układ odpornościowy
+#LO Marce
+Łatwo rozpoznać szczęśliwego psa: codziennie jest pełen życia. Nasza formuła Pełnia Życia zapewnia mu pełnowartościowe pożywne i zbilansowane składniki, zawierające wszystko, czego pies potrzebuje. Nasze karmy zawierają mięso, możesz więc mieć pewność, że podając je swojemu psu, zapewniasz mu zdrowy posiłek, który smakuje i pachnie wyśmienicie. Wszystkie karmy Pedigree są zalecane prze Polskie Stowarzyszenie Dietetyków Weterynaryjnych,
+#LRodzaj Opakowania
+Puszka
+#LMasa Netto
+400 g
+#LJednostka Opisowa
+g
+#LSkladniki
+mięso i produkty pochodzenia zwierzęcego 45% (w tym 4% wołowiny), oleje i tłuszcze, produkty pochodzenia roślinnego, substancje mineralne
+#LInformacje O Recyklingu
+Opakowanie - Nadające się do recyklingu
+#LPrzygotowanie I Stosowanie
+Sposób karmienia, 5 kg Ilość puszek/dzień 1, 10 kg Ilość puszek/dzień 2, 20 kg Ilość puszek/dzień 3, 30 kg Ilość puszek/dzień 4, Mieszając karmę Pedigree Adult z karmą suchą Pedigree Complete, należy użyć tylko połowy zalecanych ilości każdego produktu. Indywidualne wymagania żywieniowe psa mogą różnić się od podanych w zależności od poziomu aktywności, rasy oraz wieku zwierzęcia. Dlatego można zmiejszyć lub zwiększyć ilość karmy, aby utrzymać psa w optymalnej kondycji. Większość psów potrzebuje trochę czasu, aby przyzwyczaić się do zmienionej diety. Pamiętaj, aby zapewnić zwierzęciu stały dostęp do świeżej wody do picia. Podawać o temperaturze pokojowej.
+#LAdres Producenta
+Mars Polska sp. z o.o. Kożuszki Parcel 42, 96-500 Sochaczew,
+#LAdres Zwrotny
+Mars Polska sp. z o.o. Kożuszki Parcel 42, 96-500 Sochaczew, 0 801 10 63 63, www.pedigree.pl,
+#LEAN
+5900951015830
+#PAnimonda - Karma dla dorosłych kotów wołowina i kurczak
+#Lprice
+3,79 ZŁ
+#LRozszerzona Nazwa Produktu
+Karma pełnoporcjowa dla starszych kotów
+#LMarka
+Animonda vom Feinsten
+#LNazwa Produktu Uregulowana Prawnie
+Animonda vom Feinsten z wołowiną Senior
+#LRodzaj Opakowania
+Opakowanie: aluminiowe
+#LPochodzenie
+Wyprodukowano w Niemczech
+#LJednostka Opisowa
+g
+#LSkladniki
+mięso i produkty pochodzenia zwierzęcego (63%): 25% wołowiny, kurczak, wieprzowina; minerały
+#LAdres Producenta
+Animonda Petcare gmbh, Frankfurter Straße 31, 49214 Bad Rothenfelde info@animonda.de
+#LAdres Dystrybutora
+Badis Sp. z o.o., ul. Kochanowskiego 14c/5, Warszawa, Polska biuro@badis.com.pl
+#LZawartosc Netto
+100 g
+#LEAN
+3505621287573
+#PAjinomoto - Oyakata danie instant japońska wołowina wasabi
+#Lprice
+3,68 ZŁ
+#PBoboVita - Ziemniaczki z wołowiną i szpinakiem po 8 miesiacu
+#Lprice
+4,37 ZŁ
+#LMasa
+Waga brutto - 322 g
+#LMarka
+BoboVita
+#LMarka Standaryzowana
+BoboVita
+#LMarka Producenta
+Nutricia
+#LNazwa Produktu Uregulowana Prawnie
+Obiadek dla niemowląt: Ziemniaczki z wołowiną i szpinakiem
+#LOpis Produktu
+spełnia rygorystyczne normy jakościowe dla najmłodszych*. bez konserwantów, barwników i wzmacniaczy smaku*. z warzywami gotowanymi na parze*. zbilansowany skład odpowiedni do wieku*. bez dodatku soli*. mięso od sprawdzonych dostawców*. *Produkt dla niemowląt i małych dzieci zawiera składniki skontrolowane pod kątem bezpieczeństwa dla niemowląt. Skład dostosowany do wieku. Zgodnie z przepisami prawa nie zawiera konserwantów, barwników i wzmacniaczy smaku.
+#LKraj Pochodzenia
+Kraj produkcji - Polska
+#LRodzaj Opakowania
+Słoik
+#LMasa Netto
+190 g
+#LPochodzenie
+Wyprodukowano w Polsce
+#LDodatkowe Informacje
+Bezglutenowy
+#LJednostka Opisowa
+g
+#LSkladniki
+warzywa 45% (ziemniaki 30%, szpinak 15%), woda użyta do przygotowania, mięso wołowe 8,5%, skrobia PSZENNA bezglutenowa, olej rzepakowy, MLEKO pełne w proszku
+#LOswiadczenia Zywieniowe
+bez dodatku soli.
+#LInformacje Dot Stylu Zycia
+Bez dodatku soli
+#LDodatki
+Barwniki - Nie zawiera, Wzmacniacze smaku - Nie zawiera, konserwanty - Nie zawiera
+#LInformacje O Recyklingu
+Opakowanie - Szkło - powszechnie recyklingowane
+#LDolna Granica Wieku
+Zalecana - 8 miesiąc/miesiące/miesięcy
+#LOstrzeżenia Dotyczące Bezpieczeństwa
+Nie używaj, jeśli można wcisnąć środek wieczka.
+#LZalecenia Dla Alergikow
+Gluten - Nie zawiera, Mleko - Zawiera, Pszenica - Zawiera
+#LPrzygotowanie I Stosowanie
+Przygotowanie i przechowywanie:, Odpowiednią ilość produktu przełóż do miseczki, używając plastikowej łyżeczki. Podgrzej w „kąpieli wodnej", delikatnie wymieszaj. Sprawdź temperaturę produktu. Pozostałą część przechowuj w zamkniętym słoiczku w lodówce, nie dłużej niż 48 godzin. Nie przechowuj resztek produktu, który jadło dziecko. Przestrzegaj instrukcji właściwego przygotowania. Przechowuj w temperaturze pokojowej.
+#LAdres Producenta
+Wyprodukowano dla, NUTRICIA Polska Sp. z o.o. ul. Bobrowiecka 8, 00-728 Warszawa,
+#LAdres Zwrotny
+NUTRICIA Polska Sp. z o.o. ul. Bobrowiecka 8, 00-728 Warszawa, Zapytaj Doradcę BoboVita, 801 16 55 55, www.bobovita.pl,
+#LO Producencie
+Certyfikowany producent ISO 22000.
+#LUwagi Do Wartości Odżywczych
+Zawartość soli wynika wyłącznie z naturalnej zawartości sodu.
+#LMiara
+190 g
+#LEAN
+5900852924651

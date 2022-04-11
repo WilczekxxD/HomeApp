@@ -26,7 +26,7 @@ import socket
 # socket info
 
 HEADER = 64
-PORT = 5051
+PORT = 5050
 FORMAT = 'utf-8'
 DISCONNECT_MESSAGE = "!DISCONNECT"
 SERVER = "192.168.1.72"
@@ -196,7 +196,6 @@ class ShoppingWindow(Screen):
 
         self.list_viewer.add_widget(scroll_layout)
 
-
     # def edit_quantity(self, instance):
     def increase_quantity(self, instance):
         # local info
@@ -325,11 +324,11 @@ class ShoppingWindow(Screen):
                     if len(self.new_name_input.text) < 200:
                         for letter in self.new_name_input.text:
                             if letter in "1234567890][{};:.,<>?/`~!@#$%^&*()_+\=|'":
-                                self.new_name_input.text = "nazwa produktu może składać się z liter i '-'"
+                                self.new_name_input.text = "product name should include only letters and '-'"
                                 error = True
                                 break
                     elif len(self.new_name_input.text)>200:
-                        self.new_name_input.text = "za długa nazwa"
+                        self.new_name_input.text = "to long"
                     if not error:
                         # adding it on the server
                         snd("s01")
@@ -339,7 +338,7 @@ class ShoppingWindow(Screen):
                         self.refresh()
 
                 except ValueError:
-                    self.quantity_input.text = "ilość prosze wyrazić w liczbach"
+                    self.quantity_input.text = "the quantity should be a number"
             else:
                 self.opener.background_color = (0.6, 0, 0, 1)
 
@@ -354,7 +353,6 @@ class ShoppingWindow(Screen):
                             halign="center",
                             text_size=(Window.width * 0.4, Window.height * 0.6),
                             pos_hint={"x": 0.005, "y": 0.5})
-
 
         # dissmiss & confirm
         back = self.DeleteProductButton(size_hint=(0.4625, 0.2),
@@ -488,7 +486,6 @@ class FinalListWindow(Screen):
             for index, suggestions in enumerate(converted_list):
                 suggestions = suggestions.split(";")
                 best = suggestions[0].split(":")
-                print(best)
 
                 # product name label
                 # col 0
@@ -512,7 +509,8 @@ class FinalListWindow(Screen):
                 # quantity inside a separate float layout becouse thats the way to put more than one widget in one box
                 # col3
                 quantity_layout = FloatLayout()
-                quantity = best[2]
+                # quantity = best[2]
+                quantity = 5
                 label = Label(text=f'[ref=quantity]{quantity}[/ref] szt.',
                               markup=True,
                               pos_hint={'x': 0.05, 'y': 0.025},
@@ -563,7 +561,7 @@ class FinalListWindow(Screen):
         # instead of deleting whole product class deletes only single suggestions
         index = instance.__getattribute__("Pindex")
 
-        converted_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+        converted_list_path = os.path.join(os.getcwd(), "final_list.txt")
         converted_list_file = open(converted_list_path, "r")
         converted_list = converted_list_file.readlines()
 
@@ -573,7 +571,7 @@ class FinalListWindow(Screen):
         converted_list_file.close()
 
         # writing it down
-        final_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+        final_list_path = os.path.join(os.getcwd(), "final_list.txt")
         final_list_file = open(final_list_path, "w")
         for product in converted_list:
             final_list_file.write(product)
@@ -583,7 +581,7 @@ class FinalListWindow(Screen):
 
     def increase_quantity(self, instance):
         # local final list
-        converted_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+        converted_list_path = os.path.join(os.getcwd(), "final_list.txt")
         converted_list_file = open(converted_list_path, "r")
         converted_list = converted_list_file.readlines()
         converted_list_file.close()
@@ -599,7 +597,7 @@ class FinalListWindow(Screen):
         converted_list[instance.index] = suggestions
 
         # updating converted list locally
-        final_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+        final_list_path = os.path.join(os.getcwd(), "final_list.txt")
         print(final_list_path)
         final_list_file = open(final_list_path, "w")
         for product in converted_list:
@@ -612,7 +610,7 @@ class FinalListWindow(Screen):
         # local info
         if instance.quantity > 0:
             # local final list
-            converted_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+            converted_list_path = os.path.join(os.getcwd(), "final_list.txt")
             converted_list_file = open(converted_list_path, "r")
             converted_list = converted_list_file.readlines()
             converted_list_file.close()
@@ -628,7 +626,7 @@ class FinalListWindow(Screen):
             converted_list[instance.index] = suggestions
 
             # updating converted list locally
-            final_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+            final_list_path = os.path.join(os.getcwd(), "final_list.txt")
             final_list_file = open(final_list_path, "w")
             for suggestions in converted_list:
                 final_list_file.write(suggestions)
@@ -638,7 +636,7 @@ class FinalListWindow(Screen):
     def show_info(self, instance):
         index = instance.Pindex
 
-        converted_list_path = os.path.join(os.getcwd(), "client", "final_list.txt")
+        converted_list_path = os.path.join(os.getcwd(), "final_list.txt")
         converted_list_file = open(converted_list_path, "r")
         converted_list = converted_list_file.readlines()
         converted_list_file.close()
@@ -881,6 +879,9 @@ class RegisterWindow(Screen):
 class InviteWindow(Screen):
 
     def on_enter(self):
+        self.gcode.text = ""
+        self.ghomeIP.text = ""
+        self.feedback.text = ""
         self.refresh()
         rf = threading.Thread(target=self.refresh_continuously)
         rf.start()
@@ -888,9 +889,10 @@ class InviteWindow(Screen):
     def on_leave(self, *args):
         self.gcode.text = ""
         self.ghomeIP.text = ""
+        self.feedback.text = ""
 
     def refresh(self):
-        #local info
+        # local info
         local_f = open(local_dir, "r")
         lines = local_f.readlines()
         current = lines[3][8:-1]
@@ -948,7 +950,7 @@ class InviteWindow(Screen):
             self.code_viewer.add_widget(scroll_layout)
 
     def redeem_code(self):
-        # TODO adding a popup window announcing that one has been added would hel visualy
+        # TODO adding a popup window announcing that one has been added would help visualy
         # TODO the success is just not visible enough
         self.feedback.text = "pending"
         if self.gcode.text != "" and self.ghomeIP.text != "":

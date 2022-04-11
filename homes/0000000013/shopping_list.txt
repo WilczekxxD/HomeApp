@@ -1,1 +1,1 @@
-banany:10:szt.;kukurydza:10:szt.;
+ser:10:szt.;sok:1000:g.;

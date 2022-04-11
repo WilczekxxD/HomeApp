@@ -29,7 +29,7 @@ class Database:
             driver = webdriver.Chrome(Path)
             driver.get(self.addr)
             for product in list:
-                #opening file
+                # opening file
                 file_name = self.file+"/" + product + ".txt"
                 f = open(file_name, "a", encoding='utf-8')
                 clean_file(file_name)
@@ -38,7 +38,6 @@ class Database:
                 search = driver.find_element_by_class_name(search_box_class)
                 search.send_keys(product)
                 product_box_class = "product-box_content"
-                driver.maximize_window()
                 time.sleep(10)
                 pList = driver.find_elements_by_class_name(product_box_class)
                 addrlist = []
@@ -126,6 +125,9 @@ class Database:
                 time.sleep(1.5)
                 consent = driver.find_element_by_id("onetrust-reject-all-handler")
                 consent.click()
+                time.sleep(5)
+                close_button = driver.find_element_by_class_name("_1fGx")
+                close_button.click()
                 search = driver.find_element_by_class_name("_12bN")
                 search.send_keys(produckt)
                 search.send_keys(Keys.RETURN)
@@ -133,35 +135,44 @@ class Database:
 
                 displays = driver.find_elements_by_class_name("_33Dr")
                 href_list = []
-                print(displays)
                 for display in displays:
                     href_list.append(display.get_attribute("href"))
 
                 for addr in href_list:
 
-                    produckt_driver = webdriver.Chrome(Path)
-                    produckt_driver.get(addr)
+                    product_driver = webdriver.Chrome(Path)
+                    product_driver.get(addr)
 
-                    time.sleep(1)
+                    time.sleep(2)
+                    consent = product_driver.find_element_by_id("onetrust-reject-all-handler")
+                    consent.click()
+                    time.sleep(5)
+                    close_button = product_driver.find_element_by_class_name("_1fGx")
+                    close_button.click()
                     name = ""
 
-                    name = name + produckt_driver.find_element_by_xpath("//*[@id='productDetails']/div/div[1]/div/div[1]/h1").text
+                    name = name + product_driver.find_element_by_xpath("//*[@id='productDetails']/div/div[1]/div/div[1]/h1").text
                     f.write("#P" + name + "\n")
 
-                    price = produckt_driver.find_element_by_class_name("_1zsk").text
+                    price = product_driver.find_element_by_class_name("_1zsk").text
                     f.write("#L" + "price" + "\n" + price + "\n")
 
-                    section_box = produckt_driver.find_element_by_class_name("_1TPn")
-                    sections = section_box.find_elements_by_xpath("//*[@id='container']/div[2]/div/div/div[2]/div[4]/div/div/div[2]/div[1]/div/div/div")
-                    print(f"sections {sections}")
-                    for x, section in enumerate(sections):
-                        x = str(x +1)
-                        label = section.find_element_by_class_name("_238Y").text
-                        f.write("#L" + label + "\n")
-                        description = section.find_element_by_xpath(f"//*[@id='container']/div[2]/div/div/div[2]/div[4]/div/div/div[2]/div[1]/div/div/div[{x}]/div[2]").text
-                        f.write(description + "\n")
+                    try:
+                        section_box = product_driver.find_element_by_class_name("_1TPn")
+                        # sections = section_box.find_elements_by_xpath("//*[@id='container']/div[2]/div/div/div[2]/div[4]/div/div/div[2]/div[1]/div/div/div")
+                        sections = section_box.find_elements_by_class_name("_2UAB")
+                        for x, section in enumerate(sections):
+                            x = str(x + 1)
+                            label = section.find_element_by_class_name("_238Y").text
+                            f.write("#L" + label + "\n")
+                            description = section.find_element_by_xpath(f"//*[@id='container']/div[2]/div/div/div[2]/div[3]/div/div/div[2]/div[1]/div/div/div[{x}]/div[2]")
+                            # print(description.get_property('attributes'))
+                            description = description.text
+                            f.write(description + "\n")
+                    except:
+                        pass
 
-                    produckt_driver.quit()
+                    product_driver.quit()
                 f.close()
             driver.quit()
 
