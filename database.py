@@ -267,8 +267,6 @@ class Database:
                     f.close()
             return descriptions
 
-        def get_product_price_mass(self, product):
-
         def get_product_description_price(self, product):
             # returns description, price, name array
 
