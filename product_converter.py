@@ -104,6 +104,8 @@ def load_products(homeIP):
         item_descriptions = dtb.auchan.get_product_description_price(item)[1:]
         print(f"item_description: {item_descriptions}")
         if len(item_descriptions) != 0:
+            for description in item_descriptions:
+                description.append(str(x))
             descriptions.append(item_descriptions)
         else:
             return f"error;{item};{x}"
@@ -127,14 +129,14 @@ def convert(homeIP):
         names = [description[1] for description in product]
         # todo it looks odd to look for prices in description so it should be re factorised
         prices = [description[2] for description in product]
-        # indexes = [description[-1] for description in product]
+        indexes = [description[-1] for description in product]
 
         scores = get_scores(homeIP, descriptions)
 
         # combining scores and names of products
         combined = []
         for x in range(len(names)):
-            combined.append([names[x], prices[x], str(scores[x])])
+            combined.append([names[x], prices[x], indexes[x], str(scores[x])])
         combined.sort(key=my_key)
         suggestions.append(combined)
 

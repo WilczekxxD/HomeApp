@@ -510,8 +510,7 @@ class FinalListWindow(Screen):
                 # quantity inside a separate float layout becouse thats the way to put more than one widget in one box
                 # col3
                 quantity_layout = FloatLayout()
-                # quantity = best[2]
-                quantity = 5
+                quantity = best[2]
                 label = Label(text=f'[ref=quantity]{quantity}[/ref] szt.',
                               markup=True,
                               pos_hint={'x': 0.05, 'y': 0.025},
