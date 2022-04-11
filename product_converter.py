@@ -136,7 +136,7 @@ def convert(homeIP):
         # combining scores and names of products
         combined = []
         for x in range(len(names)):
-            combined.append([names[x], prices[x], indexes[x], str(scores[x])])
+            combined.append([names[x], prices[x], "5", indexes[x], str(scores[x])])
         combined.sort(key=my_key)
         suggestions.append(combined)
 

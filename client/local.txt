@@ -1,4 +1,4 @@
 email:test4
 pass:test4
 remember:1
-current:0000000022
+current:0
